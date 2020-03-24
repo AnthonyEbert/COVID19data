@@ -4,4 +4,4 @@ hubei = all_countries %>% filter(Country.Region == "China", Province.State == "H
     susc_not_ill = 59.02e6 - confirmed
   )
 
-write.csv(hubei, "data-raw/hubei.csv")
+readr::write_csv(hubei, "data-raw/hubei_all.csv")

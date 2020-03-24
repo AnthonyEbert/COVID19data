@@ -2,9 +2,9 @@
 italy <- all_countries %>%
   filter(Country.Region == "Italy", Province.State == "total")
 
-write.csv(italy, "data-raw/italy.csv")
+readr::write_csv(italy, "data-raw/italy_all.csv")
 
 lombardy <- all_countries %>%
   filter(Country.Region == "Italy", Province.State == "Lombardia")
 
-write.csv(lombardy, "data-raw/lombardy.csv")
+readr::write_csv(lombardy, "data-raw/lombardy_all.csv")
