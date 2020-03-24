@@ -89,13 +89,6 @@ nhc_hubei <- getURL("https://docs.google.com/spreadsheets/d/1l56Y78OszeS3X05t_yU
 
 all_countries <- left_join_fill(all_countries, nhc_hubei, by = c("Country.Region", "Province.State", "date"))
 
+write.csv(all_countries, "all_countries.csv")
 
-
-
-
-
-
-
-
-
-
+usethis::use_data(all_countries)
