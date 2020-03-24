@@ -23,6 +23,7 @@ italy = readr::read_csv("https://raw.githubusercontent.com/pcm-dpc/COVID-19/mast
     Province.State = denominazione_regione,
     hospitalized_intensive = terapia_intensiva,
     hospitalized_symptoms = ricoverati_con_sintomi,
+    isolated_at_home = isolamento_domiciliare,
     tested = tamponi,
     confirmed = totale_casi,
     recovered = dimessi_guariti,
@@ -59,7 +60,7 @@ all_countries <- left_join_fill(all_countries , china, by = c("Country.Region", 
 
 ## NHC -------------
 
-nhc_china <- getURL("https://docs.google.com/spreadsheets/d/1qniOeebfqKTMrLT8hCyR37IJVSfefZH5lhdZwkpTN-c/export?format=csv",.opts=list(ssl.verifypeer=FALSE)) %>%
+nhc_china <- RCurl::getURL("https://docs.google.com/spreadsheets/d/1qniOeebfqKTMrLT8hCyR37IJVSfefZH5lhdZwkpTN-c/export?format=csv",.opts=list(ssl.verifypeer=FALSE)) %>%
   textConnection() %>%
   read.csv() %>%
   mutate(
@@ -70,7 +71,7 @@ nhc_china <- getURL("https://docs.google.com/spreadsheets/d/1qniOeebfqKTMrLT8hCy
 
 all_countries <- left_join_fill(all_countries, nhc_china, by = c("Country.Region", "Province.State", "date"))
 
-nhc_hubei <- getURL("https://docs.google.com/spreadsheets/d/1l56Y78OszeS3X05t_yUA9nLLQpVuAGPRLqWSrZF-tz8/export?format=csv",.opts=list(ssl.verifypeer=FALSE)) %>%
+nhc_hubei <- RCurl::getURL("https://docs.google.com/spreadsheets/d/1l56Y78OszeS3X05t_yUA9nLLQpVuAGPRLqWSrZF-tz8/export?format=csv",.opts=list(ssl.verifypeer=FALSE)) %>%
   textConnection() %>%
   read.csv() %>%
   mutate(
@@ -87,8 +88,9 @@ nhc_hubei <- getURL("https://docs.google.com/spreadsheets/d/1l56Y78OszeS3X05t_yU
     suspected
   )
 
-all_countries <- left_join_fill(all_countries, nhc_hubei, by = c("Country.Region", "Province.State", "date"))
+all_countries <- left_join_fill(all_countries, nhc_hubei, by = c("Country.Region", "Province.State", "date")) %>%
+  mutate(active = confirmed - recovered - deaths)
 
 readr::write_csv(all_countries, "data-raw/all_countries.csv")
 
-usethis::use_data(all_countries)
+usethis::use_data(all_countries, overwrite = TRUE)
