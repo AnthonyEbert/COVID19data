@@ -88,7 +88,7 @@ nhc_hubei <- RCurl::getURL("https://docs.google.com/spreadsheets/d/1l56Y78OszeS3
     suspected
   )
 
-all_countries <- left_join_fill(all_countries, nhc_hubei, by = c("Country.Region", "Province.State", "date")) %>%
+covid19_complete <- left_join_fill(all_countries, nhc_hubei, by = c("Country.Region", "Province.State", "date")) %>%
   mutate(active = confirmed - recovered - deaths)
 
 ## Switzerland -------------------
@@ -108,6 +108,28 @@ all_countries <- left_join_fill(all_countries, nhc_hubei, by = c("Country.Region
 #   select(-Date) %>%
 #   tidyr::gather(Province.State,confirmed,-date)
 
-readr::write_csv(all_countries, "data-raw/all_countries.csv")
+readr::write_csv(covid19_complete, "data-raw/covid19_complete.csv")
 
-usethis::use_data(all_countries, overwrite = TRUE)
+usethis::use_data(covid19_complete, overwrite = TRUE)
+
+# Check data -------------------
+
+# Check that confirmed, recovered and deaths are all non-decreasing
+
+covid19_issorted <- covid19_complete %>%
+  group_by(Country.Region, Province.State) %>%
+  arrange(date) %>%
+  summarise(confirmed_sorted = !is.unsorted(confirmed), recovered_sorted = !is.unsorted(recovered), deaths_sorted = !is.unsorted(deaths))
+
+write.csv(covid19_issorted, "data-raw/covid19_is-sorted.csv")
+
+covid19_sorted <- covid19_complete %>%
+  group_by(Country.Region, Province.State) %>%
+  arrange(date) %>%
+  mutate(confirmed = cummax(confirmed), recovered = cummax(recovered), deaths = cummax(deaths)) %>%
+  mutate(active = confirmed - recovered - deaths)
+
+readr::write_csv(covid19_sorted, "data-raw/covid19_sorted.csv")
+
+usethis::use_data(covid19_sorted, overwrite = TRUE)
+
