@@ -13,7 +13,7 @@ deaths = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/mas
 
 john_hopkins <- left_join(confirmed, recovered) %>% left_join(deaths) %>%
   mutate(Province.State = forcats::fct_recode(Province.State, total = "")) %>%
-  filter(!(Country.Region %in% c("Italy", "Switzerland")))
+  filter(!(Country.Region %in% c("Italy")))
 
 # Add Italian data --------------------
 
@@ -90,6 +90,23 @@ nhc_hubei <- RCurl::getURL("https://docs.google.com/spreadsheets/d/1l56Y78OszeS3
 
 all_countries <- left_join_fill(all_countries, nhc_hubei, by = c("Country.Region", "Province.State", "date")) %>%
   mutate(active = confirmed - recovered - deaths)
+
+## Switzerland -------------------
+
+# switzerland_confirmed <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland_openzh.csv") %>%
+#   mutate(date = lubridate::as_date(Date)) %>%
+#   select(-Date) %>%
+#   tidyr::gather(Province.State,confirmed,-date)
+#
+# switzerland_confirmed <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland_openzh.csv") %>%
+#   mutate(date = lubridate::as_date(Date)) %>%
+#   select(-Date) %>%
+#   tidyr::gather(Province.State,confirmed,-date)
+#
+# switzerland_confirmed <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland_openzh.csv") %>%
+#   mutate(date = lubridate::as_date(Date)) %>%
+#   select(-Date) %>%
+#   tidyr::gather(Province.State,confirmed,-date)
 
 readr::write_csv(all_countries, "data-raw/all_countries.csv")
 
