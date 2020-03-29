@@ -93,20 +93,39 @@ covid19_complete <- left_join_fill(all_countries, nhc_hubei, by = c("Country.Reg
 
 ## Switzerland -------------------
 
-# switzerland_confirmed <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland_openzh.csv") %>%
-#   mutate(date = lubridate::as_date(Date)) %>%
-#   select(-Date) %>%
-#   tidyr::gather(Province.State,confirmed,-date)
-#
-# switzerland_confirmed <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland_openzh.csv") %>%
-#   mutate(date = lubridate::as_date(Date)) %>%
-#   select(-Date) %>%
-#   tidyr::gather(Province.State,confirmed,-date)
-#
-# switzerland_confirmed <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland_openzh.csv") %>%
-#   mutate(date = lubridate::as_date(Date)) %>%
-#   select(-Date) %>%
-#   tidyr::gather(Province.State,confirmed,-date)
+switzerland_confirmed <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland_openzh.csv") %>%
+  mutate(date = lubridate::as_date(Date)) %>%
+  select(-Date) %>%
+  tidyr::gather(Province.State,confirmed,-date)
+
+switzerland_recoveries <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_released_switzerland_openzh.csv") %>%
+  mutate(date = lubridate::as_date(Date)) %>%
+  select(-Date) %>%
+  tidyr::gather(Province.State,recoveries,-date)
+
+switzerland_deaths <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_fatalities_switzerland_openzh.csv") %>%
+  mutate(date = lubridate::as_date(Date)) %>%
+  select(-Date) %>%
+  tidyr::gather(Province.State,deaths,-date)
+
+switzerland_hospitalized_symptoms <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_hospitalized_switzerland_openzh.csv")%>%
+  mutate(date = lubridate::as_date(Date)) %>%
+  select(-Date) %>%
+  tidyr::gather(Province.State,hospitalized_symptoms,-date)
+
+switzerland_hospitalized_intensive <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_icu_switzerland_openzh.csv")%>%
+  mutate(date = lubridate::as_date(Date)) %>%
+  select(-Date) %>%
+  tidyr::gather(Province.State,hospitalized_intensive,-date)
+
+switzerland <- left_join(switzerland_confirmed, switzerland_recoveries) %>%
+  left_join(switzerland_deaths) %>%
+  left_join(switzerland_hospitalized_symptoms) %>%
+  left_join(switzerland_hospitalized_intensive) %>%
+  mutate(hospitalized_symptoms = hospitalized_symptoms - hospitalized_intensive) %>%
+  mutate(Country.Region = "Switzerland")
+
+covid19_complete <- dplyr::bind_rows(covid19_complete, switzerland)
 
 readr::write_csv(covid19_complete, "data-raw/covid19_complete.csv")
 
@@ -126,7 +145,7 @@ write.csv(covid19_issorted, "data-raw/covid19_is-sorted.csv")
 covid19_sorted <- covid19_complete %>%
   group_by(Country.Region, Province.State) %>%
   arrange(date) %>%
-  mutate(confirmed = cummax(confirmed), recovered = cummax(recovered), deaths = cummax(deaths)) %>%
+  mutate(confirmed = cummax(NA0(confirmed)), recovered = cummax(NA0(recovered)), deaths = cummax(NA0(deaths))) %>%
   mutate(active = confirmed - recovered - deaths)
 
 readr::write_csv(covid19_sorted, "data-raw/covid19_sorted.csv")
