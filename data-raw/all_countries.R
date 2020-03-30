@@ -101,7 +101,7 @@ switzerland_confirmed <- read.csv("https://raw.githubusercontent.com/daenuprobst
 switzerland_recoveries <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_released_switzerland_openzh.csv") %>%
   mutate(date = lubridate::as_date(Date)) %>%
   select(-Date) %>%
-  tidyr::gather(Province.State,recoveries,-date)
+  tidyr::gather(Province.State,recovered,-date)
 
 switzerland_deaths <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_fatalities_switzerland_openzh.csv") %>%
   mutate(date = lubridate::as_date(Date)) %>%
