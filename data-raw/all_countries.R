@@ -140,7 +140,7 @@ covid19_issorted <- covid19_complete %>%
   arrange(date) %>%
   summarise(confirmed_sorted = !is.unsorted(confirmed), recovered_sorted = !is.unsorted(recovered), deaths_sorted = !is.unsorted(deaths))
 
-write.csv(covid19_issorted, "data-raw/covid19_is-sorted.csv")
+readr::write_csv(covid19_issorted, "data-raw/covid19_is-sorted.csv")
 
 covid19_sorted <- covid19_complete %>%
   group_by(Country.Region, Province.State) %>%

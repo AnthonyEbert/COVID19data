@@ -1,305 +1,305 @@
-"","Country.Region","Province.State","confirmed_sorted","recovered_sorted","deaths_sorted"
-"1","Afghanistan","total",TRUE,TRUE,TRUE
-"2","Albania","total",TRUE,TRUE,TRUE
-"3","Algeria","total",TRUE,FALSE,TRUE
-"4","Andorra","total",TRUE,FALSE,TRUE
-"5","Angola","total",TRUE,TRUE,TRUE
-"6","Antigua and Barbuda","total",TRUE,TRUE,TRUE
-"7","Argentina","total",TRUE,TRUE,TRUE
-"8","Armenia","total",TRUE,TRUE,TRUE
-"9","Australia","Australian Capital Territory",TRUE,TRUE,TRUE
-"10","Australia","New South Wales",TRUE,TRUE,TRUE
-"11","Australia","Northern Territory",FALSE,TRUE,TRUE
-"12","Australia","Queensland",FALSE,TRUE,TRUE
-"13","Australia","South Australia",TRUE,TRUE,TRUE
-"14","Australia","Tasmania",TRUE,TRUE,TRUE
-"15","Australia","total",TRUE,TRUE,TRUE
-"16","Australia","Victoria",TRUE,TRUE,TRUE
-"17","Australia","Western Australia",TRUE,TRUE,TRUE
-"18","Austria","total",TRUE,FALSE,TRUE
-"19","Azerbaijan","total",TRUE,FALSE,TRUE
-"20","Bahamas","total",TRUE,TRUE,TRUE
-"21","Bahrain","total",TRUE,TRUE,TRUE
-"22","Bangladesh","total",TRUE,TRUE,TRUE
-"23","Barbados","total",TRUE,TRUE,TRUE
-"24","Belarus","total",TRUE,TRUE,TRUE
-"25","Belgium","total",TRUE,FALSE,TRUE
-"26","Belize","total",TRUE,TRUE,TRUE
-"27","Benin","total",TRUE,TRUE,TRUE
-"28","Bhutan","total",TRUE,TRUE,TRUE
-"29","Bolivia","total",TRUE,TRUE,TRUE
-"30","Bosnia and Herzegovina","total",TRUE,TRUE,TRUE
-"31","Brazil","total",TRUE,TRUE,TRUE
-"32","Brunei","total",TRUE,TRUE,TRUE
-"33","Bulgaria","total",TRUE,TRUE,TRUE
-"34","Burkina Faso","total",TRUE,TRUE,TRUE
-"35","Burma","total",TRUE,TRUE,TRUE
-"36","Cabo Verde","total",TRUE,TRUE,TRUE
-"37","Cambodia","total",TRUE,TRUE,TRUE
-"38","Cameroon","total",TRUE,TRUE,TRUE
-"39","Canada","Alberta",FALSE,NA,TRUE
-"40","Canada","British Columbia",TRUE,NA,TRUE
-"41","Canada","Diamond Princess",TRUE,NA,TRUE
-"42","Canada","Grand Princess",TRUE,NA,TRUE
-"43","Canada","Manitoba",TRUE,NA,TRUE
-"44","Canada","New Brunswick",TRUE,NA,TRUE
-"45","Canada","Newfoundland and Labrador",TRUE,NA,TRUE
-"46","Canada","Northwest Territories",TRUE,NA,TRUE
-"47","Canada","Nova Scotia",TRUE,NA,TRUE
-"48","Canada","Ontario",TRUE,NA,TRUE
-"49","Canada","Prince Edward Island",TRUE,NA,TRUE
-"50","Canada","Quebec",TRUE,NA,FALSE
-"51","Canada","Recovered",TRUE,NA,TRUE
-"52","Canada","Saskatchewan",TRUE,NA,TRUE
-"53","Canada","total",TRUE,NA,TRUE
-"54","Canada","Yukon",TRUE,NA,TRUE
-"55","Central African Republic","total",TRUE,TRUE,TRUE
-"56","Chad","total",TRUE,TRUE,TRUE
-"57","Chile","total",TRUE,TRUE,TRUE
-"58","China","Anhui",TRUE,TRUE,TRUE
-"59","China","Beijing",TRUE,TRUE,TRUE
-"60","China","Chongqing",TRUE,TRUE,TRUE
-"61","China","Fujian",TRUE,TRUE,TRUE
-"62","China","Gansu",TRUE,TRUE,TRUE
-"63","China","Guangdong",TRUE,TRUE,TRUE
-"64","China","Guangxi",TRUE,FALSE,TRUE
-"65","China","Guizhou",FALSE,FALSE,TRUE
-"66","China","Hainan",TRUE,FALSE,TRUE
-"67","China","Hebei",TRUE,TRUE,TRUE
-"68","China","Heilongjiang",TRUE,FALSE,TRUE
-"69","China","Henan",TRUE,TRUE,TRUE
-"70","China","Hong Kong",TRUE,FALSE,TRUE
-"71","China","Hubei",TRUE,TRUE,TRUE
-"72","China","Hunan",TRUE,TRUE,TRUE
-"73","China","Inner Mongolia",TRUE,TRUE,TRUE
-"74","China","Jiangsu",TRUE,TRUE,TRUE
-"75","China","Jiangxi",TRUE,TRUE,TRUE
-"76","China","Jilin",TRUE,TRUE,TRUE
-"77","China","Liaoning",TRUE,TRUE,TRUE
-"78","China","Macau",TRUE,TRUE,TRUE
-"79","China","Ningxia",TRUE,FALSE,TRUE
-"80","China","Qinghai",TRUE,TRUE,TRUE
-"81","China","Shaanxi",TRUE,TRUE,TRUE
-"82","China","Shandong",TRUE,TRUE,TRUE
-"83","China","Shanghai",TRUE,TRUE,TRUE
-"84","China","Shanxi",TRUE,FALSE,TRUE
-"85","China","Sichuan",TRUE,TRUE,TRUE
-"86","China","Tianjin",TRUE,TRUE,TRUE
-"87","China","Tibet",TRUE,TRUE,TRUE
-"88","China","total",TRUE,TRUE,TRUE
-"89","China","Xinjiang",TRUE,TRUE,TRUE
-"90","China","Yunnan",TRUE,TRUE,TRUE
-"91","China","Zhejiang",TRUE,TRUE,TRUE
-"92","Colombia","total",TRUE,TRUE,TRUE
-"93","Congo (Brazzaville)","total",TRUE,TRUE,TRUE
-"94","Congo (Kinshasa)","total",TRUE,TRUE,TRUE
-"95","Costa Rica","total",TRUE,TRUE,TRUE
-"96","Cote d'Ivoire","total",TRUE,TRUE,TRUE
-"97","Croatia","total",TRUE,TRUE,TRUE
-"98","Cuba","total",TRUE,TRUE,TRUE
-"99","Cyprus","total",TRUE,TRUE,TRUE
-"100","Czechia","total",TRUE,TRUE,TRUE
-"101","Denmark","Faroe Islands",TRUE,TRUE,TRUE
-"102","Denmark","Greenland",TRUE,TRUE,TRUE
-"103","Denmark","total",FALSE,FALSE,FALSE
-"104","Diamond Princess","total",TRUE,FALSE,TRUE
-"105","Djibouti","total",TRUE,TRUE,TRUE
-"106","Dominica","total",TRUE,TRUE,TRUE
-"107","Dominican Republic","total",TRUE,TRUE,TRUE
-"108","Ecuador","total",TRUE,TRUE,TRUE
-"109","Egypt","total",TRUE,FALSE,TRUE
-"110","El Salvador","total",TRUE,TRUE,TRUE
-"111","Equatorial Guinea","total",TRUE,TRUE,TRUE
-"112","Eritrea","total",TRUE,TRUE,TRUE
-"113","Estonia","total",TRUE,TRUE,TRUE
-"114","Eswatini","total",TRUE,TRUE,TRUE
-"115","Ethiopia","total",TRUE,FALSE,TRUE
-"116","Fiji","total",TRUE,TRUE,TRUE
-"117","Finland","total",TRUE,TRUE,TRUE
-"118","France","French Guiana",TRUE,TRUE,TRUE
-"119","France","French Polynesia",TRUE,TRUE,TRUE
-"120","France","Guadeloupe",TRUE,TRUE,TRUE
-"121","France","Martinique",TRUE,TRUE,TRUE
-"122","France","Mayotte",TRUE,TRUE,TRUE
-"123","France","New Caledonia",TRUE,TRUE,TRUE
-"124","France","Reunion",TRUE,TRUE,TRUE
-"125","France","Saint Barthelemy",FALSE,TRUE,TRUE
-"126","France","St Martin",TRUE,TRUE,TRUE
-"127","France","total",FALSE,FALSE,FALSE
-"128","Gabon","total",TRUE,TRUE,TRUE
-"129","Gambia","total",TRUE,TRUE,TRUE
-"130","Georgia","total",TRUE,TRUE,TRUE
-"131","Germany","total",TRUE,TRUE,TRUE
-"132","Ghana","total",TRUE,TRUE,TRUE
-"133","Greece","total",TRUE,TRUE,TRUE
-"134","Grenada","total",TRUE,TRUE,TRUE
-"135","Guatemala","total",TRUE,TRUE,TRUE
-"136","Guinea","total",TRUE,TRUE,TRUE
-"137","Guinea-Bissau","total",TRUE,TRUE,TRUE
-"138","Guyana","total",FALSE,TRUE,TRUE
-"139","Haiti","total",TRUE,TRUE,TRUE
-"140","Holy See","total",TRUE,TRUE,TRUE
-"141","Honduras","total",TRUE,TRUE,TRUE
-"142","Hungary","total",TRUE,TRUE,TRUE
-"143","Iceland","total",TRUE,FALSE,FALSE
-"144","India","total",TRUE,TRUE,FALSE
-"145","Indonesia","total",TRUE,TRUE,TRUE
-"146","Iran","total",TRUE,TRUE,TRUE
-"147","Iraq","total",TRUE,TRUE,TRUE
-"148","Ireland","total",TRUE,TRUE,TRUE
-"149","Israel","total",TRUE,TRUE,TRUE
-"150","Italy","Abruzzo",TRUE,TRUE,TRUE
-"151","Italy","Basilicata",TRUE,TRUE,TRUE
-"152","Italy","Calabria",TRUE,FALSE,FALSE
-"153","Italy","Campania",TRUE,FALSE,TRUE
-"154","Italy","Emilia Romagna",TRUE,TRUE,TRUE
-"155","Italy","Friuli Venezia Giulia",TRUE,FALSE,TRUE
-"156","Italy","Lazio",TRUE,TRUE,TRUE
-"157","Italy","Liguria",FALSE,FALSE,TRUE
-"158","Italy","Lombardia",TRUE,TRUE,TRUE
-"159","Italy","Marche",TRUE,TRUE,TRUE
-"160","Italy","Molise",TRUE,TRUE,TRUE
-"161","Italy","P.A. Bolzano",TRUE,TRUE,TRUE
-"162","Italy","P.A. Trento",TRUE,TRUE,TRUE
-"163","Italy","Piemonte",FALSE,TRUE,TRUE
-"164","Italy","Puglia",TRUE,FALSE,TRUE
-"165","Italy","Sardegna",TRUE,TRUE,TRUE
-"166","Italy","Sicilia",FALSE,TRUE,TRUE
-"167","Italy","Toscana",TRUE,TRUE,TRUE
-"168","Italy","total",TRUE,TRUE,TRUE
-"169","Italy","Umbria",TRUE,TRUE,TRUE
-"170","Italy","Valle d'Aosta",TRUE,TRUE,TRUE
-"171","Italy","Veneto",TRUE,TRUE,TRUE
-"172","Jamaica","total",TRUE,TRUE,TRUE
-"173","Japan","total",TRUE,TRUE,TRUE
-"174","Jordan","total",TRUE,TRUE,TRUE
-"175","Kazakhstan","total",TRUE,TRUE,FALSE
-"176","Kenya","total",TRUE,TRUE,TRUE
-"177","Korea, South","total",TRUE,FALSE,TRUE
-"178","Kosovo","total",TRUE,TRUE,TRUE
-"179","Kuwait","total",TRUE,TRUE,TRUE
-"180","Kyrgyzstan","total",TRUE,TRUE,TRUE
-"181","Laos","total",TRUE,TRUE,TRUE
-"182","Latvia","total",TRUE,TRUE,TRUE
-"183","Lebanon","total",TRUE,TRUE,TRUE
-"184","Liberia","total",TRUE,TRUE,TRUE
-"185","Libya","total",TRUE,TRUE,TRUE
-"186","Liechtenstein","total",TRUE,TRUE,TRUE
-"187","Lithuania","total",TRUE,TRUE,TRUE
-"188","Luxembourg","total",TRUE,TRUE,TRUE
-"189","Madagascar","total",TRUE,TRUE,TRUE
-"190","Malaysia","total",TRUE,TRUE,TRUE
-"191","Maldives","total",TRUE,TRUE,TRUE
-"192","Mali","total",TRUE,TRUE,TRUE
-"193","Malta","total",TRUE,TRUE,TRUE
-"194","Mauritania","total",TRUE,TRUE,TRUE
-"195","Mauritius","total",TRUE,TRUE,TRUE
-"196","Mexico","total",TRUE,TRUE,TRUE
-"197","Moldova","total",TRUE,TRUE,TRUE
-"198","Monaco","total",TRUE,TRUE,TRUE
-"199","Mongolia","total",TRUE,TRUE,TRUE
-"200","Montenegro","total",TRUE,TRUE,TRUE
-"201","Morocco","total",TRUE,TRUE,TRUE
-"202","Mozambique","total",TRUE,TRUE,TRUE
-"203","MS Zaandam","total",TRUE,TRUE,TRUE
-"204","Namibia","total",TRUE,TRUE,TRUE
-"205","Nepal","total",TRUE,TRUE,TRUE
-"206","Netherlands","Aruba",TRUE,TRUE,TRUE
-"207","Netherlands","Curacao",TRUE,TRUE,TRUE
-"208","Netherlands","Sint Maarten",TRUE,TRUE,TRUE
-"209","Netherlands","total",FALSE,FALSE,FALSE
-"210","New Zealand","total",TRUE,TRUE,TRUE
-"211","Nicaragua","total",TRUE,TRUE,TRUE
-"212","Niger","total",TRUE,TRUE,TRUE
-"213","Nigeria","total",TRUE,TRUE,TRUE
-"214","North Macedonia","total",TRUE,TRUE,TRUE
-"215","Norway","total",TRUE,TRUE,TRUE
-"216","Oman","total",TRUE,TRUE,TRUE
-"217","Pakistan","total",TRUE,FALSE,TRUE
-"218","Panama","total",TRUE,TRUE,TRUE
-"219","Papua New Guinea","total",TRUE,TRUE,TRUE
-"220","Paraguay","total",TRUE,TRUE,TRUE
-"221","Peru","total",TRUE,TRUE,TRUE
-"222","Philippines","total",TRUE,TRUE,FALSE
-"223","Poland","total",TRUE,FALSE,TRUE
-"224","Portugal","total",TRUE,TRUE,TRUE
-"225","Qatar","total",TRUE,TRUE,TRUE
-"226","Romania","total",TRUE,TRUE,TRUE
-"227","Russia","total",TRUE,TRUE,TRUE
-"228","Rwanda","total",TRUE,TRUE,TRUE
-"229","Saint Kitts and Nevis","total",TRUE,TRUE,TRUE
-"230","Saint Lucia","total",TRUE,TRUE,TRUE
-"231","Saint Vincent and the Grenadines","total",TRUE,TRUE,TRUE
-"232","San Marino","total",TRUE,TRUE,TRUE
-"233","Saudi Arabia","total",TRUE,TRUE,TRUE
-"234","Senegal","total",TRUE,TRUE,TRUE
-"235","Serbia","total",TRUE,FALSE,FALSE
-"236","Seychelles","total",TRUE,TRUE,TRUE
-"237","Singapore","total",TRUE,TRUE,TRUE
-"238","Slovakia","total",TRUE,FALSE,FALSE
-"239","Slovenia","total",TRUE,TRUE,TRUE
-"240","Somalia","total",TRUE,TRUE,TRUE
-"241","South Africa","total",TRUE,TRUE,TRUE
-"242","Spain","total",TRUE,TRUE,TRUE
-"243","Sri Lanka","total",TRUE,FALSE,TRUE
-"244","Sudan","total",TRUE,TRUE,TRUE
-"245","Suriname","total",TRUE,TRUE,TRUE
-"246","Sweden","total",TRUE,TRUE,TRUE
-"247","Switzerland","AG",NA,NA,NA
-"248","Switzerland","AI",NA,NA,NA
-"249","Switzerland","AR",NA,NA,NA
-"250","Switzerland","BE",NA,NA,NA
-"251","Switzerland","BL",NA,NA,NA
-"252","Switzerland","BS",NA,NA,NA
-"253","Switzerland","CH",TRUE,NA,TRUE
-"254","Switzerland","FR",NA,NA,NA
-"255","Switzerland","GE",NA,NA,NA
-"256","Switzerland","GL",NA,NA,NA
-"257","Switzerland","GR",NA,NA,NA
-"258","Switzerland","JU",NA,NA,NA
-"259","Switzerland","LU",NA,NA,NA
-"260","Switzerland","NE",NA,NA,NA
-"261","Switzerland","NW",NA,NA,NA
-"262","Switzerland","OW",NA,NA,NA
-"263","Switzerland","SG",NA,NA,NA
-"264","Switzerland","SH",NA,NA,NA
-"265","Switzerland","SO",NA,NA,NA
-"266","Switzerland","SZ",NA,NA,NA
-"267","Switzerland","TG",NA,NA,NA
-"268","Switzerland","TI",NA,NA,NA
-"269","Switzerland","total",TRUE,TRUE,TRUE
-"270","Switzerland","UR",NA,NA,NA
-"271","Switzerland","VD",NA,NA,NA
-"272","Switzerland","VS",NA,NA,NA
-"273","Switzerland","ZG",NA,NA,NA
-"274","Switzerland","ZH",NA,NA,NA
-"275","Syria","total",TRUE,TRUE,TRUE
-"276","Taiwan*","total",TRUE,TRUE,TRUE
-"277","Tanzania","total",TRUE,TRUE,TRUE
-"278","Thailand","total",TRUE,TRUE,TRUE
-"279","Timor-Leste","total",TRUE,TRUE,TRUE
-"280","Togo","total",TRUE,TRUE,TRUE
-"281","Trinidad and Tobago","total",TRUE,FALSE,TRUE
-"282","Tunisia","total",TRUE,TRUE,TRUE
-"283","Turkey","total",TRUE,TRUE,TRUE
-"284","Uganda","total",TRUE,TRUE,TRUE
-"285","Ukraine","total",TRUE,TRUE,TRUE
-"286","United Arab Emirates","total",TRUE,TRUE,TRUE
-"287","United Kingdom","Anguilla",TRUE,TRUE,TRUE
-"288","United Kingdom","Bermuda",TRUE,TRUE,TRUE
-"289","United Kingdom","British Virgin Islands",TRUE,TRUE,TRUE
-"290","United Kingdom","Cayman Islands",TRUE,TRUE,TRUE
-"291","United Kingdom","Channel Islands",TRUE,TRUE,TRUE
-"292","United Kingdom","Gibraltar",TRUE,TRUE,TRUE
-"293","United Kingdom","Isle of Man",TRUE,TRUE,TRUE
-"294","United Kingdom","Montserrat",TRUE,TRUE,TRUE
-"295","United Kingdom","total",FALSE,FALSE,FALSE
-"296","United Kingdom","Turks and Caicos Islands",TRUE,TRUE,TRUE
-"297","Uruguay","total",TRUE,TRUE,TRUE
-"298","US","total",TRUE,TRUE,TRUE
-"299","Uzbekistan","total",TRUE,TRUE,TRUE
-"300","Venezuela","total",TRUE,TRUE,TRUE
-"301","Vietnam","total",TRUE,TRUE,TRUE
-"302","West Bank and Gaza","total",TRUE,TRUE,TRUE
-"303","Zambia","total",TRUE,TRUE,TRUE
-"304","Zimbabwe","total",TRUE,TRUE,TRUE
+Country.Region,Province.State,confirmed_sorted,recovered_sorted,deaths_sorted
+Afghanistan,total,TRUE,TRUE,TRUE
+Albania,total,TRUE,TRUE,TRUE
+Algeria,total,TRUE,FALSE,TRUE
+Andorra,total,TRUE,FALSE,TRUE
+Angola,total,TRUE,TRUE,TRUE
+Antigua and Barbuda,total,TRUE,TRUE,TRUE
+Argentina,total,TRUE,TRUE,TRUE
+Armenia,total,TRUE,TRUE,TRUE
+Australia,Australian Capital Territory,TRUE,TRUE,TRUE
+Australia,New South Wales,TRUE,TRUE,TRUE
+Australia,Northern Territory,FALSE,TRUE,TRUE
+Australia,Queensland,FALSE,TRUE,TRUE
+Australia,South Australia,TRUE,TRUE,TRUE
+Australia,Tasmania,TRUE,TRUE,TRUE
+Australia,total,TRUE,TRUE,TRUE
+Australia,Victoria,TRUE,TRUE,TRUE
+Australia,Western Australia,TRUE,TRUE,TRUE
+Austria,total,TRUE,FALSE,TRUE
+Azerbaijan,total,TRUE,FALSE,TRUE
+Bahamas,total,TRUE,TRUE,TRUE
+Bahrain,total,TRUE,TRUE,TRUE
+Bangladesh,total,TRUE,TRUE,TRUE
+Barbados,total,TRUE,TRUE,TRUE
+Belarus,total,TRUE,TRUE,TRUE
+Belgium,total,TRUE,FALSE,TRUE
+Belize,total,TRUE,TRUE,TRUE
+Benin,total,TRUE,TRUE,TRUE
+Bhutan,total,TRUE,TRUE,TRUE
+Bolivia,total,TRUE,TRUE,TRUE
+Bosnia and Herzegovina,total,TRUE,TRUE,TRUE
+Brazil,total,TRUE,TRUE,TRUE
+Brunei,total,TRUE,TRUE,TRUE
+Bulgaria,total,TRUE,TRUE,TRUE
+Burkina Faso,total,TRUE,TRUE,TRUE
+Burma,total,TRUE,TRUE,TRUE
+Cabo Verde,total,TRUE,TRUE,TRUE
+Cambodia,total,TRUE,TRUE,TRUE
+Cameroon,total,TRUE,TRUE,TRUE
+Canada,Alberta,FALSE,NA,TRUE
+Canada,British Columbia,TRUE,NA,TRUE
+Canada,Diamond Princess,TRUE,NA,TRUE
+Canada,Grand Princess,TRUE,NA,TRUE
+Canada,Manitoba,TRUE,NA,TRUE
+Canada,New Brunswick,TRUE,NA,TRUE
+Canada,Newfoundland and Labrador,TRUE,NA,TRUE
+Canada,Northwest Territories,TRUE,NA,TRUE
+Canada,Nova Scotia,TRUE,NA,TRUE
+Canada,Ontario,TRUE,NA,TRUE
+Canada,Prince Edward Island,TRUE,NA,TRUE
+Canada,Quebec,TRUE,NA,FALSE
+Canada,Recovered,TRUE,NA,TRUE
+Canada,Saskatchewan,TRUE,NA,TRUE
+Canada,total,TRUE,NA,TRUE
+Canada,Yukon,TRUE,NA,TRUE
+Central African Republic,total,TRUE,TRUE,TRUE
+Chad,total,TRUE,TRUE,TRUE
+Chile,total,TRUE,TRUE,TRUE
+China,Anhui,TRUE,TRUE,TRUE
+China,Beijing,TRUE,TRUE,TRUE
+China,Chongqing,TRUE,TRUE,TRUE
+China,Fujian,TRUE,TRUE,TRUE
+China,Gansu,TRUE,TRUE,TRUE
+China,Guangdong,TRUE,TRUE,TRUE
+China,Guangxi,TRUE,FALSE,TRUE
+China,Guizhou,FALSE,FALSE,TRUE
+China,Hainan,TRUE,FALSE,TRUE
+China,Hebei,TRUE,TRUE,TRUE
+China,Heilongjiang,TRUE,FALSE,TRUE
+China,Henan,TRUE,TRUE,TRUE
+China,Hong Kong,TRUE,FALSE,TRUE
+China,Hubei,TRUE,TRUE,TRUE
+China,Hunan,TRUE,TRUE,TRUE
+China,Inner Mongolia,TRUE,TRUE,TRUE
+China,Jiangsu,TRUE,TRUE,TRUE
+China,Jiangxi,TRUE,TRUE,TRUE
+China,Jilin,TRUE,TRUE,TRUE
+China,Liaoning,TRUE,TRUE,TRUE
+China,Macau,TRUE,TRUE,TRUE
+China,Ningxia,TRUE,FALSE,TRUE
+China,Qinghai,TRUE,TRUE,TRUE
+China,Shaanxi,TRUE,TRUE,TRUE
+China,Shandong,TRUE,TRUE,TRUE
+China,Shanghai,TRUE,TRUE,TRUE
+China,Shanxi,TRUE,FALSE,TRUE
+China,Sichuan,TRUE,TRUE,TRUE
+China,Tianjin,TRUE,TRUE,TRUE
+China,Tibet,TRUE,TRUE,TRUE
+China,total,TRUE,TRUE,TRUE
+China,Xinjiang,TRUE,TRUE,TRUE
+China,Yunnan,TRUE,TRUE,TRUE
+China,Zhejiang,TRUE,TRUE,TRUE
+Colombia,total,TRUE,TRUE,TRUE
+Congo (Brazzaville),total,TRUE,TRUE,TRUE
+Congo (Kinshasa),total,TRUE,TRUE,TRUE
+Costa Rica,total,TRUE,TRUE,TRUE
+Cote d'Ivoire,total,TRUE,TRUE,TRUE
+Croatia,total,TRUE,TRUE,TRUE
+Cuba,total,TRUE,TRUE,TRUE
+Cyprus,total,TRUE,TRUE,TRUE
+Czechia,total,TRUE,TRUE,TRUE
+Denmark,Faroe Islands,TRUE,TRUE,TRUE
+Denmark,Greenland,TRUE,TRUE,TRUE
+Denmark,total,FALSE,FALSE,FALSE
+Diamond Princess,total,TRUE,FALSE,TRUE
+Djibouti,total,TRUE,TRUE,TRUE
+Dominica,total,TRUE,TRUE,TRUE
+Dominican Republic,total,TRUE,TRUE,TRUE
+Ecuador,total,TRUE,TRUE,TRUE
+Egypt,total,TRUE,FALSE,TRUE
+El Salvador,total,TRUE,TRUE,TRUE
+Equatorial Guinea,total,TRUE,TRUE,TRUE
+Eritrea,total,TRUE,TRUE,TRUE
+Estonia,total,TRUE,TRUE,TRUE
+Eswatini,total,TRUE,TRUE,TRUE
+Ethiopia,total,TRUE,FALSE,TRUE
+Fiji,total,TRUE,TRUE,TRUE
+Finland,total,TRUE,TRUE,TRUE
+France,French Guiana,TRUE,TRUE,TRUE
+France,French Polynesia,TRUE,TRUE,TRUE
+France,Guadeloupe,TRUE,TRUE,TRUE
+France,Martinique,TRUE,TRUE,TRUE
+France,Mayotte,TRUE,TRUE,TRUE
+France,New Caledonia,TRUE,TRUE,TRUE
+France,Reunion,TRUE,TRUE,TRUE
+France,Saint Barthelemy,FALSE,TRUE,TRUE
+France,St Martin,TRUE,TRUE,TRUE
+France,total,FALSE,FALSE,FALSE
+Gabon,total,TRUE,TRUE,TRUE
+Gambia,total,TRUE,TRUE,TRUE
+Georgia,total,TRUE,TRUE,TRUE
+Germany,total,TRUE,TRUE,TRUE
+Ghana,total,TRUE,TRUE,TRUE
+Greece,total,TRUE,TRUE,TRUE
+Grenada,total,TRUE,TRUE,TRUE
+Guatemala,total,TRUE,TRUE,TRUE
+Guinea,total,TRUE,TRUE,TRUE
+Guinea-Bissau,total,TRUE,TRUE,TRUE
+Guyana,total,FALSE,TRUE,TRUE
+Haiti,total,TRUE,TRUE,TRUE
+Holy See,total,TRUE,TRUE,TRUE
+Honduras,total,TRUE,TRUE,TRUE
+Hungary,total,TRUE,TRUE,TRUE
+Iceland,total,TRUE,FALSE,FALSE
+India,total,TRUE,TRUE,FALSE
+Indonesia,total,TRUE,TRUE,TRUE
+Iran,total,TRUE,TRUE,TRUE
+Iraq,total,TRUE,TRUE,TRUE
+Ireland,total,TRUE,TRUE,TRUE
+Israel,total,TRUE,TRUE,TRUE
+Italy,Abruzzo,TRUE,TRUE,TRUE
+Italy,Basilicata,TRUE,TRUE,TRUE
+Italy,Calabria,TRUE,FALSE,FALSE
+Italy,Campania,TRUE,FALSE,TRUE
+Italy,Emilia Romagna,TRUE,TRUE,TRUE
+Italy,Friuli Venezia Giulia,TRUE,FALSE,TRUE
+Italy,Lazio,TRUE,TRUE,TRUE
+Italy,Liguria,FALSE,FALSE,TRUE
+Italy,Lombardia,TRUE,TRUE,TRUE
+Italy,Marche,TRUE,TRUE,TRUE
+Italy,Molise,TRUE,TRUE,TRUE
+Italy,P.A. Bolzano,TRUE,TRUE,TRUE
+Italy,P.A. Trento,TRUE,TRUE,TRUE
+Italy,Piemonte,FALSE,TRUE,TRUE
+Italy,Puglia,TRUE,FALSE,TRUE
+Italy,Sardegna,TRUE,TRUE,TRUE
+Italy,Sicilia,FALSE,TRUE,TRUE
+Italy,Toscana,TRUE,TRUE,TRUE
+Italy,total,TRUE,TRUE,TRUE
+Italy,Umbria,TRUE,TRUE,TRUE
+Italy,Valle d'Aosta,TRUE,TRUE,TRUE
+Italy,Veneto,TRUE,TRUE,TRUE
+Jamaica,total,TRUE,TRUE,TRUE
+Japan,total,TRUE,TRUE,TRUE
+Jordan,total,TRUE,TRUE,TRUE
+Kazakhstan,total,TRUE,TRUE,FALSE
+Kenya,total,TRUE,TRUE,TRUE
+"Korea, South",total,TRUE,FALSE,TRUE
+Kosovo,total,TRUE,TRUE,TRUE
+Kuwait,total,TRUE,TRUE,TRUE
+Kyrgyzstan,total,TRUE,TRUE,TRUE
+Laos,total,TRUE,TRUE,TRUE
+Latvia,total,TRUE,TRUE,TRUE
+Lebanon,total,TRUE,TRUE,TRUE
+Liberia,total,TRUE,TRUE,TRUE
+Libya,total,TRUE,TRUE,TRUE
+Liechtenstein,total,TRUE,TRUE,TRUE
+Lithuania,total,TRUE,TRUE,TRUE
+Luxembourg,total,TRUE,TRUE,TRUE
+Madagascar,total,TRUE,TRUE,TRUE
+Malaysia,total,TRUE,TRUE,TRUE
+Maldives,total,TRUE,TRUE,TRUE
+Mali,total,TRUE,TRUE,TRUE
+Malta,total,TRUE,TRUE,TRUE
+Mauritania,total,TRUE,TRUE,TRUE
+Mauritius,total,TRUE,TRUE,TRUE
+Mexico,total,TRUE,TRUE,TRUE
+Moldova,total,TRUE,TRUE,TRUE
+Monaco,total,TRUE,TRUE,TRUE
+Mongolia,total,TRUE,TRUE,TRUE
+Montenegro,total,TRUE,TRUE,TRUE
+Morocco,total,TRUE,TRUE,TRUE
+Mozambique,total,TRUE,TRUE,TRUE
+MS Zaandam,total,TRUE,TRUE,TRUE
+Namibia,total,TRUE,TRUE,TRUE
+Nepal,total,TRUE,TRUE,TRUE
+Netherlands,Aruba,TRUE,TRUE,TRUE
+Netherlands,Curacao,TRUE,TRUE,TRUE
+Netherlands,Sint Maarten,TRUE,TRUE,TRUE
+Netherlands,total,FALSE,FALSE,FALSE
+New Zealand,total,TRUE,TRUE,TRUE
+Nicaragua,total,TRUE,TRUE,TRUE
+Niger,total,TRUE,TRUE,TRUE
+Nigeria,total,TRUE,TRUE,TRUE
+North Macedonia,total,TRUE,TRUE,TRUE
+Norway,total,TRUE,TRUE,TRUE
+Oman,total,TRUE,TRUE,TRUE
+Pakistan,total,TRUE,FALSE,TRUE
+Panama,total,TRUE,TRUE,TRUE
+Papua New Guinea,total,TRUE,TRUE,TRUE
+Paraguay,total,TRUE,TRUE,TRUE
+Peru,total,TRUE,TRUE,TRUE
+Philippines,total,TRUE,TRUE,FALSE
+Poland,total,TRUE,FALSE,TRUE
+Portugal,total,TRUE,TRUE,TRUE
+Qatar,total,TRUE,TRUE,TRUE
+Romania,total,TRUE,TRUE,TRUE
+Russia,total,TRUE,TRUE,TRUE
+Rwanda,total,TRUE,TRUE,TRUE
+Saint Kitts and Nevis,total,TRUE,TRUE,TRUE
+Saint Lucia,total,TRUE,TRUE,TRUE
+Saint Vincent and the Grenadines,total,TRUE,TRUE,TRUE
+San Marino,total,TRUE,TRUE,TRUE
+Saudi Arabia,total,TRUE,TRUE,TRUE
+Senegal,total,TRUE,TRUE,TRUE
+Serbia,total,TRUE,FALSE,FALSE
+Seychelles,total,TRUE,TRUE,TRUE
+Singapore,total,TRUE,TRUE,TRUE
+Slovakia,total,TRUE,FALSE,FALSE
+Slovenia,total,TRUE,TRUE,TRUE
+Somalia,total,TRUE,TRUE,TRUE
+South Africa,total,TRUE,TRUE,TRUE
+Spain,total,TRUE,TRUE,TRUE
+Sri Lanka,total,TRUE,FALSE,TRUE
+Sudan,total,TRUE,TRUE,TRUE
+Suriname,total,TRUE,TRUE,TRUE
+Sweden,total,TRUE,TRUE,TRUE
+Switzerland,AG,NA,NA,NA
+Switzerland,AI,NA,NA,NA
+Switzerland,AR,NA,NA,NA
+Switzerland,BE,NA,NA,NA
+Switzerland,BL,NA,NA,NA
+Switzerland,BS,NA,NA,NA
+Switzerland,CH,TRUE,NA,TRUE
+Switzerland,FR,NA,NA,NA
+Switzerland,GE,NA,NA,NA
+Switzerland,GL,NA,NA,NA
+Switzerland,GR,NA,NA,NA
+Switzerland,JU,NA,NA,NA
+Switzerland,LU,NA,NA,NA
+Switzerland,NE,NA,NA,NA
+Switzerland,NW,NA,NA,NA
+Switzerland,OW,NA,NA,NA
+Switzerland,SG,NA,NA,NA
+Switzerland,SH,NA,NA,NA
+Switzerland,SO,NA,NA,NA
+Switzerland,SZ,NA,NA,NA
+Switzerland,TG,NA,NA,NA
+Switzerland,TI,NA,NA,NA
+Switzerland,total,TRUE,TRUE,TRUE
+Switzerland,UR,NA,NA,NA
+Switzerland,VD,NA,NA,NA
+Switzerland,VS,NA,NA,NA
+Switzerland,ZG,NA,NA,NA
+Switzerland,ZH,NA,NA,NA
+Syria,total,TRUE,TRUE,TRUE
+Taiwan*,total,TRUE,TRUE,TRUE
+Tanzania,total,TRUE,TRUE,TRUE
+Thailand,total,TRUE,TRUE,TRUE
+Timor-Leste,total,TRUE,TRUE,TRUE
+Togo,total,TRUE,TRUE,TRUE
+Trinidad and Tobago,total,TRUE,FALSE,TRUE
+Tunisia,total,TRUE,TRUE,TRUE
+Turkey,total,TRUE,TRUE,TRUE
+Uganda,total,TRUE,TRUE,TRUE
+Ukraine,total,TRUE,TRUE,TRUE
+United Arab Emirates,total,TRUE,TRUE,TRUE
+United Kingdom,Anguilla,TRUE,TRUE,TRUE
+United Kingdom,Bermuda,TRUE,TRUE,TRUE
+United Kingdom,British Virgin Islands,TRUE,TRUE,TRUE
+United Kingdom,Cayman Islands,TRUE,TRUE,TRUE
+United Kingdom,Channel Islands,TRUE,TRUE,TRUE
+United Kingdom,Gibraltar,TRUE,TRUE,TRUE
+United Kingdom,Isle of Man,TRUE,TRUE,TRUE
+United Kingdom,Montserrat,TRUE,TRUE,TRUE
+United Kingdom,total,FALSE,FALSE,FALSE
+United Kingdom,Turks and Caicos Islands,TRUE,TRUE,TRUE
+Uruguay,total,TRUE,TRUE,TRUE
+US,total,TRUE,TRUE,TRUE
+Uzbekistan,total,TRUE,TRUE,TRUE
+Venezuela,total,TRUE,TRUE,TRUE
+Vietnam,total,TRUE,TRUE,TRUE
+West Bank and Gaza,total,TRUE,TRUE,TRUE
+Zambia,total,TRUE,TRUE,TRUE
+Zimbabwe,total,TRUE,TRUE,TRUE
