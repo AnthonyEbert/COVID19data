@@ -42,7 +42,8 @@ country_totals <- jh_italy %>% filter(Province.State != "total") %>%
   summarise_if(is.numeric, sum) %>%
   mutate(Province.State = "total")
 
-all_countries <- dplyr::bind_rows(jh_italy, country_totals)
+all_countries <- dplyr::bind_rows(jh_italy, country_totals) %>%
+  dplyr::distinct(Country.Region, Province.State, date, .keep_all = TRUE)
 
 china <- readr::read_csv("https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv") %>%
   mutate(

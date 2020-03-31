@@ -102,7 +102,7 @@ Cyprus,total,TRUE,TRUE,TRUE
 Czechia,total,TRUE,TRUE,TRUE
 Denmark,Faroe Islands,TRUE,TRUE,TRUE
 Denmark,Greenland,TRUE,TRUE,TRUE
-Denmark,total,FALSE,FALSE,FALSE
+Denmark,total,TRUE,TRUE,TRUE
 Diamond Princess,total,TRUE,FALSE,TRUE
 Djibouti,total,TRUE,TRUE,TRUE
 Dominica,total,TRUE,TRUE,TRUE
@@ -126,7 +126,7 @@ France,New Caledonia,TRUE,TRUE,TRUE
 France,Reunion,TRUE,TRUE,TRUE
 France,Saint Barthelemy,FALSE,TRUE,TRUE
 France,St Martin,TRUE,TRUE,TRUE
-France,total,FALSE,FALSE,FALSE
+France,total,TRUE,TRUE,TRUE
 Gabon,total,TRUE,TRUE,TRUE
 Gambia,total,TRUE,TRUE,TRUE
 Georgia,total,TRUE,TRUE,TRUE
@@ -208,7 +208,7 @@ Nepal,total,TRUE,TRUE,TRUE
 Netherlands,Aruba,TRUE,TRUE,TRUE
 Netherlands,Curacao,TRUE,TRUE,TRUE
 Netherlands,Sint Maarten,TRUE,TRUE,TRUE
-Netherlands,total,FALSE,FALSE,FALSE
+Netherlands,total,TRUE,TRUE,TRUE
 New Zealand,total,TRUE,TRUE,TRUE
 Nicaragua,total,TRUE,TRUE,TRUE
 Niger,total,TRUE,TRUE,TRUE
@@ -294,7 +294,7 @@ United Kingdom,Channel Islands,TRUE,TRUE,TRUE
 United Kingdom,Gibraltar,TRUE,TRUE,TRUE
 United Kingdom,Isle of Man,TRUE,TRUE,TRUE
 United Kingdom,Montserrat,TRUE,TRUE,TRUE
-United Kingdom,total,FALSE,FALSE,FALSE
+United Kingdom,total,TRUE,TRUE,TRUE
 United Kingdom,Turks and Caicos Islands,TRUE,TRUE,TRUE
 Uruguay,total,TRUE,TRUE,TRUE
 US,total,TRUE,TRUE,TRUE
