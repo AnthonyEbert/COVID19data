@@ -1,0 +1,263 @@
+
+R version 3.6.3 (2020-02-29) -- "Holding the Windsock"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> library(dplyr)
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+> library(tidyr)
+> library(COVID19data)
+> 
+> # Download JHU data
+> 
+> confirmed = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv") %>% jh_process(term = "confirmed")
+> 
+> recovered = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv") %>% jh_process(term = "recovered")
+> 
+> deaths = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv") %>% jh_process(term = "deaths")
+> 
+> john_hopkins <- left_join(confirmed, recovered) %>% left_join(deaths) %>%
++   mutate(Province.State = forcats::fct_recode(Province.State, total = "")) %>%
++   filter(!(Country.Region %in% c("Italy")))
+Joining, by = c("Country.Region", "Province.State", "date")
+Joining, by = c("Country.Region", "Province.State", "date")
+There were 50 or more warnings (use warnings() to see the first 50)
+> 
+> # Add Italian data --------------------
+> 
+> italy = readr::read_csv("https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv") %>%
++   transmute(
++     date = lubridate::as_date(data),
++     Province.State = denominazione_regione,
++     hospitalized_intensive = terapia_intensiva,
++     hospitalized_symptoms = ricoverati_con_sintomi,
++     isolated_at_home = isolamento_domiciliare,
++     tested = tamponi,
++     confirmed = totale_casi,
++     recovered = dimessi_guariti,
++     deaths = deceduti
++   ) %>%
++   mutate(Country.Region = "Italy")
+Parsed with column specification:
+cols(
+  data = col_datetime(format = ""),
+  stato = col_character(),
+  codice_regione = col_character(),
+  denominazione_regione = col_character(),
+  lat = col_double(),
+  long = col_double(),
+  ricoverati_con_sintomi = col_double(),
+  terapia_intensiva = col_double(),
+  totale_ospedalizzati = col_double(),
+  isolamento_domiciliare = col_double(),
+  totale_positivi = col_double(),
+  variazione_totale_positivi = col_double(),
+  nuovi_positivi = col_double(),
+  dimessi_guariti = col_double(),
+  deceduti = col_double(),
+  totale_casi = col_double(),
+  tamponi = col_double(),
+  note_it = col_character(),
+  note_en = col_character()
+)
+> 
+> jh_italy <- dplyr::bind_rows(john_hopkins, italy)
+Warning messages:
+1: In bind_rows_(x, .id) :
+  binding factor and character vector, coercing into character vector
+2: In bind_rows_(x, .id) :
+  binding character and factor vector, coercing into character vector
+> 
+> # Add Chinese data -------------------
+> 
+> ## DXY ------------
+> 
+> country_totals <- jh_italy %>% filter(Province.State != "total") %>%
++   group_by(Country.Region, date) %>%
++   summarise_if(is.numeric, sum) %>%
++   mutate(Province.State = "total")
+> 
+> all_countries <- dplyr::bind_rows(jh_italy, country_totals)
+> 
+> china <- readr::read_csv("https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv") %>%
++   mutate(
++     date = lubridate::as_date(updateTime)
++   ) %>%
++   group_by(date) %>%
++   summarise(hospitalized_intensive = max(seriousCount, na.rm = TRUE)) %>%
++   mutate(
++     hospitalized_intensive = replace(.$hospitalized_intensive, !is.finite(.$hospitalized_intensive) | .$hospitalized_intensive == 0, NA),
++     Country.Region = "China",
++     Province.State = "total"
++   )
+Parsed with column specification:
+cols(
+  .default = col_character(),
+  summary = col_logical(),
+  countRemark = col_logical(),
+  currentConfirmedCount = col_double(),
+  confirmedCount = col_double(),
+  suspectedCount = col_double(),
+  curedCount = col_double(),
+  deadCount = col_double(),
+  seriousCount = col_double(),
+  suspectedIncr = col_double(),
+  currentConfirmedIncr = col_double(),
+  confirmedIncr = col_double(),
+  curedIncr = col_double(),
+  deadIncr = col_double(),
+  seriousIncr = col_double(),
+  remark4 = col_logical(),
+  remark5 = col_logical(),
+  abroadRemark = col_logical(),
+  updateTime = col_datetime(format = "")
+)
+See spec(...) for full column specifications.
+Warning: 104 parsing failures.
+ row         col           expected                     actual                                                                                     file
+3182 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3182 countRemark 1/0/T/F/TRUE/FALSE 、                         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3183 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3183 remark4     1/0/T/F/TRUE/FALSE 是否已经确定传播途径       'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3184 summary     1/0/T/F/TRUE/FALSE 总结语：挺住，为中国加油！ 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+.... ........... ....... [... truncated]
+> 
+> all_countries <- left_join_fill(all_countries , china, by = c("Country.Region", "Province.State", "date"))
+> 
+> ## NHC -------------
+> 
+> nhc_china <- RCurl::getURL("https://docs.google.com/spreadsheets/d/1qniOeebfqKTMrLT8hCyR37IJVSfefZH5lhdZwkpTN-c/export?format=csv",.opts=list(ssl.verifypeer=FALSE)) %>%
++   textConnection() %>%
++   read.csv() %>%
++   mutate(
++     Country.Region = "China",
++     Province.State = "total",
++     date = lubridate::as_date(date)
++   )
+> 
+> all_countries <- left_join_fill(all_countries, nhc_china, by = c("Country.Region", "Province.State", "date"))
+> 
+> nhc_hubei <- RCurl::getURL("https://docs.google.com/spreadsheets/d/1l56Y78OszeS3X05t_yUA9nLLQpVuAGPRLqWSrZF-tz8/export?format=csv",.opts=list(ssl.verifypeer=FALSE)) %>%
++   textConnection() %>%
++   read.csv() %>%
++   mutate(
++     Country.Region = "China",
++     Province.State = "Hubei",
++     date = lubridate::as_date(date),
++     hospitalized_intensive = intensive_care
++   ) %>%
++   select(
++     Country.Region,
++     Province.State,
++     date,
++     hospitalized_intensive,
++     suspected
++   )
+> 
+> covid19_complete <- left_join_fill(all_countries, nhc_hubei, by = c("Country.Region", "Province.State", "date")) %>%
++   mutate(active = confirmed - recovered - deaths)
+> 
+> ## Switzerland -------------------
+> 
+> switzerland_confirmed <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland_openzh.csv") %>%
++   mutate(date = lubridate::as_date(Date)) %>%
++   select(-Date) %>%
++   tidyr::gather(Province.State,confirmed,-date)
+> 
+> switzerland_recoveries <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_released_switzerland_openzh.csv") %>%
++   mutate(date = lubridate::as_date(Date)) %>%
++   select(-Date) %>%
++   tidyr::gather(Province.State,recovered,-date)
+> 
+> switzerland_deaths <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_fatalities_switzerland_openzh.csv") %>%
++   mutate(date = lubridate::as_date(Date)) %>%
++   select(-Date) %>%
++   tidyr::gather(Province.State,deaths,-date)
+> 
+> switzerland_hospitalized_symptoms <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_hospitalized_switzerland_openzh.csv")%>%
++   mutate(date = lubridate::as_date(Date)) %>%
++   select(-Date) %>%
++   tidyr::gather(Province.State,hospitalized_symptoms,-date)
+> 
+> switzerland_hospitalized_intensive <- read.csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_icu_switzerland_openzh.csv")%>%
++   mutate(date = lubridate::as_date(Date)) %>%
++   select(-Date) %>%
++   tidyr::gather(Province.State,hospitalized_intensive,-date)
+> 
+> switzerland <- left_join(switzerland_confirmed, switzerland_recoveries) %>%
++   left_join(switzerland_deaths) %>%
++   left_join(switzerland_hospitalized_symptoms) %>%
++   left_join(switzerland_hospitalized_intensive) %>%
++   mutate(hospitalized_symptoms = hospitalized_symptoms - hospitalized_intensive) %>%
++   mutate(Country.Region = "Switzerland")
+Joining, by = c("date", "Province.State")
+Joining, by = c("date", "Province.State")
+Joining, by = c("date", "Province.State")
+Joining, by = c("date", "Province.State")
+> 
+> covid19_complete <- dplyr::bind_rows(covid19_complete, switzerland)
+> 
+> iso_info <- read.csv("https://raw.githubusercontent.com/AnthonyEbert/COVID-19_ISO-3166/master/JohnsHopkins-to-A3.csv")
+> 
+> covid19_complete <- covid19_complete %>% left_join(iso_info)
+Joining, by = "Country.Region"
+Warning message:
+Column `Country.Region` joining character vector and factor, coercing into character vector 
+> 
+> readr::write_csv(covid19_complete, "data-raw/covid19_complete.csv")
+> 
+> usethis::use_data(covid19_complete, overwrite = TRUE)
+✔ Setting active project to '/home/ebertac/Git/COVID19data'
+✔ Saving 'covid19_complete' to 'data/covid19_complete.rda'
+> 
+> # Check data -------------------
+> 
+> # Check that confirmed, recovered and deaths are all non-decreasing
+> 
+> covid19_issorted <- covid19_complete %>%
++   group_by(Country.Region, Province.State) %>%
++   arrange(date) %>%
++   summarise(confirmed_sorted = !is.unsorted(confirmed), recovered_sorted = !is.unsorted(recovered), deaths_sorted = !is.unsorted(deaths))
+> 
+> readr::write_csv(covid19_issorted, "data-raw/covid19_is-sorted.csv")
+> 
+> covid19_sorted <- covid19_complete %>%
++   group_by(Country.Region, Province.State) %>%
++   arrange(date) %>%
++   mutate(confirmed = cummax(NA0(confirmed)), recovered = cummax(NA0(recovered)), deaths = cummax(NA0(deaths))) %>%
++   mutate(active = confirmed - recovered - deaths)
+> 
+> readr::write_csv(covid19_sorted, "data-raw/covid19_sorted.csv")
+> 
+> usethis::use_data(covid19_sorted, overwrite = TRUE)
+✔ Saving 'covid19_sorted' to 'data/covid19_sorted.rda'
+> 
+> 
+> proc.time()
+   user  system elapsed 
+  2.761   0.097   6.276 

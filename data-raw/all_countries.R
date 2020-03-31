@@ -127,6 +127,10 @@ switzerland <- left_join(switzerland_confirmed, switzerland_recoveries) %>%
 
 covid19_complete <- dplyr::bind_rows(covid19_complete, switzerland)
 
+iso_info <- read.csv("https://raw.githubusercontent.com/AnthonyEbert/COVID-19_ISO-3166/master/JohnsHopkins-to-A3.csv")
+
+covid19_complete <- covid19_complete %>% left_join(iso_info)
+
 readr::write_csv(covid19_complete, "data-raw/covid19_complete.csv")
 
 usethis::use_data(covid19_complete, overwrite = TRUE)

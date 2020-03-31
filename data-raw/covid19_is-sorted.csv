@@ -29,6 +29,7 @@ Benin,total,TRUE,TRUE,TRUE
 Bhutan,total,TRUE,TRUE,TRUE
 Bolivia,total,TRUE,TRUE,TRUE
 Bosnia and Herzegovina,total,TRUE,TRUE,TRUE
+Botswana,total,TRUE,TRUE,TRUE
 Brazil,total,TRUE,TRUE,TRUE
 Brunei,total,TRUE,TRUE,TRUE
 Bulgaria,total,TRUE,TRUE,TRUE
@@ -152,7 +153,7 @@ Italy,Abruzzo,TRUE,TRUE,TRUE
 Italy,Basilicata,TRUE,TRUE,TRUE
 Italy,Calabria,TRUE,FALSE,FALSE
 Italy,Campania,TRUE,FALSE,TRUE
-Italy,Emilia Romagna,TRUE,TRUE,TRUE
+Italy,Emilia-Romagna,TRUE,TRUE,TRUE
 Italy,Friuli Venezia Giulia,TRUE,FALSE,TRUE
 Italy,Lazio,TRUE,TRUE,TRUE
 Italy,Liguria,FALSE,FALSE,TRUE
