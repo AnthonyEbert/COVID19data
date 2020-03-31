@@ -17,6 +17,8 @@ Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
 
+[Previously saved workspace restored]
+
 > 
 > library(dplyr)
 
@@ -32,6 +34,13 @@ The following objects are masked from ‘package:base’:
 
 > library(tidyr)
 > library(COVID19data)
+
+Attaching package: ‘COVID19data’
+
+The following objects are masked _by_ ‘.GlobalEnv’:
+
+    covid19_complete, covid19_sorted
+
 > 
 > # Download JHU data
 > 
@@ -109,9 +118,9 @@ Warning messages:
 +     date = lubridate::as_date(updateTime)
 +   ) %>%
 +   group_by(date) %>%
-+   summarise(hospitalized_intensive = max(seriousCount, na.rm = TRUE)) %>%
++   summarise(serious_cases = max(seriousCount, na.rm = TRUE)) %>%
 +   mutate(
-+     hospitalized_intensive = replace(.$hospitalized_intensive, !is.finite(.$hospitalized_intensive) | .$hospitalized_intensive == 0, NA),
++     serious_cases = replace(.$serious_cases, !is.finite(.$serious_cases) | .$serious_cases == 0, NA),
 +     Country.Region = "China",
 +     Province.State = "total"
 +   )
@@ -140,14 +149,14 @@ cols(
 See spec(...) for full column specifications.
 Warning: 104 parsing failures.
  row         col           expected                     actual                                                                                     file
-3182 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3182 countRemark 1/0/T/F/TRUE/FALSE 、                         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3183 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3183 remark4     1/0/T/F/TRUE/FALSE 是否已经确定传播途径       'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3184 summary     1/0/T/F/TRUE/FALSE 总结语：挺住，为中国加油！ 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3201 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3201 countRemark 1/0/T/F/TRUE/FALSE 、                         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3202 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3202 remark4     1/0/T/F/TRUE/FALSE 是否已经确定传播途径       'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3203 summary     1/0/T/F/TRUE/FALSE 总结语：挺住，为中国加油！ 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
 .... ........... ....... [... truncated]
 > 
-> all_countries <- left_join_fill(all_countries , china, by = c("Country.Region", "Province.State", "date"))
+> all_countries <- left_join(all_countries , china, by = c("Country.Region", "Province.State", "date"))
 > 
 > ## NHC -------------
 > 
@@ -157,8 +166,10 @@ Warning: 104 parsing failures.
 +   mutate(
 +     Country.Region = "China",
 +     Province.State = "total",
-+     date = lubridate::as_date(date)
-+   )
++     date = lubridate::as_date(date),
++     serious_cases = hospitalized_intensive
++   ) %>%
++   select(-hospitalized_intensive)
 > 
 > all_countries <- left_join_fill(all_countries, nhc_china, by = c("Country.Region", "Province.State", "date"))
 > 
@@ -169,13 +180,13 @@ Warning: 104 parsing failures.
 +     Country.Region = "China",
 +     Province.State = "Hubei",
 +     date = lubridate::as_date(date),
-+     hospitalized_intensive = intensive_care
++     serious_cases = intensive_care
 +   ) %>%
 +   select(
 +     Country.Region,
 +     Province.State,
 +     date,
-+     hospitalized_intensive,
++     serious_cases,
 +     suspected
 +   )
 > 
@@ -260,4 +271,4 @@ Column `Country.Region` joining character vector and factor, coercing into chara
 > 
 > proc.time()
    user  system elapsed 
-  2.761   0.097   6.276 
+  2.951   0.098   7.908 

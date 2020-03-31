@@ -49,14 +49,14 @@ china <- readr::read_csv("https://raw.githubusercontent.com/BlankerL/DXY-COVID-1
     date = lubridate::as_date(updateTime)
   ) %>%
   group_by(date) %>%
-  summarise(hospitalized_intensive = max(seriousCount, na.rm = TRUE)) %>%
+  summarise(serious_cases = max(seriousCount, na.rm = TRUE)) %>%
   mutate(
-    hospitalized_intensive = replace(.$hospitalized_intensive, !is.finite(.$hospitalized_intensive) | .$hospitalized_intensive == 0, NA),
+    serious_cases = replace(.$serious_cases, !is.finite(.$serious_cases) | .$serious_cases == 0, NA),
     Country.Region = "China",
     Province.State = "total"
   )
 
-all_countries <- left_join_fill(all_countries , china, by = c("Country.Region", "Province.State", "date"))
+all_countries <- left_join(all_countries , china, by = c("Country.Region", "Province.State", "date"))
 
 ## NHC -------------
 
@@ -66,8 +66,10 @@ nhc_china <- RCurl::getURL("https://docs.google.com/spreadsheets/d/1qniOeebfqKTM
   mutate(
     Country.Region = "China",
     Province.State = "total",
-    date = lubridate::as_date(date)
-  )
+    date = lubridate::as_date(date),
+    serious_cases = hospitalized_intensive
+  ) %>%
+  select(-hospitalized_intensive)
 
 all_countries <- left_join_fill(all_countries, nhc_china, by = c("Country.Region", "Province.State", "date"))
 
@@ -78,13 +80,13 @@ nhc_hubei <- RCurl::getURL("https://docs.google.com/spreadsheets/d/1l56Y78OszeS3
     Country.Region = "China",
     Province.State = "Hubei",
     date = lubridate::as_date(date),
-    hospitalized_intensive = intensive_care
+    serious_cases = intensive_care
   ) %>%
   select(
     Country.Region,
     Province.State,
     date,
-    hospitalized_intensive,
+    serious_cases,
     suspected
   )
 
