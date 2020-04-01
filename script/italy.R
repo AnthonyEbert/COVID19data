@@ -1,3 +1,5 @@
+library(dplyr)
+library(COVID19data)
 
 italy <- covid19_sorted %>%
   filter(Country.Region == "Italy", Province.State == "total") %>%

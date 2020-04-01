@@ -34,13 +34,6 @@ The following objects are masked from ‘package:base’:
 
 > library(tidyr)
 > library(COVID19data)
-
-Attaching package: ‘COVID19data’
-
-The following objects are masked _by_ ‘.GlobalEnv’:
-
-    covid19_complete, covid19_sorted
-
 > 
 > # Download JHU data
 > 
@@ -111,7 +104,8 @@ Warning messages:
 +   summarise_if(is.numeric, sum) %>%
 +   mutate(Province.State = "total")
 > 
-> all_countries <- dplyr::bind_rows(jh_italy, country_totals)
+> all_countries <- dplyr::bind_rows(jh_italy, country_totals) %>%
++   dplyr::distinct(Country.Region, Province.State, date, .keep_all = TRUE)
 > 
 > china <- readr::read_csv("https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv") %>%
 +   mutate(
@@ -149,11 +143,11 @@ cols(
 See spec(...) for full column specifications.
 Warning: 104 parsing failures.
  row         col           expected                     actual                                                                                     file
-3201 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3201 countRemark 1/0/T/F/TRUE/FALSE 、                         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3202 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3202 remark4     1/0/T/F/TRUE/FALSE 是否已经确定传播途径       'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3203 summary     1/0/T/F/TRUE/FALSE 总结语：挺住，为中国加油！ 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3269 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3269 countRemark 1/0/T/F/TRUE/FALSE 、                         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3270 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3270 remark4     1/0/T/F/TRUE/FALSE 是否已经确定传播途径       'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3271 summary     1/0/T/F/TRUE/FALSE 总结语：挺住，为中国加油！ 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
 .... ........... ....... [... truncated]
 > 
 > all_countries <- left_join(all_countries , china, by = c("Country.Region", "Province.State", "date"))
@@ -271,4 +265,4 @@ Column `Country.Region` joining character vector and factor, coercing into chara
 > 
 > proc.time()
    user  system elapsed 
-  2.951   0.098   7.908 
+  4.788   0.363   9.241 

@@ -1,3 +1,5 @@
+library(dplyr)
+library(COVID19data)
 
 hubei = covid19_sorted %>% filter(Country.Region == "China", Province.State == "Hubei") %>% select(-hospitalized_symptoms, -tested, -close_observation) %>%
   mutate(
