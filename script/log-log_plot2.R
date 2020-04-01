@@ -2,30 +2,34 @@ library(dplyr)
 library(COVID19data)
 
 x_week_daily = covid19_sorted %>%
-  filter(alpha3 %in% c("USA", "KOR", "IRN", "IRL", "SWE", "AUS", "TAI")) %>%
+  filter(alpha3 %in% c("USA", "KOR", "IRN", "IRL", "SWE", "AUS", "ITA", "CHN")) %>%
   group_by(Country.Region, Province.State) %>%
   arrange(date) %>%
   mutate(
     diff_confirmed = c(0, diff(confirmed)),
-    new_confirmed = zoo::rollsum(diff_confirmed, 7, fill = NA, align = "right")
+    confirmed_past7days = zoo::rollsum(diff_confirmed, 7, fill = .$confirmed[1:6], align = "right")
   ) %>%
-  mutate(label = paste(Country.Region, Province.State, "-")) %>%
+  mutate(label = paste(Country.Region, ifelse(Province.State == "total", "", Province.State), sep = " ")) %>%
   arrange(date)%>%
-  filter(Province.State == "total") %>%
+  filter(Province.State %in% c("Hubei", "total") | Country.Region != "China") %>%
+  filter(Province.State == "total" | Country.Region == "China") %>%
   filter(confirmed >= 100) %>%
   left_join(
     read.csv(
       "https://raw.githubusercontent.com/AnthonyEbert/COVID-19_ISO-3166/master/full_list.csv"
     ) %>% select(alpha3, Province.State, population)
   ) %>%
-  mutate(confirmed_pop = confirmed/population, new_confirmed_confirmed = new_confirmed/confirmed) %>%
-  filter(new_confirmed_confirmed >= 0.05) %>%
   filter(alpha3 != "cruise") %>%
   filter(population >= 0.75e6) %>%
   ungroup() %>%
   arrange(date) %>%
   mutate(days_since = -as.numeric(first(date) - date)) %>%
-  select(alpha3, confirmed_pop, new_confirmed_confirmed, days_since, date)
+  select(label, confirmed, confirmed_past7days, population, days_since, date) %>%
+  filter(confirmed_past7days/confirmed >= 1e-3) %>%
+  group_by(label) %>%
+  mutate(max_confirmed = max(confirmed)) %>%
+  filter(max_confirmed >= 200) %>%
+  select(-max_confirmed)
 
 accumulate_by <- function(dat, var) {
   var <- lazyeval::f_eval(var, dat)
@@ -36,16 +40,31 @@ accumulate_by <- function(dat, var) {
   dplyr::bind_rows(dats)
 }
 
-x = x_week_daily %>%
-  padr::pad(group = "alpha3", by = "date", start_val = lubridate::as_date("2020-01-28")) %>%
+x0 = x_week_daily %>%
+  padr::pad(group = "label", by = "date", start_val = lubridate::as_date("2020-01-28")) %>%
   ungroup() %>%
   arrange(date) %>%
-  mutate(days_since = -as.numeric(first(date) - date)) %>%
+  mutate(days_since = -as.numeric(first(date) - date))
+
+x = x0 %>%
   accumulate_by(~days_since) %>%
+  mutate(date2 = lubridate::as_date("2020-01-28") + frame)
 
 z = ggplot(x) +
-  aes(confirmed_pop, new_confirmed_confirmed, frame = frame, col = alpha3) +
-  geom_line()
+  aes(
+    confirmed/population,
+    confirmed_past7days/confirmed,
+    frame = frame,
+    col = label,
+    date = date,
+    confirmed = confirmed,
+    confirmed_past7days = confirmed_past7days) +
+  scale_x_log10() +
+  scale_y_log10() +
+  geom_line() +
+  ggthemes::theme_few()
 
-z %>% plotly::ggplotly()
+z = z %>% plotly::ggplotly() %>% plotly::animation_slider(hide = TRUE)
+htmlwidgets::saveWidget(z, "covid19_test.html", selfcontained = FALSE)
+# %>% plotly::layout(xaxis = list(animation_slider = list(type = "date")))
 
