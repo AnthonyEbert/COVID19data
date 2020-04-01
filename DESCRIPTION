@@ -1,9 +1,9 @@
 Package: COVID19data
 Title: What the Package Does (One Line, Title Case)
-Version: 0.2.1
+Version: 0.2.2
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Anthony",
+           family = "Ebert",
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
