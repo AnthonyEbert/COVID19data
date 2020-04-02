@@ -24,21 +24,11 @@ x_week_daily = covid19_sorted %>%
   arrange(date) %>%
   mutate(days_since = -as.numeric(first(date) - date)) %>%
   select(alpha3, Country.Region, confirmed, confirmed_past7days, population, days_since, date) %>%
-  filter(confirmed_past7days/confirmed >= 1e-3) %>%
   group_by(Country.Region) %>%
   mutate(max_confirmed = max(confirmed)) %>%
   filter(max_confirmed >= 200) %>%
   select(-max_confirmed) %>%
   filter(confirmed > 100)
-
-accumulate_by <- function(dat, var) {
-  var <- lazyeval::f_eval(var, dat)
-  lvls <- plotly:::getLevels(var)
-  dats <- lapply(seq_along(lvls), function(x) {
-    cbind(dat[var %in% lvls[seq(1, x)], ], frame = lvls[[x]])
-  })
-  dplyr::bind_rows(dats)
-}
 
 x0 = x_week_daily %>%
   padr::pad(group = c("Country.Region"), by = "date", start_val = lubridate::as_date("2020-01-28")) %>%
