@@ -32,6 +32,13 @@ The following objects are masked from ‘package:base’:
     intersect, setdiff, setequal, union
 
 > library(COVID19data)
+
+Attaching package: ‘COVID19data’
+
+The following object is masked _by_ ‘.GlobalEnv’:
+
+    accumulate_by
+
 > 
 > hubei = covid19_sorted %>% filter(Country.Region == "China", Province.State == "Hubei") %>% select(-hospitalized_symptoms, -tested, -close_observation) %>%
 +   mutate(
@@ -42,4 +49,4 @@ The following objects are masked from ‘package:base’:
 > 
 > proc.time()
    user  system elapsed 
-  0.521   0.035   0.549 
+  1.314   0.064   1.371 

@@ -37,9 +37,9 @@ The following objects are masked from ‘package:base’:
 
 Attaching package: ‘COVID19data’
 
-The following objects are masked _by_ ‘.GlobalEnv’:
+The following object is masked _by_ ‘.GlobalEnv’:
 
-    covid19_complete, covid19_sorted
+    accumulate_by
 
 > 
 > # Download JHU data
@@ -150,11 +150,11 @@ cols(
 See spec(...) for full column specifications.
 Warning: 104 parsing failures.
  row         col           expected                     actual                                                                                     file
-3325 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3325 countRemark 1/0/T/F/TRUE/FALSE 、                         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3326 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3326 remark4     1/0/T/F/TRUE/FALSE 是否已经确定传播途径       'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
-3327 summary     1/0/T/F/TRUE/FALSE 总结语：挺住，为中国加油！ 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3334 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3334 countRemark 1/0/T/F/TRUE/FALSE 、                         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3335 summary     1/0/T/F/TRUE/FALSE 挺住，为中国加油！         'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3335 remark4     1/0/T/F/TRUE/FALSE 是否已经确定传播途径       'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+3336 summary     1/0/T/F/TRUE/FALSE 总结语：挺住，为中国加油！ 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
 .... ........... ....... [... truncated]
 > 
 > all_countries <- left_join(all_countries , china, by = c("Country.Region", "Province.State", "date"))
@@ -272,4 +272,4 @@ Column `Country.Region` joining character vector and factor, coercing into chara
 > 
 > proc.time()
    user  system elapsed 
-  3.091   0.120   8.378 
+  3.901   0.150   9.174 
