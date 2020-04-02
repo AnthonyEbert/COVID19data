@@ -71,6 +71,25 @@ z = ggplot(x) +
 z = z %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
 htmlwidgets::saveWidget(z, "covid19.html", selfcontained = FALSE, title = 'Press the "Play" button')
 
+z2 = ggplot(x) +
+  aes(
+    confirmed,
+    confirmed_past7days,
+    frame = frame,
+    col = Country.Region,
+    date = date,
+    confirmed = confirmed,
+    confirmed_past7days = confirmed_past7days) +
+  scale_x_log10() +
+  scale_y_log10() +
+  geom_line() +
+  ggthemes::theme_few() +
+  guides(fill=guide_legend(title="Double click a country to see it by itself"))
+
+z2 = z2 %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
+htmlwidgets::saveWidget(z2, "covid19_original.html", selfcontained = FALSE, title = 'Press the "Play" button. Double click a country to see it by itself.')
+
+
 Europe = c(
   "ALB", "AND", "AUT", "BEL", "BIH", "BGR", "DNK", "FIN", "FRA",
   "DEU", "HUN", "ISL", "IRL", "ITA", "LVA", "MNE", "NLD",
@@ -103,6 +122,25 @@ z = ggplot(x_europe) +
 
 z = z %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
 htmlwidgets::saveWidget(z, "covid19_Europe.html", selfcontained = FALSE, title = 'Press the "Play" button. Double click a country to see it by itself.')
+
+
+z2 = ggplot(x_europe) +
+  aes(
+    confirmed,
+    confirmed_past7days,
+    frame = frame,
+    col = Country.Region,
+    date = date,
+    confirmed = confirmed,
+    confirmed_past7days = confirmed_past7days) +
+  scale_x_log10() +
+  scale_y_log10() +
+  geom_line() +
+  ggthemes::theme_few() +
+  guides(fill=guide_legend(title="Double click a country to see it by itself"))
+
+z2 = z2 %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
+htmlwidgets::saveWidget(z2, "covid19_original_Europe.html", selfcontained = FALSE, title = 'Press the "Play" button. Double click a country to see it by itself.')
 
 
 ## Italy ------------------
@@ -177,5 +215,25 @@ z = ggplot(x) +
 
 z = z %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
 htmlwidgets::saveWidget(z, "covid19_Italia.html", selfcontained = FALSE, title = 'Premere il pulsante "Play, Double click a country to see it by itself.')
+
+z2 = ggplot(x) +
+  aes(
+    totale_casi,
+    pre7giorni_casi,
+    frame = frame,
+    col = regione,
+    date = data,
+    totale_casi = totale_casi,
+    pre7giorni_casi = pre7giorni_casi) +
+  scale_x_log10() +
+  scale_y_log10() +
+  geom_line() +
+  ggthemes::theme_few() +
+  guides(col = guide_legend("Fare doppio clic vederla da sola. Double click a region"))
+
+z2 = z2 %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
+htmlwidgets::saveWidget(z2, "covid19_original_Italia.html", selfcontained = FALSE, title = 'Premere il pulsante "Play, Double click a country to see it by itself.')
+
+
 
 
