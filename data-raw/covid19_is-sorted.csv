@@ -190,6 +190,7 @@ Liechtenstein,total,TRUE,TRUE,TRUE
 Lithuania,total,TRUE,TRUE,TRUE
 Luxembourg,total,TRUE,TRUE,TRUE
 Madagascar,total,TRUE,TRUE,TRUE
+Malawi,total,TRUE,TRUE,TRUE
 Malaysia,total,TRUE,TRUE,TRUE
 Maldives,total,TRUE,TRUE,TRUE
 Mali,total,TRUE,TRUE,TRUE
@@ -207,6 +208,7 @@ MS Zaandam,total,TRUE,TRUE,TRUE
 Namibia,total,TRUE,TRUE,TRUE
 Nepal,total,TRUE,TRUE,TRUE
 Netherlands,Aruba,TRUE,TRUE,TRUE
+Netherlands,"Bonaire, Sint Eustatius and Saba",TRUE,TRUE,TRUE
 Netherlands,Curacao,TRUE,TRUE,TRUE
 Netherlands,Sint Maarten,TRUE,TRUE,TRUE
 Netherlands,total,TRUE,TRUE,TRUE
@@ -297,7 +299,7 @@ United Kingdom,Gibraltar,TRUE,TRUE,TRUE
 United Kingdom,Isle of Man,TRUE,TRUE,TRUE
 United Kingdom,Montserrat,TRUE,TRUE,TRUE
 United Kingdom,total,TRUE,TRUE,TRUE
-United Kingdom,Turks and Caicos Islands,TRUE,TRUE,TRUE
+United Kingdom,Turks and Caicos Islands,FALSE,TRUE,TRUE
 Uruguay,total,TRUE,TRUE,TRUE
 US,total,TRUE,TRUE,TRUE
 Uzbekistan,total,TRUE,TRUE,TRUE
