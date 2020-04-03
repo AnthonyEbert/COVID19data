@@ -7,6 +7,10 @@ italy <- covid19_sorted %>%
     susc_not_ill = 60317000 - confirmed
   )
 
+readr::write_csv(italy, "data-raw/italy_all_full.csv")
+
+italy <- italy %>% filter(date >= "2020-02-24")
+
 readr::write_csv(italy, "data-raw/italy_all.csv")
 
 lombardy <- covid19_sorted %>%

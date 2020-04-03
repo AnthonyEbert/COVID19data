@@ -12,8 +12,8 @@ recovered = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/
 deaths = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv") %>% jh_process(term = "deaths")
 
 john_hopkins <- left_join(confirmed, recovered) %>% left_join(deaths) %>%
-  mutate(Province.State = forcats::fct_recode(Province.State, total = "")) %>%
-  filter(!(Country.Region %in% c("Italy")))
+  mutate(Province.State = forcats::fct_recode(Province.State, total = ""))
+  # filter(!(Country.Region %in% c("Italy")))
 
 # Add Italian data --------------------
 
@@ -40,9 +40,10 @@ jh_italy <- dplyr::bind_rows(john_hopkins, italy)
 country_totals <- jh_italy %>% filter(Province.State != "total") %>%
   group_by(Country.Region, date) %>%
   summarise_if(is.numeric, sum) %>%
-  mutate(Province.State = "total")
+  mutate(Province.State = "total") %>%
+  select(Country.Region, Province.State, date, confirmed, recovered, deaths, hospitalized_intensive, hospitalized_symptoms, isolated_at_home, tested)
 
-all_countries <- dplyr::bind_rows(jh_italy, country_totals) %>%
+all_countries <- dplyr::bind_rows(country_totals, jh_italy) %>%
   dplyr::distinct(Country.Region, Province.State, date, .keep_all = TRUE)
 
 china <- readr::read_csv("https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv") %>%

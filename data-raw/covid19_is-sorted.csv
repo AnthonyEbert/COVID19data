@@ -168,7 +168,7 @@ Italy,Puglia,TRUE,FALSE,TRUE
 Italy,Sardegna,TRUE,TRUE,TRUE
 Italy,Sicilia,FALSE,TRUE,TRUE
 Italy,Toscana,TRUE,TRUE,TRUE
-Italy,total,TRUE,TRUE,TRUE
+Italy,total,TRUE,FALSE,TRUE
 Italy,Umbria,TRUE,TRUE,TRUE
 Italy,Valle d'Aosta,TRUE,TRUE,TRUE
 Italy,Veneto,TRUE,TRUE,TRUE
@@ -258,7 +258,7 @@ Switzerland,BL,NA,NA,NA
 Switzerland,BS,NA,NA,NA
 Switzerland,CH,TRUE,TRUE,TRUE
 Switzerland,FR,NA,NA,NA
-Switzerland,GE,NA,NA,NA
+Switzerland,GE,TRUE,NA,NA
 Switzerland,GL,NA,NA,NA
 Switzerland,GR,NA,NA,NA
 Switzerland,JU,NA,NA,NA
