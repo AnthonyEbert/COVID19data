@@ -55,8 +55,8 @@ z = ggplot(x) +
   scale_x_log10() +
   scale_y_log10() +
   geom_line() +
-  ggthemes::theme_few() +
-  guides(fill=guide_legend(title="Double click a country to see it by itself"))
+  ggthemes::theme_few()
+
 
 z = z %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
 htmlwidgets::saveWidget(z, "covid19.html", selfcontained = FALSE, title = 'Press the "Play" button')
@@ -70,11 +70,12 @@ z2 = ggplot(x) +
     date = date,
     confirmed = confirmed,
     confirmed_past7days = confirmed_past7days) +
-  scale_x_log10() +
-  scale_y_log10() +
+  scale_x_log10(labels = scales::comma) +
+  scale_y_log10(labels = scales::comma) +
   geom_line() +
   ggthemes::theme_few() +
-  guides(fill=guide_legend(title="Double click a country to see it by itself"))
+  xlab("Total Confirmed Cases") +
+  ylab("New Confirmed Cases (in the Past Week)")
 
 z2 = z2 %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
 htmlwidgets::saveWidget(z2, "covid19_original.html", selfcontained = FALSE, title = 'Press the "Play" button. Double click a country to see it by itself.')
@@ -123,11 +124,12 @@ z2 = ggplot(x_europe) +
     date = date,
     confirmed = confirmed,
     confirmed_past7days = confirmed_past7days) +
-  scale_x_log10() +
-  scale_y_log10() +
+  scale_x_log10(labels = scales::comma) +
+  scale_y_log10(labels = scales::comma) +
   geom_line() +
   ggthemes::theme_few() +
-  guides(fill=guide_legend(title="Double click a country to see it by itself"))
+  xlab("Total Confirmed Cases") +
+  ylab("New Confirmed Cases (in the Past Week)")
 
 z2 = z2 %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
 htmlwidgets::saveWidget(z2, "covid19_original_Europe.html", selfcontained = FALSE, title = 'Press the "Play" button. Double click a country to see it by itself.')
@@ -215,11 +217,12 @@ z2 = ggplot(x) +
     date = data,
     totale_casi = totale_casi,
     pre7giorni_casi = pre7giorni_casi) +
-  scale_x_log10() +
-  scale_y_log10() +
+  scale_x_log10(labels = scales::comma) +
+  scale_y_log10(labels = scales::comma) +
   geom_line() +
   ggthemes::theme_few() +
-  guides(col = guide_legend("Fare doppio clic vederla da sola. Double click a region"))
+  xlab("Total Confirmed Cases") +
+  ylab("New Confirmed Cases (in the Past Week)")
 
 z2 = z2 %>% plotly::ggplotly() %>% plotly::animation_opts(redraw = FALSE)
 htmlwidgets::saveWidget(z2, "covid19_original_Italia.html", selfcontained = FALSE, title = 'Premere il pulsante "Play, Double click a country to see it by itself.')
