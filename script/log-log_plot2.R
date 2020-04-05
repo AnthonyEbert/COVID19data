@@ -23,7 +23,7 @@ x_week_daily = covid19_sorted %>%
   ungroup() %>%
   arrange(date) %>%
   mutate(days_since = -as.numeric(first(date) - date)) %>%
-  select(alpha3, Country.Region, confirmed, confirmed_past7days, population, days_since, date) %>%
+  select(alpha3, Country.Region, confirmed, confirmed_past7days, population, days_since, date, diff_confirmed) %>%
   group_by(Country.Region) %>%
   mutate(max_confirmed = max(confirmed)) %>%
   filter(max_confirmed >= 200) %>%
@@ -51,7 +51,8 @@ z = ggplot(x) +
     col = Country.Region,
     date = date,
     confirmed = confirmed,
-    confirmed_past7days = confirmed_past7days) +
+    confirmed_past7days = confirmed_past7days,
+    confirmed_today = diff_confirmed) +
   scale_x_log10() +
   scale_y_log10() +
   geom_line() +
@@ -69,7 +70,8 @@ z2 = ggplot(x) +
     col = Country.Region,
     date = date,
     confirmed = confirmed,
-    confirmed_past7days = confirmed_past7days) +
+    confirmed_past7days = confirmed_past7days,
+    confirmed_today = diff_confirmed) +
   scale_x_log10(labels = scales::comma) +
   scale_y_log10(labels = scales::comma) +
   geom_line() +
@@ -103,7 +105,8 @@ z = ggplot(x_europe) +
     col = Country.Region,
     date = date,
     confirmed = confirmed,
-    confirmed_past7days = confirmed_past7days) +
+    confirmed_past7days = confirmed_past7days,
+    confirmed_today = diff_confirmed) +
   scale_x_log10() +
   scale_y_log10() +
   geom_line() +
@@ -123,7 +126,8 @@ z2 = ggplot(x_europe) +
     col = Country.Region,
     date = date,
     confirmed = confirmed,
-    confirmed_past7days = confirmed_past7days) +
+    confirmed_past7days = confirmed_past7days,
+    confirmed_today = diff_confirmed) +
   scale_x_log10(labels = scales::comma) +
   scale_y_log10(labels = scales::comma) +
   geom_line() +

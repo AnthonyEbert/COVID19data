@@ -12,7 +12,7 @@ x_week_daily_switzerland = covid19_sorted %>%
     diff_confirmed = c(0, diff(confirmed)),
     confirmed_past7days = zoo::rollsum(diff_confirmed, 7, fill = NA, align = "right")
   ) %>%
-  mutate(confirmed_past7days = ifelse(is.na(confirmed_past7days), confirmed, confirmed_past7days)) %>%
+  mutate(confirmed_past7days = ifelse(is.na(confirmed_past7days), confirmed, confirmed_past7days, diff_confirmed)) %>%
   arrange(date)%>%
   filter(Province.State != "total") %>%
   left_join(
@@ -50,7 +50,8 @@ z = ggplot(x) +
     col = Canton,
     date = date,
     confirmed = confirmed,
-    confirmed_past7days = confirmed_past7days) +
+    confirmed_past7days = confirmed_past7days,
+    diff_confirmed = diff_confirmed) +
   scale_x_log10() +
   scale_y_log10() +
   geom_line() +
@@ -68,7 +69,8 @@ z2 = ggplot(x) +
     col = Canton,
     date = date,
     confirmed = confirmed,
-    confirmed_past7days = confirmed_past7days) +
+    confirmed_past7days = confirmed_past7days,
+    diff_confirmed = diff_confirmed) +
   scale_x_log10(labels = scales::comma) +
   scale_y_log10(labels = scales::comma) +
   geom_line() +
