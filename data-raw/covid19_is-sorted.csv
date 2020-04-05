@@ -18,7 +18,7 @@ Australia,Victoria,TRUE,TRUE,TRUE
 Australia,Western Australia,TRUE,TRUE,TRUE
 Austria,total,TRUE,FALSE,TRUE
 Azerbaijan,total,TRUE,FALSE,TRUE
-Bahamas,total,TRUE,TRUE,TRUE
+Bahamas,total,TRUE,FALSE,TRUE
 Bahrain,total,TRUE,TRUE,TRUE
 Bangladesh,total,TRUE,TRUE,TRUE
 Barbados,total,TRUE,TRUE,TRUE
@@ -123,7 +123,7 @@ France,French Polynesia,TRUE,TRUE,TRUE
 France,Guadeloupe,TRUE,TRUE,TRUE
 France,Martinique,TRUE,TRUE,TRUE
 France,Mayotte,TRUE,TRUE,TRUE
-France,New Caledonia,TRUE,TRUE,TRUE
+France,New Caledonia,FALSE,TRUE,TRUE
 France,Reunion,TRUE,TRUE,TRUE
 France,Saint Barthelemy,FALSE,TRUE,TRUE
 France,St Martin,TRUE,TRUE,TRUE
@@ -182,7 +182,7 @@ Kosovo,total,TRUE,TRUE,TRUE
 Kuwait,total,TRUE,TRUE,TRUE
 Kyrgyzstan,total,TRUE,TRUE,TRUE
 Laos,total,TRUE,TRUE,TRUE
-Latvia,total,TRUE,TRUE,TRUE
+Latvia,total,TRUE,FALSE,TRUE
 Lebanon,total,TRUE,TRUE,TRUE
 Liberia,total,TRUE,TRUE,TRUE
 Libya,total,TRUE,FALSE,TRUE
@@ -258,7 +258,7 @@ Switzerland,BL,NA,NA,NA
 Switzerland,BS,NA,NA,NA
 Switzerland,CH,TRUE,TRUE,TRUE
 Switzerland,FR,NA,NA,NA
-Switzerland,GE,TRUE,NA,NA
+Switzerland,GE,NA,NA,NA
 Switzerland,GL,NA,NA,NA
 Switzerland,GR,NA,NA,NA
 Switzerland,JU,NA,NA,NA
@@ -295,6 +295,7 @@ United Kingdom,Bermuda,TRUE,TRUE,TRUE
 United Kingdom,British Virgin Islands,TRUE,TRUE,TRUE
 United Kingdom,Cayman Islands,TRUE,TRUE,TRUE
 United Kingdom,Channel Islands,TRUE,TRUE,TRUE
+United Kingdom,Falkland Islands (Islas Malvinas),TRUE,TRUE,TRUE
 United Kingdom,Gibraltar,TRUE,TRUE,TRUE
 United Kingdom,Isle of Man,TRUE,TRUE,TRUE
 United Kingdom,Montserrat,TRUE,TRUE,TRUE

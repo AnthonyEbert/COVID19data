@@ -71,6 +71,8 @@ Australia,total,2020-03-30,4361,257,17,NA,NA,NA,NA,NA,NA,NA,4087,AUS
 Australia,total,2020-03-31,4559,358,18,NA,NA,NA,NA,NA,NA,NA,4183,AUS
 Australia,total,2020-04-01,4862,422,20,NA,NA,NA,NA,NA,NA,NA,4420,AUS
 Australia,total,2020-04-02,5116,520,24,NA,NA,NA,NA,NA,NA,NA,4572,AUS
+Australia,total,2020-04-03,5330,649,28,NA,NA,NA,NA,NA,NA,NA,4653,AUS
+Australia,total,2020-04-04,5550,701,30,NA,NA,NA,NA,NA,NA,NA,4819,AUS
 Canada,total,2020-01-22,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-01-23,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-01-24,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
@@ -143,6 +145,8 @@ Canada,total,2020-03-30,7398,NA,80,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-03-31,8527,NA,101,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-04-01,9560,NA,109,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-04-02,11284,NA,139,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,total,2020-04-03,12437,NA,179,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,total,2020-04-04,12978,NA,218,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 China,total,2020-01-22,548,28,17,NA,NA,NA,NA,NA,NA,NA,503,CHN
 China,total,2020-01-23,643,30,18,NA,NA,NA,NA,4928,NA,95,595,CHN
 China,total,2020-01-24,920,36,26,NA,NA,NA,NA,8420,NA,177,858,CHN
@@ -215,6 +219,8 @@ China,total,2020-03-30,82198,75923,3308,NA,NA,NA,NA,19235,NA,742,2967,CHN
 China,total,2020-03-31,82279,76206,3309,NA,NA,NA,NA,19853,NA,633,2764,CHN
 China,total,2020-04-01,82361,76405,3316,NA,NA,NA,NA,20314,NA,1367,2640,CHN
 China,total,2020-04-02,82432,76565,3322,NA,NA,NA,NA,20072,NA,1422,2545,CHN
+China,total,2020-04-03,82511,76760,3326,NA,NA,NA,NA,NA,NA,1422,2425,CHN
+China,total,2020-04-04,82543,76946,3330,NA,NA,NA,NA,NA,NA,1030,2267,CHN
 Denmark,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,DNK
 Denmark,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,DNK
 Denmark,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,DNK
@@ -287,6 +293,8 @@ Denmark,total,2020-03-30,178,72,0,NA,NA,NA,NA,NA,NA,NA,106,DNK
 Denmark,total,2020-03-31,179,76,0,NA,NA,NA,NA,NA,NA,NA,103,DNK
 Denmark,total,2020-04-01,183,77,0,NA,NA,NA,NA,NA,NA,NA,106,DNK
 Denmark,total,2020-04-02,187,83,0,NA,NA,NA,NA,NA,NA,NA,104,DNK
+Denmark,total,2020-04-03,189,94,0,NA,NA,NA,NA,NA,NA,NA,95,DNK
+Denmark,total,2020-04-04,192,96,0,NA,NA,NA,NA,NA,NA,NA,96,DNK
 France,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
@@ -359,6 +367,8 @@ France,total,2020-03-30,620,37,6,NA,NA,NA,NA,NA,NA,NA,577,FRA
 France,total,2020-03-31,699,69,9,NA,NA,NA,NA,NA,NA,NA,621,FRA
 France,total,2020-04-01,760,119,11,NA,NA,NA,NA,NA,NA,NA,630,FRA
 France,total,2020-04-02,824,120,11,NA,NA,NA,NA,NA,NA,NA,693,FRA
+France,total,2020-04-03,864,127,13,NA,NA,NA,NA,NA,NA,NA,724,FRA
+France,total,2020-04-04,895,134,14,NA,NA,NA,NA,NA,NA,NA,747,FRA
 Italy,total,2020-02-24,229,1,7,26,101,94,4324,NA,NA,NA,221,ITA
 Italy,total,2020-02-25,322,1,10,35,114,162,8623,NA,NA,NA,311,ITA
 Italy,total,2020-02-26,400,3,12,36,128,221,9587,NA,NA,NA,385,ITA
@@ -399,6 +409,8 @@ Italy,total,2020-03-31,105792,15729,12428,4023,28192,45420,506968,NA,NA,NA,77635
 Italy,total,2020-04-01,110574,16847,13155,4035,28403,48134,541423,NA,NA,NA,80572,ITA
 Italy,total,2020-04-02,115242,18278,13915,4053,28540,50456,581232,NA,NA,NA,83049,ITA
 Italy,total,2020-04-03,119827,19758,14681,4068,28741,52579,619849,NA,NA,NA,85388,ITA
+Italy,total,2020-04-04,124632,20996,15362,3994,29010,55270,657224,NA,NA,NA,88274,ITA
+Italy,total,2020-04-05,128948,21815,15887,3977,28949,58320,691461,NA,NA,NA,91246,ITA
 Netherlands,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NLD
 Netherlands,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NLD
 Netherlands,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NLD
@@ -471,6 +483,8 @@ Netherlands,total,2020-03-30,67,3,1,NA,NA,NA,NA,NA,NA,NA,63,NLD
 Netherlands,total,2020-03-31,72,3,1,NA,NA,NA,NA,NA,NA,NA,68,NLD
 Netherlands,total,2020-04-01,82,10,2,NA,NA,NA,NA,NA,NA,NA,70,NLD
 Netherlands,total,2020-04-02,91,10,2,NA,NA,NA,NA,NA,NA,NA,79,NLD
+Netherlands,total,2020-04-03,98,10,3,NA,NA,NA,NA,NA,NA,NA,85,NLD
+Netherlands,total,2020-04-04,100,12,5,NA,NA,NA,NA,NA,NA,NA,83,NLD
 United Kingdom,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -543,6 +557,8 @@ United Kingdom,total,2020-03-30,312,36,3,NA,NA,NA,NA,NA,NA,NA,273,GBR
 United Kingdom,total,2020-03-31,331,44,4,NA,NA,NA,NA,NA,NA,NA,283,GBR
 United Kingdom,total,2020-04-01,391,44,5,NA,NA,NA,NA,NA,NA,NA,342,GBR
 United Kingdom,total,2020-04-02,455,57,5,NA,NA,NA,NA,NA,NA,NA,393,GBR
+United Kingdom,total,2020-04-03,521,73,6,NA,NA,NA,NA,NA,NA,NA,442,GBR
+United Kingdom,total,2020-04-04,574,80,7,NA,NA,NA,NA,NA,NA,NA,487,GBR
 Afghanistan,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
 Albania,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ALB
 Algeria,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,DZA
@@ -785,6 +801,7 @@ United Kingdom,Bermuda,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -1039,6 +1056,7 @@ United Kingdom,Bermuda,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -1293,6 +1311,7 @@ United Kingdom,Bermuda,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -1547,6 +1566,7 @@ United Kingdom,Bermuda,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -1801,6 +1821,7 @@ United Kingdom,Bermuda,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -2055,6 +2076,7 @@ United Kingdom,Bermuda,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -2309,6 +2331,7 @@ United Kingdom,Bermuda,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -2563,6 +2586,7 @@ United Kingdom,Bermuda,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -2817,6 +2841,7 @@ United Kingdom,Bermuda,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -3071,6 +3096,7 @@ United Kingdom,Bermuda,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -3325,6 +3351,7 @@ United Kingdom,Bermuda,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -3579,6 +3606,7 @@ United Kingdom,Bermuda,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -3833,6 +3861,7 @@ United Kingdom,Bermuda,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -4087,6 +4116,7 @@ United Kingdom,Bermuda,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -4341,6 +4371,7 @@ United Kingdom,Bermuda,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -4595,6 +4626,7 @@ United Kingdom,Bermuda,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -4849,6 +4881,7 @@ United Kingdom,Bermuda,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -5103,6 +5136,7 @@ United Kingdom,Bermuda,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -5357,6 +5391,7 @@ United Kingdom,Bermuda,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -5611,6 +5646,7 @@ United Kingdom,Bermuda,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -5865,6 +5901,7 @@ United Kingdom,Bermuda,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -6119,6 +6156,7 @@ United Kingdom,Bermuda,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -6373,6 +6411,7 @@ United Kingdom,Bermuda,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -6627,6 +6666,7 @@ United Kingdom,Bermuda,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -6881,6 +6921,7 @@ United Kingdom,Bermuda,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -7135,6 +7176,7 @@ United Kingdom,Bermuda,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -7389,6 +7431,7 @@ United Kingdom,Bermuda,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -7643,6 +7686,7 @@ United Kingdom,Bermuda,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -7897,6 +7941,7 @@ United Kingdom,Bermuda,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -8151,6 +8196,7 @@ United Kingdom,Bermuda,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -8405,6 +8451,7 @@ United Kingdom,Bermuda,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -8659,6 +8706,7 @@ United Kingdom,Bermuda,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -8913,6 +8961,7 @@ United Kingdom,Bermuda,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -9166,6 +9215,7 @@ United Kingdom,Bermuda,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -9419,6 +9469,7 @@ United Kingdom,Bermuda,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -9672,6 +9723,7 @@ United Kingdom,Bermuda,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -9925,6 +9977,7 @@ United Kingdom,Bermuda,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -10178,6 +10231,7 @@ United Kingdom,Bermuda,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -10431,6 +10485,7 @@ United Kingdom,Bermuda,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -10684,6 +10739,7 @@ United Kingdom,Bermuda,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -10937,6 +10993,7 @@ United Kingdom,Bermuda,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -11190,6 +11247,7 @@ United Kingdom,Bermuda,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -11443,6 +11501,7 @@ United Kingdom,Bermuda,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-04,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Isle of Man,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -11696,6 +11755,7 @@ United Kingdom,Bermuda,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-05,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Isle of Man,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -11949,6 +12009,7 @@ United Kingdom,Bermuda,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-06,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Isle of Man,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -12202,6 +12263,7 @@ United Kingdom,Bermuda,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-07,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Isle of Man,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -12455,6 +12517,7 @@ United Kingdom,Bermuda,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-08,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Isle of Man,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -12708,6 +12771,7 @@ United Kingdom,Bermuda,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-09,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Isle of Man,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -12961,6 +13025,7 @@ United Kingdom,Bermuda,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-10,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-10,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -13214,6 +13279,7 @@ United Kingdom,Bermuda,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-11,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-11,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -13467,6 +13533,7 @@ United Kingdom,Bermuda,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-12,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-12,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -13720,6 +13787,7 @@ United Kingdom,Bermuda,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-13,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Channel Islands,2020-03-13,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-13,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -13973,6 +14041,7 @@ United Kingdom,Bermuda,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-14,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Channel Islands,2020-03-14,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-14,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -14226,6 +14295,7 @@ United Kingdom,Bermuda,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-15,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Channel Islands,2020-03-15,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-15,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -14479,6 +14549,7 @@ United Kingdom,Bermuda,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-16,1,0,1,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-16,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-16,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Isle of Man,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -14732,6 +14803,7 @@ United Kingdom,Bermuda,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-17,1,0,1,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-17,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-17,3,1,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,Isle of Man,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -14985,6 +15057,7 @@ United Kingdom,Bermuda,2020-03-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,British Virgin Islands,2020-03-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-18,1,0,1,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Channel Islands,2020-03-18,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-18,8,2,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
 United Kingdom,Isle of Man,2020-03-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-18,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
@@ -15238,6 +15311,7 @@ United Kingdom,Bermuda,2020-03-19,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,British Virgin Islands,2020-03-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-19,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,Channel Islands,2020-03-19,11,0,0,NA,NA,NA,NA,NA,NA,NA,11,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-19,10,2,0,NA,NA,NA,NA,NA,NA,NA,8,GBR
 United Kingdom,Isle of Man,2020-03-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Montserrat,2020-03-19,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
@@ -15491,6 +15565,7 @@ United Kingdom,Bermuda,2020-03-20,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,British Virgin Islands,2020-03-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-20,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,Channel Islands,2020-03-20,14,0,0,NA,NA,NA,NA,NA,NA,NA,14,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-20,10,2,0,NA,NA,NA,NA,NA,NA,NA,8,GBR
 United Kingdom,Isle of Man,2020-03-20,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Montserrat,2020-03-20,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
@@ -15744,6 +15819,7 @@ United Kingdom,Bermuda,2020-03-21,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,British Virgin Islands,2020-03-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-21,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,Channel Islands,2020-03-21,32,0,0,NA,NA,NA,NA,NA,NA,NA,32,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-21,10,2,0,NA,NA,NA,NA,NA,NA,NA,8,GBR
 United Kingdom,Isle of Man,2020-03-21,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
 United Kingdom,Montserrat,2020-03-21,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
@@ -15997,6 +16073,7 @@ United Kingdom,Bermuda,2020-03-22,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
 United Kingdom,British Virgin Islands,2020-03-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-22,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,Channel Islands,2020-03-22,32,0,0,NA,NA,NA,NA,NA,NA,NA,32,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-22,15,2,0,NA,NA,NA,NA,NA,NA,NA,13,GBR
 United Kingdom,Isle of Man,2020-03-22,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
 United Kingdom,Montserrat,2020-03-22,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
@@ -16250,6 +16327,7 @@ United Kingdom,Bermuda,2020-03-23,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
 United Kingdom,British Virgin Islands,2020-03-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-23,5,0,1,NA,NA,NA,NA,NA,NA,NA,4,GBR
 United Kingdom,Channel Islands,2020-03-23,36,0,0,NA,NA,NA,NA,NA,NA,NA,36,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-23,15,2,0,NA,NA,NA,NA,NA,NA,NA,13,GBR
 United Kingdom,Isle of Man,2020-03-23,13,0,0,NA,NA,NA,NA,NA,NA,NA,13,GBR
 United Kingdom,Montserrat,2020-03-23,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
@@ -16503,6 +16581,7 @@ United Kingdom,Bermuda,2020-03-24,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
 United Kingdom,British Virgin Islands,2020-03-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-24,6,0,1,NA,NA,NA,NA,NA,NA,NA,5,GBR
 United Kingdom,Channel Islands,2020-03-24,36,0,0,NA,NA,NA,NA,NA,NA,NA,36,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-24,15,5,0,NA,NA,NA,NA,NA,NA,NA,10,GBR
 United Kingdom,Isle of Man,2020-03-24,23,0,0,NA,NA,NA,NA,NA,NA,NA,23,GBR
 United Kingdom,Montserrat,2020-03-24,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
@@ -16756,6 +16835,7 @@ United Kingdom,Bermuda,2020-03-25,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,GBR
 United Kingdom,British Virgin Islands,2020-03-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-25,8,0,1,NA,NA,NA,NA,NA,NA,NA,7,GBR
 United Kingdom,Channel Islands,2020-03-25,46,0,0,NA,NA,NA,NA,NA,NA,NA,46,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-25,26,5,0,NA,NA,NA,NA,NA,NA,NA,21,GBR
 United Kingdom,Isle of Man,2020-03-25,23,0,0,NA,NA,NA,NA,NA,NA,NA,23,GBR
 United Kingdom,Montserrat,2020-03-25,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
@@ -17009,6 +17089,7 @@ United Kingdom,Bermuda,2020-03-26,15,2,0,NA,NA,NA,NA,NA,NA,NA,13,GBR
 United Kingdom,British Virgin Islands,2020-03-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-26,8,0,1,NA,NA,NA,NA,NA,NA,NA,7,GBR
 United Kingdom,Channel Islands,2020-03-26,66,0,1,NA,NA,NA,NA,NA,NA,NA,65,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-26,35,13,0,NA,NA,NA,NA,NA,NA,NA,22,GBR
 United Kingdom,Isle of Man,2020-03-26,25,0,0,NA,NA,NA,NA,NA,NA,NA,25,GBR
 United Kingdom,Montserrat,2020-03-26,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
@@ -17262,6 +17343,7 @@ United Kingdom,Bermuda,2020-03-27,17,2,0,NA,NA,NA,NA,NA,NA,NA,15,GBR
 United Kingdom,British Virgin Islands,2020-03-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Cayman Islands,2020-03-27,8,0,1,NA,NA,NA,NA,NA,NA,NA,7,GBR
 United Kingdom,Channel Islands,2020-03-27,88,0,1,NA,NA,NA,NA,NA,NA,NA,87,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-27,55,14,0,NA,NA,NA,NA,NA,NA,NA,41,GBR
 United Kingdom,Isle of Man,2020-03-27,29,0,0,NA,NA,NA,NA,NA,NA,NA,29,GBR
 United Kingdom,Montserrat,2020-03-27,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
@@ -17515,6 +17597,7 @@ United Kingdom,Bermuda,2020-03-28,17,2,0,NA,NA,NA,NA,NA,NA,NA,15,GBR
 United Kingdom,British Virgin Islands,2020-03-28,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,Cayman Islands,2020-03-28,8,0,1,NA,NA,NA,NA,NA,NA,NA,7,GBR
 United Kingdom,Channel Islands,2020-03-28,97,0,1,NA,NA,NA,NA,NA,NA,NA,96,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-28,56,14,0,NA,NA,NA,NA,NA,NA,NA,42,GBR
 United Kingdom,Isle of Man,2020-03-28,32,0,0,NA,NA,NA,NA,NA,NA,NA,32,GBR
 United Kingdom,Montserrat,2020-03-28,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
@@ -17768,6 +17851,7 @@ United Kingdom,Bermuda,2020-03-29,22,2,0,NA,NA,NA,NA,NA,NA,NA,20,GBR
 United Kingdom,British Virgin Islands,2020-03-29,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,Cayman Islands,2020-03-29,8,0,1,NA,NA,NA,NA,NA,NA,NA,7,GBR
 United Kingdom,Channel Islands,2020-03-29,108,0,2,NA,NA,NA,NA,NA,NA,NA,106,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-29,65,14,0,NA,NA,NA,NA,NA,NA,NA,51,GBR
 United Kingdom,Isle of Man,2020-03-29,42,0,0,NA,NA,NA,NA,NA,NA,NA,42,GBR
 United Kingdom,Montserrat,2020-03-29,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
@@ -18021,6 +18105,7 @@ United Kingdom,Bermuda,2020-03-30,27,2,0,NA,NA,NA,NA,NA,NA,NA,25,GBR
 United Kingdom,British Virgin Islands,2020-03-30,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
 United Kingdom,Cayman Islands,2020-03-30,12,0,1,NA,NA,NA,NA,NA,NA,NA,11,GBR
 United Kingdom,Channel Islands,2020-03-30,141,0,2,NA,NA,NA,NA,NA,NA,NA,139,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-30,69,34,0,NA,NA,NA,NA,NA,NA,NA,35,GBR
 United Kingdom,Isle of Man,2020-03-30,49,0,0,NA,NA,NA,NA,NA,NA,NA,49,GBR
 United Kingdom,Montserrat,2020-03-30,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
@@ -18274,6 +18359,7 @@ United Kingdom,Bermuda,2020-03-31,32,10,0,NA,NA,NA,NA,NA,NA,NA,22,GBR
 United Kingdom,British Virgin Islands,2020-03-31,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
 United Kingdom,Cayman Islands,2020-03-31,14,0,1,NA,NA,NA,NA,NA,NA,NA,13,GBR
 United Kingdom,Channel Islands,2020-03-31,141,0,3,NA,NA,NA,NA,NA,NA,NA,138,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-03-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-03-31,69,34,0,NA,NA,NA,NA,NA,NA,NA,35,GBR
 United Kingdom,Isle of Man,2020-03-31,60,0,0,NA,NA,NA,NA,NA,NA,NA,60,GBR
 United Kingdom,Montserrat,2020-03-31,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
@@ -18527,6 +18613,7 @@ United Kingdom,Bermuda,2020-04-01,32,10,0,NA,NA,NA,NA,NA,NA,NA,22,GBR
 United Kingdom,British Virgin Islands,2020-04-01,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
 United Kingdom,Cayman Islands,2020-04-01,22,0,1,NA,NA,NA,NA,NA,NA,NA,21,GBR
 United Kingdom,Channel Islands,2020-04-01,172,0,3,NA,NA,NA,NA,NA,NA,NA,169,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-04-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-04-01,81,34,0,NA,NA,NA,NA,NA,NA,NA,47,GBR
 United Kingdom,Isle of Man,2020-04-01,68,0,1,NA,NA,NA,NA,NA,NA,NA,67,GBR
 United Kingdom,Montserrat,2020-04-01,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
@@ -18780,6 +18867,7 @@ United Kingdom,Bermuda,2020-04-02,35,11,0,NA,NA,NA,NA,NA,NA,NA,24,GBR
 United Kingdom,British Virgin Islands,2020-04-02,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
 United Kingdom,Cayman Islands,2020-04-02,28,0,1,NA,NA,NA,NA,NA,NA,NA,27,GBR
 United Kingdom,Channel Islands,2020-04-02,193,0,3,NA,NA,NA,NA,NA,NA,NA,190,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-04-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,Gibraltar,2020-04-02,88,46,0,NA,NA,NA,NA,NA,NA,NA,42,GBR
 United Kingdom,Isle of Man,2020-04-02,95,0,1,NA,NA,NA,NA,NA,NA,NA,94,GBR
 United Kingdom,Montserrat,2020-04-02,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
@@ -18792,6 +18880,514 @@ Vietnam,total,2020-04-02,233,75,0,NA,NA,NA,NA,NA,NA,NA,158,VNM
 West Bank and Gaza,total,2020-04-02,161,18,1,NA,NA,NA,NA,NA,NA,NA,142,PSE
 Zambia,total,2020-04-02,39,0,1,NA,NA,NA,NA,NA,NA,NA,38,ZMB
 Zimbabwe,total,2020-04-02,9,0,1,NA,NA,NA,NA,NA,NA,NA,8,ZWE
+Afghanistan,total,2020-04-03,281,10,6,NA,NA,NA,NA,NA,NA,NA,265,AFG
+Albania,total,2020-04-03,304,89,17,NA,NA,NA,NA,NA,NA,NA,198,ALB
+Algeria,total,2020-04-03,1171,62,105,NA,NA,NA,NA,NA,NA,NA,1004,DZA
+Andorra,total,2020-04-03,439,16,16,NA,NA,NA,NA,NA,NA,NA,407,AND
+Angola,total,2020-04-03,8,1,2,NA,NA,NA,NA,NA,NA,NA,5,AGO
+Antigua and Barbuda,total,2020-04-03,15,0,0,NA,NA,NA,NA,NA,NA,NA,15,ATG
+Argentina,total,2020-04-03,1265,266,39,NA,NA,NA,NA,NA,NA,NA,960,ARG
+Armenia,total,2020-04-03,736,43,7,NA,NA,NA,NA,NA,NA,NA,686,ARM
+Australia,Australian Capital Territory,2020-04-03,91,18,1,NA,NA,NA,NA,NA,NA,NA,72,AUS
+Australia,New South Wales,2020-04-03,2389,4,12,NA,NA,NA,NA,NA,NA,NA,2373,AUS
+Australia,Northern Territory,2020-04-03,22,0,0,NA,NA,NA,NA,NA,NA,NA,22,AUS
+Australia,Queensland,2020-04-03,873,8,4,NA,NA,NA,NA,NA,NA,NA,861,AUS
+Australia,South Australia,2020-04-03,396,46,0,NA,NA,NA,NA,NA,NA,NA,350,AUS
+Australia,Tasmania,2020-04-03,74,5,2,NA,NA,NA,NA,NA,NA,NA,67,AUS
+Australia,Victoria,2020-04-03,1085,476,7,NA,NA,NA,NA,NA,NA,NA,602,AUS
+Australia,Western Australia,2020-04-03,400,92,2,NA,NA,NA,NA,NA,NA,NA,306,AUS
+Austria,total,2020-04-03,11524,2022,168,NA,NA,NA,NA,NA,NA,NA,9334,AUT
+Azerbaijan,total,2020-04-03,443,32,5,NA,NA,NA,NA,NA,NA,NA,406,AZE
+Bahamas,total,2020-04-03,24,1,1,NA,NA,NA,NA,NA,NA,NA,22,BHS
+Bahrain,total,2020-04-03,672,382,4,NA,NA,NA,NA,NA,NA,NA,286,BHR
+Bangladesh,total,2020-04-03,61,26,6,NA,NA,NA,NA,NA,NA,NA,29,BGD
+Barbados,total,2020-04-03,51,0,0,NA,NA,NA,NA,NA,NA,NA,51,BRB
+Belarus,total,2020-04-03,351,53,4,NA,NA,NA,NA,NA,NA,NA,294,BLR
+Belgium,total,2020-04-03,16770,2872,1143,NA,NA,NA,NA,NA,NA,NA,12755,BEL
+Belize,total,2020-04-03,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,BLZ
+Benin,total,2020-04-03,16,2,0,NA,NA,NA,NA,NA,NA,NA,14,BEN
+Bhutan,total,2020-04-03,5,2,0,NA,NA,NA,NA,NA,NA,NA,3,BTN
+Bolivia,total,2020-04-03,132,1,9,NA,NA,NA,NA,NA,NA,NA,122,BOL
+Bosnia and Herzegovina,total,2020-04-03,579,27,17,NA,NA,NA,NA,NA,NA,NA,535,BIH
+Botswana,total,2020-04-03,4,0,1,NA,NA,NA,NA,NA,NA,NA,3,BWA
+Brazil,total,2020-04-03,9056,127,359,NA,NA,NA,NA,NA,NA,NA,8570,BRA
+Brunei,total,2020-04-03,134,65,1,NA,NA,NA,NA,NA,NA,NA,68,BRN
+Bulgaria,total,2020-04-03,485,30,14,NA,NA,NA,NA,NA,NA,NA,441,BGR
+Burkina Faso,total,2020-04-03,302,50,16,NA,NA,NA,NA,NA,NA,NA,236,BFA
+Burma,total,2020-04-03,20,0,1,NA,NA,NA,NA,NA,NA,NA,19,MMR
+Burundi,total,2020-04-03,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,BDI
+Cabo Verde,total,2020-04-03,6,0,1,NA,NA,NA,NA,NA,NA,NA,5,CPV
+Cambodia,total,2020-04-03,114,35,0,NA,NA,NA,NA,NA,NA,NA,79,KHM
+Cameroon,total,2020-04-03,509,17,8,NA,NA,NA,NA,NA,NA,NA,484,CMR
+Canada,Alberta,2020-04-03,969,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,British Columbia,2020-04-03,1174,NA,31,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Diamond Princess,2020-04-03,0,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Grand Princess,2020-04-03,13,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Manitoba,2020-04-03,182,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,New Brunswick,2020-04-03,91,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Newfoundland and Labrador,2020-04-03,195,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Northwest Territories,2020-04-03,2,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Nova Scotia,2020-04-03,207,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Ontario,2020-04-03,3255,NA,67,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Prince Edward Island,2020-04-03,22,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Quebec,2020-04-03,6101,NA,61,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Recovered,2020-04-03,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Saskatchewan,2020-04-03,220,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Yukon,2020-04-03,6,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Central African Republic,total,2020-04-03,8,0,0,NA,NA,NA,NA,NA,NA,NA,8,CAF
+Chad,total,2020-04-03,8,0,0,NA,NA,NA,NA,NA,NA,NA,8,TCD
+Chile,total,2020-04-03,3737,427,22,NA,NA,NA,NA,NA,NA,NA,3288,CHL
+China,Anhui,2020-04-03,990,984,6,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Beijing,2020-04-03,584,434,8,NA,NA,NA,NA,NA,NA,NA,142,CHN
+China,Chongqing,2020-04-03,579,570,6,NA,NA,NA,NA,NA,NA,NA,3,CHN
+China,Fujian,2020-04-03,349,300,1,NA,NA,NA,NA,NA,NA,NA,48,CHN
+China,Gansu,2020-04-03,138,127,2,NA,NA,NA,NA,NA,NA,NA,9,CHN
+China,Guangdong,2020-04-03,1514,1368,8,NA,NA,NA,NA,NA,NA,NA,138,CHN
+China,Guangxi,2020-04-03,254,252,2,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Guizhou,2020-04-03,146,144,2,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Hainan,2020-04-03,168,162,6,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Hebei,2020-04-03,326,310,6,NA,NA,NA,NA,NA,NA,NA,10,CHN
+China,Heilongjiang,2020-04-03,489,469,13,NA,NA,NA,NA,NA,NA,NA,7,CHN
+China,Henan,2020-04-03,1276,1251,22,NA,NA,NA,NA,NA,NA,NA,3,CHN
+China,Hong Kong,2020-04-03,845,173,4,NA,NA,NA,NA,NA,NA,NA,668,CHN
+China,Hubei,2020-04-03,67802,63612,3203,NA,NA,NA,NA,NA,NA,NA,987,CHN
+China,Hunan,2020-04-03,1019,1014,4,NA,NA,NA,NA,NA,NA,NA,1,CHN
+China,Inner Mongolia,2020-04-03,117,74,1,NA,NA,NA,NA,NA,NA,NA,42,CHN
+China,Jiangsu,2020-04-03,651,632,0,NA,NA,NA,NA,NA,NA,NA,19,CHN
+China,Jiangxi,2020-04-03,937,935,1,NA,NA,NA,NA,NA,NA,NA,1,CHN
+China,Jilin,2020-04-03,98,92,1,NA,NA,NA,NA,NA,NA,NA,5,CHN
+China,Liaoning,2020-04-03,141,124,2,NA,NA,NA,NA,NA,NA,NA,15,CHN
+China,Macau,2020-04-03,43,10,0,NA,NA,NA,NA,NA,NA,NA,33,CHN
+China,Ningxia,2020-04-03,75,75,0,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Qinghai,2020-04-03,18,18,0,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Shaanxi,2020-04-03,255,244,3,NA,NA,NA,NA,NA,NA,NA,8,CHN
+China,Shandong,2020-04-03,778,754,7,NA,NA,NA,NA,NA,NA,NA,17,CHN
+China,Shanghai,2020-04-03,526,348,6,NA,NA,NA,NA,NA,NA,NA,172,CHN
+China,Shanxi,2020-04-03,137,133,0,NA,NA,NA,NA,NA,NA,NA,4,CHN
+China,Sichuan,2020-04-03,555,537,3,NA,NA,NA,NA,NA,NA,NA,15,CHN
+China,Tianjin,2020-04-03,180,140,3,NA,NA,NA,NA,NA,NA,NA,37,CHN
+China,Tibet,2020-04-03,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Xinjiang,2020-04-03,76,73,3,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Yunnan,2020-04-03,184,172,2,NA,NA,NA,NA,NA,NA,NA,10,CHN
+China,Zhejiang,2020-04-03,1260,1228,1,NA,NA,NA,NA,NA,NA,NA,31,CHN
+Colombia,total,2020-04-03,1267,55,25,NA,NA,NA,NA,NA,NA,NA,1187,COL
+Congo (Brazzaville),total,2020-04-03,22,2,2,NA,NA,NA,NA,NA,NA,NA,18,COG
+Congo (Kinshasa),total,2020-04-03,134,3,13,NA,NA,NA,NA,NA,NA,NA,118,COD
+Costa Rica,total,2020-04-03,416,11,2,NA,NA,NA,NA,NA,NA,NA,403,CRI
+Cote d'Ivoire,total,2020-04-03,218,19,1,NA,NA,NA,NA,NA,NA,NA,198,CIV
+Croatia,total,2020-04-03,1079,92,8,NA,NA,NA,NA,NA,NA,NA,979,HRV
+Cuba,total,2020-04-03,269,15,6,NA,NA,NA,NA,NA,NA,NA,248,CUB
+Cyprus,total,2020-04-03,396,28,11,NA,NA,NA,NA,NA,NA,NA,357,CYP
+Czechia,total,2020-04-03,4091,72,53,NA,NA,NA,NA,NA,NA,NA,3966,CZE
+Denmark,Faroe Islands,2020-04-03,179,91,0,NA,NA,NA,NA,NA,NA,NA,88,DNK
+Denmark,Greenland,2020-04-03,10,3,0,NA,NA,NA,NA,NA,NA,NA,7,DNK
+Diamond Princess,total,2020-04-03,712,619,11,NA,NA,NA,NA,NA,NA,NA,82,cruise
+Djibouti,total,2020-04-03,49,8,0,NA,NA,NA,NA,NA,NA,NA,41,DJI
+Dominica,total,2020-04-03,12,0,0,NA,NA,NA,NA,NA,NA,NA,12,DMA
+Dominican Republic,total,2020-04-03,1488,16,68,NA,NA,NA,NA,NA,NA,NA,1404,DOM
+Ecuador,total,2020-04-03,3368,65,145,NA,NA,NA,NA,NA,NA,NA,3158,ECU
+Egypt,total,2020-04-03,985,216,66,NA,NA,NA,NA,NA,NA,NA,703,EGY
+El Salvador,total,2020-04-03,46,0,2,NA,NA,NA,NA,NA,NA,NA,44,SLV
+Equatorial Guinea,total,2020-04-03,16,1,0,NA,NA,NA,NA,NA,NA,NA,15,GNQ
+Eritrea,total,2020-04-03,22,0,0,NA,NA,NA,NA,NA,NA,NA,22,ERI
+Estonia,total,2020-04-03,961,48,12,NA,NA,NA,NA,NA,NA,NA,901,EST
+Eswatini,total,2020-04-03,9,0,0,NA,NA,NA,NA,NA,NA,NA,9,SWZ
+Ethiopia,total,2020-04-03,35,3,0,NA,NA,NA,NA,NA,NA,NA,32,ETH
+Fiji,total,2020-04-03,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,FJI
+Finland,total,2020-04-03,1615,300,20,NA,NA,NA,NA,NA,NA,NA,1295,FIN
+France,French Guiana,2020-04-03,57,22,0,NA,NA,NA,NA,NA,NA,NA,35,FRA
+France,French Polynesia,2020-04-03,39,0,0,NA,NA,NA,NA,NA,NA,NA,39,FRA
+France,Guadeloupe,2020-04-03,130,24,7,NA,NA,NA,NA,NA,NA,NA,99,FRA
+France,Martinique,2020-04-03,143,27,3,NA,NA,NA,NA,NA,NA,NA,113,FRA
+France,Mayotte,2020-04-03,128,10,2,NA,NA,NA,NA,NA,NA,NA,116,FRA
+France,New Caledonia,2020-04-03,18,1,0,NA,NA,NA,NA,NA,NA,NA,17,FRA
+France,Reunion,2020-04-03,321,40,0,NA,NA,NA,NA,NA,NA,NA,281,FRA
+France,Saint Barthelemy,2020-04-03,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,St Martin,2020-04-03,22,2,1,NA,NA,NA,NA,NA,NA,NA,19,FRA
+Gabon,total,2020-04-03,21,1,1,NA,NA,NA,NA,NA,NA,NA,19,GAB
+Gambia,total,2020-04-03,4,2,1,NA,NA,NA,NA,NA,NA,NA,1,GMB
+Georgia,total,2020-04-03,155,28,0,NA,NA,NA,NA,NA,NA,NA,127,GEO
+Germany,total,2020-04-03,91159,24575,1275,NA,NA,NA,NA,NA,NA,NA,65309,DEU
+Ghana,total,2020-04-03,205,31,5,NA,NA,NA,NA,NA,NA,NA,169,GHA
+Greece,total,2020-04-03,1613,78,63,NA,NA,NA,NA,NA,NA,NA,1472,GRC
+Grenada,total,2020-04-03,12,0,0,NA,NA,NA,NA,NA,NA,NA,12,GRD
+Guatemala,total,2020-04-03,50,12,1,NA,NA,NA,NA,NA,NA,NA,37,GTM
+Guinea,total,2020-04-03,73,2,0,NA,NA,NA,NA,NA,NA,NA,71,GIN
+Guinea-Bissau,total,2020-04-03,15,0,0,NA,NA,NA,NA,NA,NA,NA,15,GNB
+Guyana,total,2020-04-03,23,0,4,NA,NA,NA,NA,NA,NA,NA,19,GUY
+Haiti,total,2020-04-03,18,1,0,NA,NA,NA,NA,NA,NA,NA,17,HTI
+Holy See,total,2020-04-03,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,VAT
+Honduras,total,2020-04-03,222,3,15,NA,NA,NA,NA,NA,NA,NA,204,HND
+Hungary,total,2020-04-03,623,43,26,NA,NA,NA,NA,NA,NA,NA,554,HUN
+Iceland,total,2020-04-03,1364,309,4,NA,NA,NA,NA,NA,NA,NA,1051,ISL
+India,total,2020-04-03,2567,192,72,NA,NA,NA,NA,NA,NA,NA,2303,IND
+Indonesia,total,2020-04-03,1986,134,181,NA,NA,NA,NA,NA,NA,NA,1671,IDN
+Iran,total,2020-04-03,53183,17935,3294,NA,NA,NA,NA,NA,NA,NA,31954,IRN
+Iraq,total,2020-04-03,820,226,54,NA,NA,NA,NA,NA,NA,NA,540,IRQ
+Ireland,total,2020-04-03,4273,5,120,NA,NA,NA,NA,NA,NA,NA,4148,IRL
+Israel,total,2020-04-03,7428,403,40,NA,NA,NA,NA,NA,NA,NA,6985,ISR
+Jamaica,total,2020-04-03,47,2,3,NA,NA,NA,NA,NA,NA,NA,42,JAM
+Japan,total,2020-04-03,2617,514,63,NA,NA,NA,NA,NA,NA,NA,2040,JPN
+Jordan,total,2020-04-03,310,58,5,NA,NA,NA,NA,NA,NA,NA,247,JOR
+Kazakhstan,total,2020-04-03,464,29,6,NA,NA,NA,NA,NA,NA,NA,429,KAZ
+Kenya,total,2020-04-03,122,4,4,NA,NA,NA,NA,NA,NA,NA,114,KEN
+"Korea, South",total,2020-04-03,10062,6021,174,NA,NA,NA,NA,NA,NA,NA,3867,KOR
+Kosovo,total,2020-04-03,126,10,1,NA,NA,NA,NA,NA,NA,NA,115,RKS
+Kuwait,total,2020-04-03,417,82,0,NA,NA,NA,NA,NA,NA,NA,335,KWT
+Kyrgyzstan,total,2020-04-03,130,6,1,NA,NA,NA,NA,NA,NA,NA,123,KGZ
+Laos,total,2020-04-03,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,LAO
+Latvia,total,2020-04-03,493,1,1,NA,NA,NA,NA,NA,NA,NA,491,LVA
+Lebanon,total,2020-04-03,508,50,17,NA,NA,NA,NA,NA,NA,NA,441,LBN
+Liberia,total,2020-04-03,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,LBR
+Libya,total,2020-04-03,11,0,1,NA,NA,NA,NA,NA,NA,NA,10,LBY
+Liechtenstein,total,2020-04-03,75,0,0,NA,NA,NA,NA,NA,NA,NA,75,LIE
+Lithuania,total,2020-04-03,696,7,9,NA,NA,NA,NA,NA,NA,NA,680,LTU
+Luxembourg,total,2020-04-03,2612,500,31,NA,NA,NA,NA,NA,NA,NA,2081,LUX
+Madagascar,total,2020-04-03,70,0,0,NA,NA,NA,NA,NA,NA,NA,70,MDG
+Malawi,total,2020-04-03,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,MWI
+Malaysia,total,2020-04-03,3333,827,53,NA,NA,NA,NA,NA,NA,NA,2453,MYS
+Maldives,total,2020-04-03,19,13,0,NA,NA,NA,NA,NA,NA,NA,6,MDV
+Mali,total,2020-04-03,39,0,3,NA,NA,NA,NA,NA,NA,NA,36,MLI
+Malta,total,2020-04-03,202,2,0,NA,NA,NA,NA,NA,NA,NA,200,MLT
+Mauritania,total,2020-04-03,6,2,1,NA,NA,NA,NA,NA,NA,NA,3,MRT
+Mauritius,total,2020-04-03,186,0,7,NA,NA,NA,NA,NA,NA,NA,179,MUS
+Mexico,total,2020-04-03,1510,633,50,NA,NA,NA,NA,NA,NA,NA,827,MEX
+Moldova,total,2020-04-03,591,26,8,NA,NA,NA,NA,NA,NA,NA,557,MDA
+Monaco,total,2020-04-03,64,3,1,NA,NA,NA,NA,NA,NA,NA,60,MCO
+Mongolia,total,2020-04-03,14,2,0,NA,NA,NA,NA,NA,NA,NA,12,MNG
+Montenegro,total,2020-04-03,174,1,2,NA,NA,NA,NA,NA,NA,NA,171,MNE
+Morocco,total,2020-04-03,791,57,48,NA,NA,NA,NA,NA,NA,NA,686,MAR
+Mozambique,total,2020-04-03,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,MOZ
+MS Zaandam,total,2020-04-03,9,0,2,NA,NA,NA,NA,NA,NA,NA,7,cruise
+Namibia,total,2020-04-03,14,3,0,NA,NA,NA,NA,NA,NA,NA,11,NAM
+Nepal,total,2020-04-03,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,NPL
+Netherlands,Aruba,2020-04-03,62,1,0,NA,NA,NA,NA,NA,NA,NA,61,NLD
+Netherlands,"Bonaire, Sint Eustatius and Saba",2020-04-03,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,NLD
+Netherlands,Curacao,2020-04-03,11,3,1,NA,NA,NA,NA,NA,NA,NA,7,NLD
+Netherlands,Sint Maarten,2020-04-03,23,6,2,NA,NA,NA,NA,NA,NA,NA,15,NLD
+New Zealand,total,2020-04-03,868,103,1,NA,NA,NA,NA,NA,NA,NA,764,NZL
+Nicaragua,total,2020-04-03,5,0,1,NA,NA,NA,NA,NA,NA,NA,4,NIC
+Niger,total,2020-04-03,120,0,5,NA,NA,NA,NA,NA,NA,NA,115,NER
+Nigeria,total,2020-04-03,210,25,4,NA,NA,NA,NA,NA,NA,NA,181,NGA
+North Macedonia,total,2020-04-03,430,20,12,NA,NA,NA,NA,NA,NA,NA,398,MKD
+Norway,total,2020-04-03,5370,32,59,NA,NA,NA,NA,NA,NA,NA,5279,NOR
+Oman,total,2020-04-03,252,57,1,NA,NA,NA,NA,NA,NA,NA,194,OMN
+Pakistan,total,2020-04-03,2686,126,40,NA,NA,NA,NA,NA,NA,NA,2520,PAK
+Panama,total,2020-04-03,1475,10,37,NA,NA,NA,NA,NA,NA,NA,1428,PAN
+Papua New Guinea,total,2020-04-03,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,PNG
+Paraguay,total,2020-04-03,92,6,3,NA,NA,NA,NA,NA,NA,NA,83,PRY
+Peru,total,2020-04-03,1595,537,61,NA,NA,NA,NA,NA,NA,NA,997,PER
+Philippines,total,2020-04-03,3018,52,136,NA,NA,NA,NA,NA,NA,NA,2830,PHL
+Poland,total,2020-04-03,3383,56,71,NA,NA,NA,NA,NA,NA,NA,3256,POL
+Portugal,total,2020-04-03,9886,68,246,NA,NA,NA,NA,NA,NA,NA,9572,PRT
+Qatar,total,2020-04-03,1075,93,3,NA,NA,NA,NA,NA,NA,NA,979,QAT
+Romania,total,2020-04-03,3183,283,133,NA,NA,NA,NA,NA,NA,NA,2767,ROU
+Russia,total,2020-04-03,4149,281,34,NA,NA,NA,NA,NA,NA,NA,3834,RUS
+Rwanda,total,2020-04-03,89,0,0,NA,NA,NA,NA,NA,NA,NA,89,RWA
+Saint Kitts and Nevis,total,2020-04-03,9,0,0,NA,NA,NA,NA,NA,NA,NA,9,KNA
+Saint Lucia,total,2020-04-03,13,1,0,NA,NA,NA,NA,NA,NA,NA,12,LCA
+Saint Vincent and the Grenadines,total,2020-04-03,3,1,0,NA,NA,NA,NA,NA,NA,NA,2,VCT
+San Marino,total,2020-04-03,245,21,30,NA,NA,NA,NA,NA,NA,NA,194,SMR
+Saudi Arabia,total,2020-04-03,2039,351,25,NA,NA,NA,NA,NA,NA,NA,1663,SAU
+Senegal,total,2020-04-03,207,66,1,NA,NA,NA,NA,NA,NA,NA,140,SEN
+Serbia,total,2020-04-03,1476,0,39,NA,NA,NA,NA,NA,NA,NA,1437,SRB
+Seychelles,total,2020-04-03,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,SYC
+Sierra Leone,total,2020-04-03,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,SLE
+Singapore,total,2020-04-03,1114,282,5,NA,NA,NA,NA,NA,NA,NA,827,SGP
+Slovakia,total,2020-04-03,450,10,1,NA,NA,NA,NA,NA,NA,NA,439,SVK
+Slovenia,total,2020-04-03,934,70,20,NA,NA,NA,NA,NA,NA,NA,844,SVN
+Somalia,total,2020-04-03,7,1,0,NA,NA,NA,NA,NA,NA,NA,6,SOM
+South Africa,total,2020-04-03,1505,95,9,NA,NA,NA,NA,NA,NA,NA,1401,ZAF
+Spain,total,2020-04-03,119199,30513,11198,NA,NA,NA,NA,NA,NA,NA,77488,ESP
+Sri Lanka,total,2020-04-03,159,24,4,NA,NA,NA,NA,NA,NA,NA,131,LKA
+Sudan,total,2020-04-03,10,2,2,NA,NA,NA,NA,NA,NA,NA,6,SDN
+Suriname,total,2020-04-03,10,0,1,NA,NA,NA,NA,NA,NA,NA,9,SUR
+Sweden,total,2020-04-03,6131,205,358,NA,NA,NA,NA,NA,NA,NA,5568,SWE
+Switzerland,total,2020-04-03,19606,4846,591,NA,NA,NA,NA,NA,NA,NA,14169,CHE
+Syria,total,2020-04-03,16,0,2,NA,NA,NA,NA,NA,NA,NA,14,SYR
+Taiwan*,total,2020-04-03,348,50,5,NA,NA,NA,NA,NA,NA,NA,293,TWN
+Tanzania,total,2020-04-03,20,3,1,NA,NA,NA,NA,NA,NA,NA,16,TZA
+Thailand,total,2020-04-03,1978,612,19,NA,NA,NA,NA,NA,NA,NA,1347,THA
+Timor-Leste,total,2020-04-03,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,TLS
+Togo,total,2020-04-03,40,17,3,NA,NA,NA,NA,NA,NA,NA,20,TGO
+Trinidad and Tobago,total,2020-04-03,98,1,6,NA,NA,NA,NA,NA,NA,NA,91,TTO
+Tunisia,total,2020-04-03,495,5,18,NA,NA,NA,NA,NA,NA,NA,472,TUN
+Turkey,total,2020-04-03,20921,484,425,NA,NA,NA,NA,NA,NA,NA,20012,TUR
+Uganda,total,2020-04-03,48,0,0,NA,NA,NA,NA,NA,NA,NA,48,UGA
+Ukraine,total,2020-04-03,1072,22,27,NA,NA,NA,NA,NA,NA,NA,1023,UKR
+United Arab Emirates,total,2020-04-03,1264,108,9,NA,NA,NA,NA,NA,NA,NA,1147,ARE
+United Kingdom,Anguilla,2020-04-03,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
+United Kingdom,Bermuda,2020-04-03,35,14,0,NA,NA,NA,NA,NA,NA,NA,21,GBR
+United Kingdom,British Virgin Islands,2020-04-03,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
+United Kingdom,Cayman Islands,2020-04-03,28,0,1,NA,NA,NA,NA,NA,NA,NA,27,GBR
+United Kingdom,Channel Islands,2020-04-03,232,13,4,NA,NA,NA,NA,NA,NA,NA,215,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-04-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
+United Kingdom,Gibraltar,2020-04-03,95,46,0,NA,NA,NA,NA,NA,NA,NA,49,GBR
+United Kingdom,Isle of Man,2020-04-03,114,0,1,NA,NA,NA,NA,NA,NA,NA,113,GBR
+United Kingdom,Montserrat,2020-04-03,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
+United Kingdom,Turks and Caicos Islands,2020-04-03,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
+Uruguay,total,2020-04-03,369,68,4,NA,NA,NA,NA,NA,NA,NA,297,URY
+US,total,2020-04-03,275586,9707,7087,NA,NA,NA,NA,NA,NA,NA,258792,USA
+Uzbekistan,total,2020-04-03,227,25,2,NA,NA,NA,NA,NA,NA,NA,200,UZB
+Venezuela,total,2020-04-03,153,52,7,NA,NA,NA,NA,NA,NA,NA,94,VEN
+Vietnam,total,2020-04-03,237,85,0,NA,NA,NA,NA,NA,NA,NA,152,VNM
+West Bank and Gaza,total,2020-04-03,194,21,1,NA,NA,NA,NA,NA,NA,NA,172,PSE
+Zambia,total,2020-04-03,39,2,1,NA,NA,NA,NA,NA,NA,NA,36,ZMB
+Zimbabwe,total,2020-04-03,9,0,1,NA,NA,NA,NA,NA,NA,NA,8,ZWE
+Afghanistan,total,2020-04-04,299,10,7,NA,NA,NA,NA,NA,NA,NA,282,AFG
+Albania,total,2020-04-04,333,99,20,NA,NA,NA,NA,NA,NA,NA,214,ALB
+Algeria,total,2020-04-04,1251,90,130,NA,NA,NA,NA,NA,NA,NA,1031,DZA
+Andorra,total,2020-04-04,466,21,17,NA,NA,NA,NA,NA,NA,NA,428,AND
+Angola,total,2020-04-04,10,2,2,NA,NA,NA,NA,NA,NA,NA,6,AGO
+Antigua and Barbuda,total,2020-04-04,15,0,0,NA,NA,NA,NA,NA,NA,NA,15,ATG
+Argentina,total,2020-04-04,1451,279,43,NA,NA,NA,NA,NA,NA,NA,1129,ARG
+Armenia,total,2020-04-04,770,43,7,NA,NA,NA,NA,NA,NA,NA,720,ARM
+Australia,Australian Capital Territory,2020-04-04,93,18,2,NA,NA,NA,NA,NA,NA,NA,73,AUS
+Australia,New South Wales,2020-04-04,2493,4,12,NA,NA,NA,NA,NA,NA,NA,2477,AUS
+Australia,Northern Territory,2020-04-04,26,1,0,NA,NA,NA,NA,NA,NA,NA,25,AUS
+Australia,Queensland,2020-04-04,900,8,4,NA,NA,NA,NA,NA,NA,NA,888,AUS
+Australia,South Australia,2020-04-04,407,46,0,NA,NA,NA,NA,NA,NA,NA,361,AUS
+Australia,Tasmania,2020-04-04,80,5,2,NA,NA,NA,NA,NA,NA,NA,73,AUS
+Australia,Victoria,2020-04-04,1115,527,8,NA,NA,NA,NA,NA,NA,NA,580,AUS
+Australia,Western Australia,2020-04-04,436,92,2,NA,NA,NA,NA,NA,NA,NA,342,AUS
+Austria,total,2020-04-04,11781,2507,186,NA,NA,NA,NA,NA,NA,NA,9088,AUT
+Azerbaijan,total,2020-04-04,521,32,5,NA,NA,NA,NA,NA,NA,NA,484,AZE
+Bahamas,total,2020-04-04,28,0,4,NA,NA,NA,NA,NA,NA,NA,24,BHS
+Bahrain,total,2020-04-04,688,423,4,NA,NA,NA,NA,NA,NA,NA,261,BHR
+Bangladesh,total,2020-04-04,70,30,8,NA,NA,NA,NA,NA,NA,NA,32,BGD
+Barbados,total,2020-04-04,52,0,0,NA,NA,NA,NA,NA,NA,NA,52,BRB
+Belarus,total,2020-04-04,440,53,5,NA,NA,NA,NA,NA,NA,NA,382,BLR
+Belgium,total,2020-04-04,18431,3247,1283,NA,NA,NA,NA,NA,NA,NA,13901,BEL
+Belize,total,2020-04-04,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,BLZ
+Benin,total,2020-04-04,16,2,0,NA,NA,NA,NA,NA,NA,NA,14,BEN
+Bhutan,total,2020-04-04,5,2,0,NA,NA,NA,NA,NA,NA,NA,3,BTN
+Bolivia,total,2020-04-04,139,1,10,NA,NA,NA,NA,NA,NA,NA,128,BOL
+Bosnia and Herzegovina,total,2020-04-04,624,30,21,NA,NA,NA,NA,NA,NA,NA,573,BIH
+Botswana,total,2020-04-04,4,0,1,NA,NA,NA,NA,NA,NA,NA,3,BWA
+Brazil,total,2020-04-04,10360,127,445,NA,NA,NA,NA,NA,NA,NA,9788,BRA
+Brunei,total,2020-04-04,135,66,1,NA,NA,NA,NA,NA,NA,NA,68,BRN
+Bulgaria,total,2020-04-04,503,34,17,NA,NA,NA,NA,NA,NA,NA,452,BGR
+Burkina Faso,total,2020-04-04,318,66,16,NA,NA,NA,NA,NA,NA,NA,236,BFA
+Burma,total,2020-04-04,21,0,1,NA,NA,NA,NA,NA,NA,NA,20,MMR
+Burundi,total,2020-04-04,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,BDI
+Cabo Verde,total,2020-04-04,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,CPV
+Cambodia,total,2020-04-04,114,50,0,NA,NA,NA,NA,NA,NA,NA,64,KHM
+Cameroon,total,2020-04-04,555,17,9,NA,NA,NA,NA,NA,NA,NA,529,CMR
+Canada,Alberta,2020-04-04,1075,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,British Columbia,2020-04-04,1203,NA,38,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Diamond Princess,2020-04-04,0,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Grand Princess,2020-04-04,13,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Manitoba,2020-04-04,182,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,New Brunswick,2020-04-04,91,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Newfoundland and Labrador,2020-04-04,195,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Northwest Territories,2020-04-04,4,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Nova Scotia,2020-04-04,236,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Ontario,2020-04-04,3630,NA,94,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Prince Edward Island,2020-04-04,22,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Quebec,2020-04-04,6101,NA,61,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Recovered,2020-04-04,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Saskatchewan,2020-04-04,220,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Yukon,2020-04-04,6,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Central African Republic,total,2020-04-04,8,0,0,NA,NA,NA,NA,NA,NA,NA,8,CAF
+Chad,total,2020-04-04,9,0,0,NA,NA,NA,NA,NA,NA,NA,9,TCD
+Chile,total,2020-04-04,4161,528,27,NA,NA,NA,NA,NA,NA,NA,3606,CHL
+China,Anhui,2020-04-04,990,984,6,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Beijing,2020-04-04,585,438,8,NA,NA,NA,NA,NA,NA,NA,139,CHN
+China,Chongqing,2020-04-04,579,570,6,NA,NA,NA,NA,NA,NA,NA,3,CHN
+China,Fujian,2020-04-04,350,301,1,NA,NA,NA,NA,NA,NA,NA,48,CHN
+China,Gansu,2020-04-04,138,131,2,NA,NA,NA,NA,NA,NA,NA,5,CHN
+China,Guangdong,2020-04-04,1516,1378,8,NA,NA,NA,NA,NA,NA,NA,130,CHN
+China,Guangxi,2020-04-04,254,252,2,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Guizhou,2020-04-04,146,144,2,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Hainan,2020-04-04,168,162,6,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Hebei,2020-04-04,326,310,6,NA,NA,NA,NA,NA,NA,NA,10,CHN
+China,Heilongjiang,2020-04-04,491,469,13,NA,NA,NA,NA,NA,NA,NA,9,CHN
+China,Henan,2020-04-04,1276,1251,22,NA,NA,NA,NA,NA,NA,NA,3,CHN
+China,Hong Kong,2020-04-04,862,173,4,NA,NA,NA,NA,NA,NA,NA,685,CHN
+China,Hubei,2020-04-04,67803,63762,3207,NA,NA,NA,NA,NA,NA,NA,834,CHN
+China,Hunan,2020-04-04,1019,1014,4,NA,NA,NA,NA,NA,NA,NA,1,CHN
+China,Inner Mongolia,2020-04-04,117,74,1,NA,NA,NA,NA,NA,NA,NA,42,CHN
+China,Jiangsu,2020-04-04,651,632,0,NA,NA,NA,NA,NA,NA,NA,19,CHN
+China,Jiangxi,2020-04-04,937,935,1,NA,NA,NA,NA,NA,NA,NA,1,CHN
+China,Jilin,2020-04-04,98,92,1,NA,NA,NA,NA,NA,NA,NA,5,CHN
+China,Liaoning,2020-04-04,141,125,2,NA,NA,NA,NA,NA,NA,NA,14,CHN
+China,Macau,2020-04-04,43,10,0,NA,NA,NA,NA,NA,NA,NA,33,CHN
+China,Ningxia,2020-04-04,75,75,0,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Qinghai,2020-04-04,18,18,0,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Shaanxi,2020-04-04,256,245,3,NA,NA,NA,NA,NA,NA,NA,8,CHN
+China,Shandong,2020-04-04,778,755,7,NA,NA,NA,NA,NA,NA,NA,16,CHN
+China,Shanghai,2020-04-04,529,356,6,NA,NA,NA,NA,NA,NA,NA,167,CHN
+China,Shanxi,2020-04-04,137,133,0,NA,NA,NA,NA,NA,NA,NA,4,CHN
+China,Sichuan,2020-04-04,557,538,3,NA,NA,NA,NA,NA,NA,NA,16,CHN
+China,Tianjin,2020-04-04,180,144,3,NA,NA,NA,NA,NA,NA,NA,33,CHN
+China,Tibet,2020-04-04,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Xinjiang,2020-04-04,76,73,3,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Yunnan,2020-04-04,184,172,2,NA,NA,NA,NA,NA,NA,NA,10,CHN
+China,Zhejiang,2020-04-04,1262,1229,1,NA,NA,NA,NA,NA,NA,NA,32,CHN
+Colombia,total,2020-04-04,1406,85,32,NA,NA,NA,NA,NA,NA,NA,1289,COL
+Congo (Brazzaville),total,2020-04-04,22,2,2,NA,NA,NA,NA,NA,NA,NA,18,COG
+Congo (Kinshasa),total,2020-04-04,154,3,18,NA,NA,NA,NA,NA,NA,NA,133,COD
+Costa Rica,total,2020-04-04,435,13,2,NA,NA,NA,NA,NA,NA,NA,420,CRI
+Cote d'Ivoire,total,2020-04-04,245,25,1,NA,NA,NA,NA,NA,NA,NA,219,CIV
+Croatia,total,2020-04-04,1126,119,12,NA,NA,NA,NA,NA,NA,NA,995,HRV
+Cuba,total,2020-04-04,288,15,6,NA,NA,NA,NA,NA,NA,NA,267,CUB
+Cyprus,total,2020-04-04,426,33,11,NA,NA,NA,NA,NA,NA,NA,382,CYP
+Czechia,total,2020-04-04,4472,78,59,NA,NA,NA,NA,NA,NA,NA,4335,CZE
+Denmark,Faroe Islands,2020-04-04,181,93,0,NA,NA,NA,NA,NA,NA,NA,88,DNK
+Denmark,Greenland,2020-04-04,11,3,0,NA,NA,NA,NA,NA,NA,NA,8,DNK
+Diamond Princess,total,2020-04-04,712,619,11,NA,NA,NA,NA,NA,NA,NA,82,cruise
+Djibouti,total,2020-04-04,50,8,0,NA,NA,NA,NA,NA,NA,NA,42,DJI
+Dominica,total,2020-04-04,14,0,0,NA,NA,NA,NA,NA,NA,NA,14,DMA
+Dominican Republic,total,2020-04-04,1488,16,68,NA,NA,NA,NA,NA,NA,NA,1404,DOM
+Ecuador,total,2020-04-04,3465,100,172,NA,NA,NA,NA,NA,NA,NA,3193,ECU
+Egypt,total,2020-04-04,1070,241,71,NA,NA,NA,NA,NA,NA,NA,758,EGY
+El Salvador,total,2020-04-04,56,2,3,NA,NA,NA,NA,NA,NA,NA,51,SLV
+Equatorial Guinea,total,2020-04-04,16,1,0,NA,NA,NA,NA,NA,NA,NA,15,GNQ
+Eritrea,total,2020-04-04,29,0,0,NA,NA,NA,NA,NA,NA,NA,29,ERI
+Estonia,total,2020-04-04,1039,59,13,NA,NA,NA,NA,NA,NA,NA,967,EST
+Eswatini,total,2020-04-04,9,0,0,NA,NA,NA,NA,NA,NA,NA,9,SWZ
+Ethiopia,total,2020-04-04,38,4,0,NA,NA,NA,NA,NA,NA,NA,34,ETH
+Fiji,total,2020-04-04,12,0,0,NA,NA,NA,NA,NA,NA,NA,12,FJI
+Finland,total,2020-04-04,1882,300,25,NA,NA,NA,NA,NA,NA,NA,1557,FIN
+France,French Guiana,2020-04-04,61,22,0,NA,NA,NA,NA,NA,NA,NA,39,FRA
+France,French Polynesia,2020-04-04,40,0,0,NA,NA,NA,NA,NA,NA,NA,40,FRA
+France,Guadeloupe,2020-04-04,134,24,7,NA,NA,NA,NA,NA,NA,NA,103,FRA
+France,Martinique,2020-04-04,145,27,3,NA,NA,NA,NA,NA,NA,NA,115,FRA
+France,Mayotte,2020-04-04,134,14,2,NA,NA,NA,NA,NA,NA,NA,118,FRA
+France,New Caledonia,2020-04-04,17,1,0,NA,NA,NA,NA,NA,NA,NA,16,FRA
+France,Reunion,2020-04-04,334,40,0,NA,NA,NA,NA,NA,NA,NA,294,FRA
+France,Saint Barthelemy,2020-04-04,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,St Martin,2020-04-04,24,5,2,NA,NA,NA,NA,NA,NA,NA,17,FRA
+Gabon,total,2020-04-04,21,1,1,NA,NA,NA,NA,NA,NA,NA,19,GAB
+Gambia,total,2020-04-04,4,2,1,NA,NA,NA,NA,NA,NA,NA,1,GMB
+Georgia,total,2020-04-04,162,36,1,NA,NA,NA,NA,NA,NA,NA,125,GEO
+Germany,total,2020-04-04,96092,26400,1444,NA,NA,NA,NA,NA,NA,NA,68248,DEU
+Ghana,total,2020-04-04,205,31,5,NA,NA,NA,NA,NA,NA,NA,169,GHA
+Greece,total,2020-04-04,1673,78,68,NA,NA,NA,NA,NA,NA,NA,1527,GRC
+Grenada,total,2020-04-04,12,0,0,NA,NA,NA,NA,NA,NA,NA,12,GRD
+Guatemala,total,2020-04-04,61,15,2,NA,NA,NA,NA,NA,NA,NA,44,GTM
+Guinea,total,2020-04-04,111,5,0,NA,NA,NA,NA,NA,NA,NA,106,GIN
+Guinea-Bissau,total,2020-04-04,18,0,0,NA,NA,NA,NA,NA,NA,NA,18,GNB
+Guyana,total,2020-04-04,23,0,4,NA,NA,NA,NA,NA,NA,NA,19,GUY
+Haiti,total,2020-04-04,20,1,0,NA,NA,NA,NA,NA,NA,NA,19,HTI
+Holy See,total,2020-04-04,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,VAT
+Honduras,total,2020-04-04,264,3,15,NA,NA,NA,NA,NA,NA,NA,246,HND
+Hungary,total,2020-04-04,678,58,32,NA,NA,NA,NA,NA,NA,NA,588,HUN
+Iceland,total,2020-04-04,1417,396,4,NA,NA,NA,NA,NA,NA,NA,1017,ISL
+India,total,2020-04-04,3082,229,86,NA,NA,NA,NA,NA,NA,NA,2767,IND
+Indonesia,total,2020-04-04,2092,150,191,NA,NA,NA,NA,NA,NA,NA,1751,IDN
+Iran,total,2020-04-04,55743,19736,3452,NA,NA,NA,NA,NA,NA,NA,32555,IRN
+Iraq,total,2020-04-04,878,259,56,NA,NA,NA,NA,NA,NA,NA,563,IRQ
+Ireland,total,2020-04-04,4604,25,137,NA,NA,NA,NA,NA,NA,NA,4442,IRL
+Israel,total,2020-04-04,7851,427,44,NA,NA,NA,NA,NA,NA,NA,7380,ISR
+Jamaica,total,2020-04-04,53,7,3,NA,NA,NA,NA,NA,NA,NA,43,JAM
+Japan,total,2020-04-04,3139,514,77,NA,NA,NA,NA,NA,NA,NA,2548,JPN
+Jordan,total,2020-04-04,323,74,5,NA,NA,NA,NA,NA,NA,NA,244,JOR
+Kazakhstan,total,2020-04-04,531,36,5,NA,NA,NA,NA,NA,NA,NA,490,KAZ
+Kenya,total,2020-04-04,126,4,4,NA,NA,NA,NA,NA,NA,NA,118,KEN
+"Korea, South",total,2020-04-04,10156,6325,177,NA,NA,NA,NA,NA,NA,NA,3654,KOR
+Kosovo,total,2020-04-04,135,16,1,NA,NA,NA,NA,NA,NA,NA,118,RKS
+Kuwait,total,2020-04-04,479,93,1,NA,NA,NA,NA,NA,NA,NA,385,KWT
+Kyrgyzstan,total,2020-04-04,144,9,1,NA,NA,NA,NA,NA,NA,NA,134,KGZ
+Laos,total,2020-04-04,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,LAO
+Latvia,total,2020-04-04,509,1,1,NA,NA,NA,NA,NA,NA,NA,507,LVA
+Lebanon,total,2020-04-04,520,54,17,NA,NA,NA,NA,NA,NA,NA,449,LBN
+Liberia,total,2020-04-04,10,3,1,NA,NA,NA,NA,NA,NA,NA,6,LBR
+Libya,total,2020-04-04,18,0,1,NA,NA,NA,NA,NA,NA,NA,17,LBY
+Liechtenstein,total,2020-04-04,77,0,1,NA,NA,NA,NA,NA,NA,NA,76,LIE
+Lithuania,total,2020-04-04,771,7,11,NA,NA,NA,NA,NA,NA,NA,753,LTU
+Luxembourg,total,2020-04-04,2729,500,31,NA,NA,NA,NA,NA,NA,NA,2198,LUX
+Madagascar,total,2020-04-04,70,0,0,NA,NA,NA,NA,NA,NA,NA,70,MDG
+Malawi,total,2020-04-04,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,MWI
+Malaysia,total,2020-04-04,3483,915,57,NA,NA,NA,NA,NA,NA,NA,2511,MYS
+Maldives,total,2020-04-04,19,13,0,NA,NA,NA,NA,NA,NA,NA,6,MDV
+Mali,total,2020-04-04,41,1,3,NA,NA,NA,NA,NA,NA,NA,37,MLI
+Malta,total,2020-04-04,213,2,0,NA,NA,NA,NA,NA,NA,NA,211,MLT
+Mauritania,total,2020-04-04,6,2,1,NA,NA,NA,NA,NA,NA,NA,3,MRT
+Mauritius,total,2020-04-04,196,7,7,NA,NA,NA,NA,NA,NA,NA,182,MUS
+Mexico,total,2020-04-04,1688,633,60,NA,NA,NA,NA,NA,NA,NA,995,MEX
+Moldova,total,2020-04-04,752,29,12,NA,NA,NA,NA,NA,NA,NA,711,MDA
+Monaco,total,2020-04-04,66,3,1,NA,NA,NA,NA,NA,NA,NA,62,MCO
+Mongolia,total,2020-04-04,14,2,0,NA,NA,NA,NA,NA,NA,NA,12,MNG
+Montenegro,total,2020-04-04,201,1,2,NA,NA,NA,NA,NA,NA,NA,198,MNE
+Morocco,total,2020-04-04,919,66,59,NA,NA,NA,NA,NA,NA,NA,794,MAR
+Mozambique,total,2020-04-04,10,1,0,NA,NA,NA,NA,NA,NA,NA,9,MOZ
+MS Zaandam,total,2020-04-04,9,0,2,NA,NA,NA,NA,NA,NA,NA,7,cruise
+Namibia,total,2020-04-04,14,3,0,NA,NA,NA,NA,NA,NA,NA,11,NAM
+Nepal,total,2020-04-04,9,1,0,NA,NA,NA,NA,NA,NA,NA,8,NPL
+Netherlands,Aruba,2020-04-04,64,1,0,NA,NA,NA,NA,NA,NA,NA,63,NLD
+Netherlands,"Bonaire, Sint Eustatius and Saba",2020-04-04,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,NLD
+Netherlands,Curacao,2020-04-04,11,5,1,NA,NA,NA,NA,NA,NA,NA,5,NLD
+Netherlands,Sint Maarten,2020-04-04,23,6,4,NA,NA,NA,NA,NA,NA,NA,13,NLD
+New Zealand,total,2020-04-04,950,127,1,NA,NA,NA,NA,NA,NA,NA,822,NZL
+Nicaragua,total,2020-04-04,5,0,1,NA,NA,NA,NA,NA,NA,NA,4,NIC
+Niger,total,2020-04-04,144,0,8,NA,NA,NA,NA,NA,NA,NA,136,NER
+Nigeria,total,2020-04-04,214,25,4,NA,NA,NA,NA,NA,NA,NA,185,NGA
+North Macedonia,total,2020-04-04,483,20,17,NA,NA,NA,NA,NA,NA,NA,446,MKD
+Norway,total,2020-04-04,5550,32,62,NA,NA,NA,NA,NA,NA,NA,5456,NOR
+Oman,total,2020-04-04,277,61,2,NA,NA,NA,NA,NA,NA,NA,214,OMN
+Pakistan,total,2020-04-04,2818,131,41,NA,NA,NA,NA,NA,NA,NA,2646,PAK
+Panama,total,2020-04-04,1673,13,41,NA,NA,NA,NA,NA,NA,NA,1619,PAN
+Papua New Guinea,total,2020-04-04,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,PNG
+Paraguay,total,2020-04-04,96,12,3,NA,NA,NA,NA,NA,NA,NA,81,PRY
+Peru,total,2020-04-04,1746,914,73,NA,NA,NA,NA,NA,NA,NA,759,PER
+Philippines,total,2020-04-04,3094,57,144,NA,NA,NA,NA,NA,NA,NA,2893,PHL
+Poland,total,2020-04-04,3627,116,79,NA,NA,NA,NA,NA,NA,NA,3432,POL
+Portugal,total,2020-04-04,10524,75,266,NA,NA,NA,NA,NA,NA,NA,10183,PRT
+Qatar,total,2020-04-04,1325,109,3,NA,NA,NA,NA,NA,NA,NA,1213,QAT
+Romania,total,2020-04-04,3613,329,146,NA,NA,NA,NA,NA,NA,NA,3138,ROU
+Russia,total,2020-04-04,4731,333,43,NA,NA,NA,NA,NA,NA,NA,4355,RUS
+Rwanda,total,2020-04-04,102,0,0,NA,NA,NA,NA,NA,NA,NA,102,RWA
+Saint Kitts and Nevis,total,2020-04-04,9,0,0,NA,NA,NA,NA,NA,NA,NA,9,KNA
+Saint Lucia,total,2020-04-04,14,1,0,NA,NA,NA,NA,NA,NA,NA,13,LCA
+Saint Vincent and the Grenadines,total,2020-04-04,7,1,0,NA,NA,NA,NA,NA,NA,NA,6,VCT
+San Marino,total,2020-04-04,259,27,32,NA,NA,NA,NA,NA,NA,NA,200,SMR
+Saudi Arabia,total,2020-04-04,2179,420,29,NA,NA,NA,NA,NA,NA,NA,1730,SAU
+Senegal,total,2020-04-04,219,72,2,NA,NA,NA,NA,NA,NA,NA,145,SEN
+Serbia,total,2020-04-04,1624,0,44,NA,NA,NA,NA,NA,NA,NA,1580,SRB
+Seychelles,total,2020-04-04,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,SYC
+Sierra Leone,total,2020-04-04,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,SLE
+Singapore,total,2020-04-04,1189,297,6,NA,NA,NA,NA,NA,NA,NA,886,SGP
+Slovakia,total,2020-04-04,471,10,1,NA,NA,NA,NA,NA,NA,NA,460,SVK
+Slovenia,total,2020-04-04,977,79,22,NA,NA,NA,NA,NA,NA,NA,876,SVN
+Somalia,total,2020-04-04,7,1,0,NA,NA,NA,NA,NA,NA,NA,6,SOM
+South Africa,total,2020-04-04,1585,95,9,NA,NA,NA,NA,NA,NA,NA,1481,ZAF
+Spain,total,2020-04-04,126168,34219,11947,NA,NA,NA,NA,NA,NA,NA,80002,ESP
+Sri Lanka,total,2020-04-04,166,27,5,NA,NA,NA,NA,NA,NA,NA,134,LKA
+Sudan,total,2020-04-04,10,2,2,NA,NA,NA,NA,NA,NA,NA,6,SDN
+Suriname,total,2020-04-04,10,0,1,NA,NA,NA,NA,NA,NA,NA,9,SUR
+Sweden,total,2020-04-04,6443,205,373,NA,NA,NA,NA,NA,NA,NA,5865,SWE
+Switzerland,total,2020-04-04,20505,6415,666,NA,NA,NA,NA,NA,NA,NA,13424,CHE
+Syria,total,2020-04-04,16,2,2,NA,NA,NA,NA,NA,NA,NA,12,SYR
+Taiwan*,total,2020-04-04,355,50,5,NA,NA,NA,NA,NA,NA,NA,300,TWN
+Tanzania,total,2020-04-04,20,3,1,NA,NA,NA,NA,NA,NA,NA,16,TZA
+Thailand,total,2020-04-04,2067,674,20,NA,NA,NA,NA,NA,NA,NA,1373,THA
+Timor-Leste,total,2020-04-04,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,TLS
+Togo,total,2020-04-04,41,17,3,NA,NA,NA,NA,NA,NA,NA,21,TGO
+Trinidad and Tobago,total,2020-04-04,103,1,6,NA,NA,NA,NA,NA,NA,NA,96,TTO
+Tunisia,total,2020-04-04,553,5,18,NA,NA,NA,NA,NA,NA,NA,530,TUN
+Turkey,total,2020-04-04,23934,786,501,NA,NA,NA,NA,NA,NA,NA,22647,TUR
+Uganda,total,2020-04-04,48,0,0,NA,NA,NA,NA,NA,NA,NA,48,UGA
+Ukraine,total,2020-04-04,1225,25,32,NA,NA,NA,NA,NA,NA,NA,1168,UKR
+United Arab Emirates,total,2020-04-04,1505,125,10,NA,NA,NA,NA,NA,NA,NA,1370,ARE
+United Kingdom,Anguilla,2020-04-04,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
+United Kingdom,Bermuda,2020-04-04,35,14,0,NA,NA,NA,NA,NA,NA,NA,21,GBR
+United Kingdom,British Virgin Islands,2020-04-04,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
+United Kingdom,Cayman Islands,2020-04-04,35,1,1,NA,NA,NA,NA,NA,NA,NA,33,GBR
+United Kingdom,Channel Islands,2020-04-04,262,13,5,NA,NA,NA,NA,NA,NA,NA,244,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-04-04,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GBR
+United Kingdom,Gibraltar,2020-04-04,98,52,0,NA,NA,NA,NA,NA,NA,NA,46,GBR
+United Kingdom,Isle of Man,2020-04-04,126,0,1,NA,NA,NA,NA,NA,NA,NA,125,GBR
+United Kingdom,Montserrat,2020-04-04,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
+United Kingdom,Turks and Caicos Islands,2020-04-04,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,GBR
+Uruguay,total,2020-04-04,400,93,5,NA,NA,NA,NA,NA,NA,NA,302,URY
+US,total,2020-04-04,308850,14652,8407,NA,NA,NA,NA,NA,NA,NA,285791,USA
+Uzbekistan,total,2020-04-04,266,25,2,NA,NA,NA,NA,NA,NA,NA,239,UZB
+Venezuela,total,2020-04-04,155,52,7,NA,NA,NA,NA,NA,NA,NA,96,VEN
+Vietnam,total,2020-04-04,240,90,0,NA,NA,NA,NA,NA,NA,NA,150,VNM
+West Bank and Gaza,total,2020-04-04,217,21,1,NA,NA,NA,NA,NA,NA,NA,195,PSE
+Zambia,total,2020-04-04,39,2,1,NA,NA,NA,NA,NA,NA,NA,36,ZMB
+Zimbabwe,total,2020-04-04,9,0,1,NA,NA,NA,NA,NA,NA,NA,8,ZWE
 Italy,Abruzzo,2020-02-24,0,0,0,0,0,0,5,NA,NA,NA,0,ITA
 Italy,Basilicata,2020-02-24,0,0,0,0,0,0,0,NA,NA,NA,0,ITA
 Italy,P.A. Bolzano,2020-02-24,0,0,0,0,0,0,1,NA,NA,NA,0,ITA
@@ -19632,6 +20228,48 @@ Italy,P.A. Trento,2020-04-03,2109,246,204,80,343,1236,8993,NA,NA,NA,1659,ITA
 Italy,Umbria,2020-04-03,1179,220,39,48,165,707,10614,NA,NA,NA,920,ITA
 Italy,Valle d'Aosta,2020-04-03,719,89,70,25,85,450,2106,NA,NA,NA,560,ITA
 Italy,Veneto,2020-04-03,10464,1031,572,335,1714,6812,126490,NA,NA,NA,8861,ITA
+Italy,Abruzzo,2020-04-04,1628,119,153,71,354,931,12837,NA,NA,NA,1356,ITA
+Italy,Basilicata,2020-04-04,264,9,11,19,44,181,2765,NA,NA,NA,244,ITA
+Italy,P.A. Bolzano,2020-04-04,1592,245,146,61,291,849,15045,NA,NA,NA,1201,ITA
+Italy,Calabria,2020-04-04,741,30,49,15,178,469,12314,NA,NA,NA,662,ITA
+Italy,Campania,2020-04-04,2828,146,186,114,567,1815,21534,NA,NA,NA,2496,ITA
+Italy,Emilia-Romagna,2020-04-04,16540,2040,1977,358,3859,8306,67075,NA,NA,NA,12523,ITA
+Italy,Friuli Venezia Giulia,2020-04-04,1986,505,145,50,183,1103,21126,NA,NA,NA,1336,ITA
+Italy,Lazio,2020-04-04,3757,439,212,193,1236,1677,44624,NA,NA,NA,3106,ITA
+Italy,Liguria,2020-04-04,4203,767,542,169,1121,1604,14087,NA,NA,NA,2894,ITA
+Italy,Lombardia,2020-04-04,49118,13242,8656,1326,12002,13892,141877,NA,NA,NA,27220,ITA
+Italy,Marche,2020-04-04,4341,270,574,153,997,2347,14472,NA,NA,NA,3497,ITA
+Italy,Molise,2020-04-04,206,24,11,6,31,134,1504,NA,NA,NA,171,ITA
+Italy,Piemonte,2020-04-04,11709,888,1128,450,3441,5802,37181,NA,NA,NA,9693,ITA
+Italy,Puglia,2020-04-04,2240,94,173,153,627,1193,18977,NA,NA,NA,1973,ITA
+Italy,Sardegna,2020-04-04,874,44,41,24,123,642,6789,NA,NA,NA,789,ITA
+Italy,Sicilia,2020-04-04,1932,95,111,74,553,1099,19896,NA,NA,NA,1726,ITA
+Italy,Toscana,2020-04-04,5671,310,307,286,1129,3639,47886,NA,NA,NA,5054,ITA
+Italy,P.A. Trento,2020-04-04,2220,257,210,81,353,1319,9863,NA,NA,NA,1753,ITA
+Italy,Umbria,2020-04-04,1210,242,41,44,167,716,11809,NA,NA,NA,927,ITA
+Italy,Valle d'Aosta,2020-04-04,748,106,82,23,63,474,2274,NA,NA,NA,560,ITA
+Italy,Veneto,2020-04-04,10824,1124,607,324,1691,7078,133289,NA,NA,NA,9093,ITA
+Italy,Abruzzo,2020-04-05,1703,125,158,67,347,1006,13598,NA,NA,NA,1420,ITA
+Italy,Basilicata,2020-04-05,278,11,13,18,46,190,2931,NA,NA,NA,254,ITA
+Italy,P.A. Bolzano,2020-04-05,1644,260,158,53,239,934,15723,NA,NA,NA,1226,ITA
+Italy,Calabria,2020-04-05,795,33,56,13,174,519,13077,NA,NA,NA,706,ITA
+Italy,Campania,2020-04-05,2960,150,189,108,609,1904,23139,NA,NA,NA,2621,ITA
+Italy,Emilia-Romagna,2020-04-05,17089,2201,2051,375,3839,8623,69986,NA,NA,NA,12837,ITA
+Italy,Friuli Venezia Giulia,2020-04-05,2048,531,154,50,185,1128,21652,NA,NA,NA,1363,ITA
+Italy,Lazio,2020-04-05,3880,475,219,197,1235,1754,44658,NA,NA,NA,3186,ITA
+Italy,Liguria,2020-04-05,4449,800,556,165,1126,1802,15047,NA,NA,NA,3093,ITA
+Italy,Lombardia,2020-04-05,50455,13426,8905,1317,12009,14798,149984,NA,NA,NA,28124,ITA
+Italy,Marche,2020-04-05,4464,287,599,151,987,2440,15252,NA,NA,NA,3578,ITA
+Italy,Molise,2020-04-05,224,24,13,6,33,148,1504,NA,NA,NA,187,ITA
+Italy,Piemonte,2020-04-05,12362,1017,1168,444,3472,6261,38539,NA,NA,NA,10177,ITA
+Italy,Puglia,2020-04-05,2317,113,182,159,574,1289,20080,NA,NA,NA,2022,ITA
+Italy,Sardegna,2020-04-05,907,49,43,25,126,664,7157,NA,NA,NA,815,ITA
+Italy,Sicilia,2020-04-05,1994,104,116,76,556,1142,21904,NA,NA,NA,1774,ITA
+Italy,Toscana,2020-04-05,5847,337,325,276,1111,3798,51006,NA,NA,NA,5185,ITA
+Italy,P.A. Trento,2020-04-05,2285,273,217,80,352,1363,10476,NA,NA,NA,1795,ITA
+Italy,Umbria,2020-04-05,1239,298,43,45,159,694,12448,NA,NA,NA,898,ITA
+Italy,Valle d'Aosta,2020-04-05,782,115,91,23,96,457,2390,NA,NA,NA,576,ITA
+Italy,Veneto,2020-04-05,11226,1186,631,329,1674,7406,140910,NA,NA,NA,9409,ITA
 Switzerland,AG,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AG,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AG,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -19671,6 +20309,8 @@ Switzerland,AG,2020-03-31,499,NA,11,25,60,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AG,2020-04-01,549,NA,11,27,67,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AG,2020-04-02,592,NA,12,27,67,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AG,2020-04-03,626,NA,12,27,73,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,AG,2020-04-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,AG,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -19710,6 +20350,8 @@ Switzerland,AI,2020-03-31,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-04-01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-04-02,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-04-03,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,AI,2020-04-04,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,AI,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -19749,6 +20391,8 @@ Switzerland,AR,2020-03-31,58,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-04-01,61,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-04-02,64,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-04-03,65,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,AR,2020-04-04,66,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,AR,2020-04-05,67,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -19788,6 +20432,8 @@ Switzerland,BE,2020-03-31,856,NA,16,23,88,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-04-01,909,NA,20,26,89,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-04-02,1003,NA,23,24,80,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-04-03,1073,NA,26,30,79,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BE,2020-04-04,1106,NA,28,35,78,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BE,2020-04-05,1137,NA,28,30,80,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -19827,13 +20473,15 @@ Switzerland,BL,2020-03-31,561,242,10,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-04-01,588,249,11,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-04-02,610,262,12,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-04-03,625,266,14,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BL,2020-04-04,656,298,19,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BL,2020-04-05,670,369,19,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,BS,2020-02-27,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,BS,2020-02-28,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,BS,2020-02-29,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-02-27,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-02-28,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-02-29,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-01,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,BS,2020-03-02,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-03-02,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-03,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-04,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-05,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -19844,10 +20492,10 @@ Switzerland,BS,2020-03-09,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-10,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-11,49,4,NA,2,11,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-12,73,4,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,BS,2020-03-13,92,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,BS,2020-03-14,100,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-03-13,92,4,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-03-14,100,4,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,BS,2020-03-16,144,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-03-16,144,4,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-17,165,25,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-18,182,36,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-19,222,44,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -19865,7 +20513,9 @@ Switzerland,BS,2020-03-30,621,263,15,12,78,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-03-31,657,292,16,15,90,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-04-01,691,323,18,16,92,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-04-02,718,350,19,17,102,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,BS,2020-04-03,748,397,21,17,98,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-04-03,758,397,21,17,98,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-04-04,771,434,24,16,96,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-04-05,794,460,26,15,91,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -19905,6 +20555,8 @@ Switzerland,FR,2020-03-31,491,NA,20,20,57,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-04-01,525,NA,23,23,58,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-04-02,550,NA,26,23,57,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-04-03,588,NA,31,21,56,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,FR,2020-04-04,638,NA,37,21,68,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,FR,2020-04-05,669,NA,40,20,67,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-02-25,0,NA,NA,0,0,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-02-26,1,NA,NA,0,1,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-02-27,1,NA,NA,0,1,NA,NA,NA,NA,NA,NA,CHE
@@ -19943,7 +20595,9 @@ Switzerland,GE,2020-03-30,2450,216,43,57,325,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-03-31,2657,241,52,64,341,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-04-01,2775,260,65,64,342,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-04-02,2938,283,72,62,362,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,GE,2020-04-03,2941,284,NA,65,359,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GE,2020-04-03,3220,284,78,65,359,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GE,2020-04-04,3384,305,83,61,360,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GE,2020-04-05,NA,327,NA,56,368,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -19983,6 +20637,8 @@ Switzerland,GL,2020-03-31,53,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-04-01,56,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-04-02,58,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-04-03,59,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GL,2020-04-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GL,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20022,6 +20678,8 @@ Switzerland,GR,2020-03-31,513,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-04-01,521,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-04-02,569,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-04-03,598,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GR,2020-04-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GR,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20061,6 +20719,8 @@ Switzerland,JU,2020-03-31,127,NA,NA,4,19,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-04-01,144,NA,NA,5,24,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-04-02,145,NA,NA,4,23,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-04-03,149,NA,NA,3,22,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,JU,2020-04-04,153,NA,NA,3,21,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,JU,2020-04-05,156,NA,NA,3,22,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20100,45 +20760,49 @@ Switzerland,LU,2020-03-31,375,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-04-01,401,NA,7,12,45,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-04-02,422,NA,7,11,55,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-04-03,449,NA,7,12,37,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,LU,2020-04-04,469,NA,7,12,37,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,LU,2020-04-05,478,NA,9,12,37,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-02-28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-02-29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-01,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-03-02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-03-03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-20,159,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-21,177,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-22,188,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-23,204,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-24,230,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-25,256,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-26,271,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-27,287,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-28,311,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-29,313,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-30,338,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-03-31,366,NA,6,14,45,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-04-01,402,NA,11,14,52,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-04-02,NA,NA,NA,12,49,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NE,2020-04-03,NA,NA,NA,11,50,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-04,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-05,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-06,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-07,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-08,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-09,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-10,31,NA,NA,1,3,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-11,37,NA,NA,1,5,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-12,46,NA,NA,1,5,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-13,59,NA,NA,1,8,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-14,68,NA,NA,1,9,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-15,74,NA,NA,1,8,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-16,93,NA,NA,2,11,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-17,114,NA,1,4,12,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-18,146,NA,2,3,15,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-19,175,NA,3,3,16,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-20,188,NA,3,4,17,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-21,200,NA,4,5,15,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-22,216,NA,4,6,22,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-23,247,NA,5,11,22,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-24,265,NA,6,8,24,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-25,280,NA,9,10,31,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-26,299,NA,11,9,33,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-27,316,NA,12,9,36,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-28,337,NA,14,11,39,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-29,346,NA,17,16,44,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-30,378,NA,19,12,45,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-03-31,402,NA,21,14,45,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-04-01,420,NA,23,14,52,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-04-02,430,NA,23,12,49,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-04-03,433,NA,23,11,50,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-04-04,NA,NA,24,10,49,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-04-05,NA,NA,NA,12,46,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20177,7 +20841,9 @@ Switzerland,NW,2020-03-30,63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-03-31,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-04-01,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-04-02,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,NW,2020-04-03,79,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NW,2020-04-03,79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NW,2020-04-04,80,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NW,2020-04-05,80,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20217,6 +20883,8 @@ Switzerland,OW,2020-03-31,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-04-01,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-04-02,51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-04-03,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,OW,2020-04-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,OW,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20254,8 +20922,10 @@ Switzerland,SG,2020-03-29,365,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-03-30,389,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-03-31,414,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-04-01,414,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,SG,2020-04-02,480,49,8,11,42,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,SG,2020-04-03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SG,2020-04-02,480,49,8,11,53,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SG,2020-04-03,480,50,8,12,63,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SG,2020-04-04,504,62,9,13,66,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SG,2020-04-05,515,70,9,13,57,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20294,7 +20964,9 @@ Switzerland,SH,2020-03-30,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-03-31,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-04-01,44,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-04-02,47,NA,1,3,15,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,SH,2020-04-03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SH,2020-04-03,47,NA,1,3,3,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SH,2020-04-04,47,NA,1,3,9,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SH,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20334,6 +21006,8 @@ Switzerland,SO,2020-03-31,196,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-04-01,216,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-04-02,227,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-04-03,237,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SO,2020-04-04,250,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SO,2020-04-05,258,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20373,6 +21047,8 @@ Switzerland,SZ,2020-03-31,141,48,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-04-01,146,65,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-04-02,155,65,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-04-03,164,75,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SZ,2020-04-04,168,92,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SZ,2020-04-05,170,93,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20412,6 +21088,8 @@ Switzerland,TG,2020-03-31,154,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-04-01,166,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-04-02,179,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-04-03,198,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,TG,2020-04-04,208,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,TG,2020-04-05,213,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-02-25,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20451,6 +21129,8 @@ Switzerland,TI,2020-03-31,2091,202,120,74,327,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-04-01,2195,229,132,76,320,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-04-02,2271,263,141,75,299,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-04-03,2377,287,155,75,295,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,TI,2020-04-04,2422,314,165,72,291,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,TI,2020-04-05,2508,340,177,74,288,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20490,6 +21170,8 @@ Switzerland,UR,2020-03-31,57,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-04-01,59,13,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-04-02,60,13,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-04-03,62,26,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,UR,2020-04-04,66,26,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,UR,2020-04-05,67,26,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20528,7 +21210,9 @@ Switzerland,VD,2020-03-30,3272,223,77,76,310,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-03-31,3465,225,84,80,312,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-04-01,3639,NA,92,83,307,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-04-02,3796,NA,107,83,303,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,VD,2020-04-03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,VD,2020-04-03,3915,NA,123,80,295,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,VD,2020-04-04,4035,NA,138,80,293,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,VD,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20567,7 +21251,9 @@ Switzerland,VS,2020-03-30,1000,NA,26,21,101,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-03-31,1085,NA,35,23,113,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-04-01,1145,70,37,23,116,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-04-02,1218,88,40,23,112,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,VS,2020-04-03,1273,NA,47,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,VS,2020-04-03,1273,91,45,27,117,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,VS,2020-04-04,1319,95,51,26,116,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,VS,2020-04-05,1356,NA,53,26,125,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20606,7 +21292,9 @@ Switzerland,ZG,2020-03-30,112,29,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-03-31,114,39,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-04-01,125,40,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-04-02,131,41,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,ZG,2020-04-03,138,44,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,ZG,2020-04-03,138,44,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,ZG,2020-04-04,146,46,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,ZG,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-02-27,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20646,42 +21334,46 @@ Switzerland,ZH,2020-03-31,1960,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-04-01,2148,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-04-02,2323,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-04-03,2452,NA,38,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,ZH,2020-04-04,2492,NA,41,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,ZH,2020-04-05,2522,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,CH,2020-02-25,1,0,0,0,0,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,CH,2020-02-26,2,0,0,0,1,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-02-27,3,0,0,0,1,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-02-28,10,0,0,0,9,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-02-29,13,0,0,0,10,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-01,19,0,0,0,11,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-02,27,0,0,0,13,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-03,45,0,0,0,17,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-04,55,0,0,1,21,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-05,100,0,0,1,22,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-06,162,1,1,2,24,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-07,225,1,1,4,23,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-08,274,1,2,3,32,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-09,341,3,3,9,41,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-10,416,7,5,11,52,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-11,503,11,6,16,67,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-12,793,12,7,17,76,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-13,1117,17,8,33,149,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-14,1432,17,12,38,145,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-15,1639,20,18,47,163,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-16,2239,21,27,53,191,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-17,2778,54,30,71,233,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-18,3801,75,38,76,308,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-19,5024,119,44,99,428,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-20,6526,138,67,104,497,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-21,7345,160,83,106,590,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-22,7947,181,101,127,717,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-23,9051,222,130,153,770,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-24,10040,368,150,162,882,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-25,11063,443,175,193,930,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-26,12257,546,221,216,1221,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-27,13483,654,248,235,1357,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-28,14495,734,284,263,1438,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-29,15195,800,317,271,1499,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-30,16101,938,371,308,1672,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-03-31,17062,1307,442,342,1730,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-04-01,18051,1478,503,369,1797,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-04-02,19105,1643,556,375,1857,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-04-03,19702,1745,596,381,1845,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-02-27,4,0,0,0,1,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-02-28,11,0,0,0,9,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-02-29,14,0,0,0,10,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-01,20,0,0,0,11,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-02,26,0,0,0,14,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-03,46,0,0,0,18,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-04,63,0,0,1,25,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-05,109,0,0,1,27,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-06,175,1,1,2,27,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-07,243,1,1,4,26,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-08,298,1,2,3,36,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-09,368,3,3,9,46,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-10,447,7,5,12,56,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-11,540,11,6,17,72,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-12,839,12,7,18,81,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-13,1176,17,8,34,157,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-14,1500,17,12,39,154,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-15,1713,20,18,48,171,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-16,2332,21,27,55,202,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-17,2892,54,31,75,245,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-18,3947,75,40,79,323,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-19,5199,119,47,102,444,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-20,6555,138,68,108,514,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-21,7368,160,85,111,605,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-22,7975,181,103,133,739,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-23,9094,222,133,164,792,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-24,10075,368,154,170,906,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-25,11087,443,182,203,961,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-26,12285,546,227,225,1254,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-27,13512,654,255,244,1393,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-28,14521,734,292,274,1477,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-29,15228,800,328,287,1543,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-30,16141,938,384,320,1717,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-03-31,17098,1307,457,342,1730,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-04-01,18069,1478,515,369,1797,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-04-02,19133,1643,568,375,1868,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-04-03,20141,1749,629,383,1851,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-04-04,20773,1901,687,379,1848,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-04-05,21065,2055,715,371,1845,NA,NA,NA,NA,NA,NA,CHE
