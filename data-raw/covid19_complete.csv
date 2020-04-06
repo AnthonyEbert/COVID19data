@@ -73,6 +73,7 @@ Australia,total,2020-04-01,4862,422,20,NA,NA,NA,NA,NA,NA,NA,4420,AUS
 Australia,total,2020-04-02,5116,520,24,NA,NA,NA,NA,NA,NA,NA,4572,AUS
 Australia,total,2020-04-03,5330,649,28,NA,NA,NA,NA,NA,NA,NA,4653,AUS
 Australia,total,2020-04-04,5550,701,30,NA,NA,NA,NA,NA,NA,NA,4819,AUS
+Australia,total,2020-04-05,5687,757,35,NA,NA,NA,NA,NA,NA,NA,4895,AUS
 Canada,total,2020-01-22,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-01-23,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-01-24,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
@@ -147,6 +148,7 @@ Canada,total,2020-04-01,9560,NA,109,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-04-02,11284,NA,139,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-04-03,12437,NA,179,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 Canada,total,2020-04-04,12978,NA,218,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,total,2020-04-05,15756,NA,259,NA,NA,NA,NA,NA,NA,NA,NA,CAN
 China,total,2020-01-22,548,28,17,NA,NA,NA,NA,NA,NA,NA,503,CHN
 China,total,2020-01-23,643,30,18,NA,NA,NA,NA,4928,NA,95,595,CHN
 China,total,2020-01-24,920,36,26,NA,NA,NA,NA,8420,NA,177,858,CHN
@@ -221,6 +223,7 @@ China,total,2020-04-01,82361,76405,3316,NA,NA,NA,NA,20314,NA,1367,2640,CHN
 China,total,2020-04-02,82432,76565,3322,NA,NA,NA,NA,20072,NA,1422,2545,CHN
 China,total,2020-04-03,82511,76760,3326,NA,NA,NA,NA,NA,NA,1422,2425,CHN
 China,total,2020-04-04,82543,76946,3330,NA,NA,NA,NA,NA,NA,1030,2267,CHN
+China,total,2020-04-05,82602,77207,3333,NA,NA,NA,NA,NA,NA,1030,2062,CHN
 Denmark,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,DNK
 Denmark,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,DNK
 Denmark,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,DNK
@@ -295,6 +298,7 @@ Denmark,total,2020-04-01,183,77,0,NA,NA,NA,NA,NA,NA,NA,106,DNK
 Denmark,total,2020-04-02,187,83,0,NA,NA,NA,NA,NA,NA,NA,104,DNK
 Denmark,total,2020-04-03,189,94,0,NA,NA,NA,NA,NA,NA,NA,95,DNK
 Denmark,total,2020-04-04,192,96,0,NA,NA,NA,NA,NA,NA,NA,96,DNK
+Denmark,total,2020-04-05,192,102,0,NA,NA,NA,NA,NA,NA,NA,90,DNK
 France,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
@@ -369,6 +373,7 @@ France,total,2020-04-01,760,119,11,NA,NA,NA,NA,NA,NA,NA,630,FRA
 France,total,2020-04-02,824,120,11,NA,NA,NA,NA,NA,NA,NA,693,FRA
 France,total,2020-04-03,864,127,13,NA,NA,NA,NA,NA,NA,NA,724,FRA
 France,total,2020-04-04,895,134,14,NA,NA,NA,NA,NA,NA,NA,747,FRA
+France,total,2020-04-05,934,166,15,NA,NA,NA,NA,NA,NA,NA,753,FRA
 Italy,total,2020-02-24,229,1,7,26,101,94,4324,NA,NA,NA,221,ITA
 Italy,total,2020-02-25,322,1,10,35,114,162,8623,NA,NA,NA,311,ITA
 Italy,total,2020-02-26,400,3,12,36,128,221,9587,NA,NA,NA,385,ITA
@@ -485,6 +490,7 @@ Netherlands,total,2020-04-01,82,10,2,NA,NA,NA,NA,NA,NA,NA,70,NLD
 Netherlands,total,2020-04-02,91,10,2,NA,NA,NA,NA,NA,NA,NA,79,NLD
 Netherlands,total,2020-04-03,98,10,3,NA,NA,NA,NA,NA,NA,NA,85,NLD
 Netherlands,total,2020-04-04,100,12,5,NA,NA,NA,NA,NA,NA,NA,83,NLD
+Netherlands,total,2020-04-05,102,7,5,NA,NA,NA,NA,NA,NA,NA,90,NLD
 United Kingdom,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
 United Kingdom,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GBR
@@ -559,6 +565,7 @@ United Kingdom,total,2020-04-01,391,44,5,NA,NA,NA,NA,NA,NA,NA,342,GBR
 United Kingdom,total,2020-04-02,455,57,5,NA,NA,NA,NA,NA,NA,NA,393,GBR
 United Kingdom,total,2020-04-03,521,73,6,NA,NA,NA,NA,NA,NA,NA,442,GBR
 United Kingdom,total,2020-04-04,574,80,7,NA,NA,NA,NA,NA,NA,NA,487,GBR
+United Kingdom,total,2020-04-05,630,94,9,NA,NA,NA,NA,NA,NA,NA,527,GBR
 Afghanistan,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
 Albania,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ALB
 Algeria,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,DZA
@@ -682,6 +689,7 @@ France,Mayotte,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -778,6 +786,7 @@ Slovakia,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -812,6 +821,7 @@ Uzbekistan,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -937,6 +947,7 @@ France,Mayotte,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -1033,6 +1044,7 @@ Slovakia,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -1067,6 +1079,7 @@ Uzbekistan,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-23,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -1192,6 +1205,7 @@ France,Mayotte,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -1288,6 +1302,7 @@ Slovakia,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -1322,6 +1337,7 @@ Uzbekistan,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-24,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -1447,6 +1463,7 @@ France,Mayotte,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -1543,6 +1560,7 @@ Slovakia,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -1577,6 +1595,7 @@ Uzbekistan,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-25,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -1702,6 +1721,7 @@ France,Mayotte,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -1798,6 +1818,7 @@ Slovakia,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -1832,6 +1853,7 @@ Uzbekistan,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-26,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -1957,6 +1979,7 @@ France,Mayotte,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -2053,6 +2076,7 @@ Slovakia,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-27,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -2087,6 +2111,7 @@ Uzbekistan,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-27,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -2212,6 +2237,7 @@ France,Mayotte,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -2308,6 +2334,7 @@ Slovakia,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-28,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -2342,6 +2369,7 @@ Uzbekistan,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-28,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -2467,6 +2495,7 @@ France,Mayotte,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -2563,6 +2592,7 @@ Slovakia,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-29,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -2597,6 +2627,7 @@ Uzbekistan,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-29,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -2722,6 +2753,7 @@ France,Mayotte,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -2818,6 +2850,7 @@ Slovakia,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-30,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -2852,6 +2885,7 @@ Uzbekistan,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-30,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -2977,6 +3011,7 @@ France,Mayotte,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -3073,6 +3108,7 @@ Slovakia,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-01-31,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -3107,6 +3143,7 @@ Uzbekistan,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-01-31,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-01-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -3232,6 +3269,7 @@ France,Mayotte,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -3328,6 +3366,7 @@ Slovakia,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-01,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ESP
 Sri Lanka,total,2020-02-01,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -3362,6 +3401,7 @@ Uzbekistan,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-01,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,VNM
 West Bank and Gaza,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -3487,6 +3527,7 @@ France,Mayotte,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -3583,6 +3624,7 @@ Slovakia,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-02,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ESP
 Sri Lanka,total,2020-02-02,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -3617,6 +3659,7 @@ Uzbekistan,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-02,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,VNM
 West Bank and Gaza,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -3742,6 +3785,7 @@ France,Mayotte,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -3838,6 +3882,7 @@ Slovakia,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-03,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ESP
 Sri Lanka,total,2020-02-03,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -3872,6 +3917,7 @@ Uzbekistan,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-03,8,1,0,NA,NA,NA,NA,NA,NA,NA,7,VNM
 West Bank and Gaza,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -3997,6 +4043,7 @@ France,Mayotte,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -4093,6 +4140,7 @@ Slovakia,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-04,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ESP
 Sri Lanka,total,2020-02-04,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -4127,6 +4175,7 @@ Uzbekistan,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-04,8,1,0,NA,NA,NA,NA,NA,NA,NA,7,VNM
 West Bank and Gaza,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -4252,6 +4301,7 @@ France,Mayotte,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -4348,6 +4398,7 @@ Slovakia,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-05,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ESP
 Sri Lanka,total,2020-02-05,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -4382,6 +4433,7 @@ Uzbekistan,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-05,8,1,0,NA,NA,NA,NA,NA,NA,NA,7,VNM
 West Bank and Gaza,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -4507,6 +4559,7 @@ France,Mayotte,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -4603,6 +4656,7 @@ Slovakia,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-06,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ESP
 Sri Lanka,total,2020-02-06,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -4637,6 +4691,7 @@ Uzbekistan,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-06,10,1,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -4762,6 +4817,7 @@ France,Mayotte,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -4858,6 +4914,7 @@ Slovakia,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-07,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ESP
 Sri Lanka,total,2020-02-07,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -4892,6 +4949,7 @@ Uzbekistan,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-07,10,1,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -5017,6 +5075,7 @@ France,Mayotte,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -5113,6 +5172,7 @@ Slovakia,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-08,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ESP
 Sri Lanka,total,2020-02-08,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -5147,6 +5207,7 @@ Uzbekistan,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-08,13,1,0,NA,NA,NA,NA,NA,NA,NA,12,VNM
 West Bank and Gaza,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -5272,6 +5333,7 @@ France,Mayotte,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -5368,6 +5430,7 @@ Slovakia,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-09,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ESP
 Sri Lanka,total,2020-02-09,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -5402,6 +5465,7 @@ Uzbekistan,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-09,13,1,0,NA,NA,NA,NA,NA,NA,NA,12,VNM
 West Bank and Gaza,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -5527,6 +5591,7 @@ France,Mayotte,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -5623,6 +5688,7 @@ Slovakia,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-10,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ESP
 Sri Lanka,total,2020-02-10,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -5657,6 +5723,7 @@ Uzbekistan,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-10,14,1,0,NA,NA,NA,NA,NA,NA,NA,13,VNM
 West Bank and Gaza,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -5782,6 +5849,7 @@ France,Mayotte,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -5878,6 +5946,7 @@ Slovakia,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-11,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ESP
 Sri Lanka,total,2020-02-11,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -5912,6 +5981,7 @@ Uzbekistan,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-11,15,6,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -6037,6 +6107,7 @@ France,Mayotte,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -6133,6 +6204,7 @@ Slovakia,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-12,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ESP
 Sri Lanka,total,2020-02-12,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -6167,6 +6239,7 @@ Uzbekistan,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-12,15,6,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -6292,6 +6365,7 @@ France,Mayotte,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -6388,6 +6462,7 @@ Slovakia,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-13,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ESP
 Sri Lanka,total,2020-02-13,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -6422,6 +6497,7 @@ Uzbekistan,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-13,16,7,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -6547,6 +6623,7 @@ France,Mayotte,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -6643,6 +6720,7 @@ Slovakia,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-14,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ESP
 Sri Lanka,total,2020-02-14,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -6677,6 +6755,7 @@ Uzbekistan,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-14,16,7,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -6802,6 +6881,7 @@ France,Mayotte,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -6898,6 +6978,7 @@ Slovakia,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-15,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-15,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -6932,6 +7013,7 @@ Uzbekistan,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-15,16,7,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -7057,6 +7139,7 @@ France,Mayotte,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -7153,6 +7236,7 @@ Slovakia,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-16,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-16,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -7187,6 +7271,7 @@ Uzbekistan,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-16,16,7,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -7312,6 +7397,7 @@ France,Mayotte,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -7408,6 +7494,7 @@ Slovakia,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-17,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-17,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -7442,6 +7529,7 @@ Uzbekistan,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-17,16,7,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -7567,6 +7655,7 @@ France,Mayotte,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -7663,6 +7752,7 @@ Slovakia,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-18,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-18,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -7697,6 +7787,7 @@ Uzbekistan,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-18,16,7,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -7822,6 +7913,7 @@ France,Mayotte,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -7918,6 +8010,7 @@ Slovakia,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-19,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-19,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -7952,6 +8045,7 @@ Uzbekistan,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-19,16,7,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -8077,6 +8171,7 @@ France,Mayotte,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -8173,6 +8268,7 @@ Slovakia,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-20,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-20,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -8207,6 +8303,7 @@ Uzbekistan,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-20,16,7,0,NA,NA,NA,NA,NA,NA,NA,9,VNM
 West Bank and Gaza,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -8332,6 +8429,7 @@ France,Mayotte,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -8428,6 +8526,7 @@ Slovakia,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-21,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-21,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -8462,6 +8561,7 @@ Uzbekistan,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-21,16,14,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -8587,6 +8687,7 @@ France,Mayotte,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -8683,6 +8784,7 @@ Slovakia,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-22,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-22,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -8717,6 +8819,7 @@ Uzbekistan,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-22,16,14,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,AFG
@@ -8842,6 +8945,7 @@ France,Mayotte,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -8938,6 +9042,7 @@ Slovakia,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-23,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-23,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -8972,6 +9077,7 @@ Uzbekistan,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-23,16,14,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-24,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -9097,6 +9203,7 @@ France,Mayotte,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -9192,6 +9299,7 @@ Slovakia,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-24,2,2,0,NA,NA,NA,NA,NA,NA,NA,0,ESP
 Sri Lanka,total,2020-02-24,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -9226,6 +9334,7 @@ Uzbekistan,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-24,16,14,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-25,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -9351,6 +9460,7 @@ France,Mayotte,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -9446,6 +9556,7 @@ Slovakia,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-25,6,2,0,NA,NA,NA,NA,NA,NA,NA,4,ESP
 Sri Lanka,total,2020-02-25,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -9480,6 +9591,7 @@ Uzbekistan,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-25,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-26,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -9605,6 +9717,7 @@ France,Mayotte,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -9700,6 +9813,7 @@ Slovakia,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-26,13,2,0,NA,NA,NA,NA,NA,NA,NA,11,ESP
 Sri Lanka,total,2020-02-26,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -9734,6 +9848,7 @@ Uzbekistan,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-26,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-27,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -9859,6 +9974,7 @@ France,Mayotte,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -9954,6 +10070,7 @@ Slovakia,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-27,15,2,0,NA,NA,NA,NA,NA,NA,NA,13,ESP
 Sri Lanka,total,2020-02-27,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -9988,6 +10105,7 @@ Uzbekistan,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-27,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-28,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -10113,6 +10231,7 @@ France,Mayotte,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -10208,6 +10327,7 @@ Slovakia,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-28,32,2,0,NA,NA,NA,NA,NA,NA,NA,30,ESP
 Sri Lanka,total,2020-02-28,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -10242,6 +10362,7 @@ Uzbekistan,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-28,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-02-29,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -10367,6 +10488,7 @@ France,Mayotte,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -10462,6 +10584,7 @@ Slovakia,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-02-29,45,2,0,NA,NA,NA,NA,NA,NA,NA,43,ESP
 Sri Lanka,total,2020-02-29,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -10496,6 +10619,7 @@ Uzbekistan,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-02-29,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-02-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-01,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -10621,6 +10745,7 @@ France,Mayotte,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -10716,6 +10841,7 @@ Slovakia,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-01,84,2,0,NA,NA,NA,NA,NA,NA,NA,82,ESP
 Sri Lanka,total,2020-03-01,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -10750,6 +10876,7 @@ Uzbekistan,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-01,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-02,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -10875,6 +11002,7 @@ France,Mayotte,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -10970,6 +11098,7 @@ Slovakia,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-02,120,2,0,NA,NA,NA,NA,NA,NA,NA,118,ESP
 Sri Lanka,total,2020-03-02,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -11004,6 +11133,7 @@ Uzbekistan,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-02,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-03,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -11129,6 +11259,7 @@ France,Mayotte,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
+France,Saint Pierre and Miquelon,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -11224,6 +11355,7 @@ Slovakia,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-03,165,2,1,NA,NA,NA,NA,NA,NA,NA,162,ESP
 Sri Lanka,total,2020-03-03,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -11258,6 +11390,7 @@ Uzbekistan,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-03,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-04,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -11383,6 +11516,7 @@ France,Mayotte,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-04,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -11478,6 +11612,7 @@ Slovakia,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVN
 Somalia,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZAF
+South Sudan,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-04,222,2,2,NA,NA,NA,NA,NA,NA,NA,218,ESP
 Sri Lanka,total,2020-03-04,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -11512,6 +11647,7 @@ Uzbekistan,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-04,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,PSE
+Western Sahara,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-05,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -11637,6 +11773,7 @@ France,Mayotte,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-05,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -11732,6 +11869,7 @@ Slovakia,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SVK
 Slovenia,total,2020-03-05,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,SVN
 Somalia,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-05,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ZAF
+South Sudan,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-05,259,2,3,NA,NA,NA,NA,NA,NA,NA,254,ESP
 Sri Lanka,total,2020-03-05,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -11766,6 +11904,7 @@ Uzbekistan,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-05,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-03-05,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,PSE
+Western Sahara,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-05,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-06,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -11891,6 +12030,7 @@ France,Mayotte,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-06,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -11986,6 +12126,7 @@ Slovakia,total,2020-03-06,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SVK
 Slovenia,total,2020-03-06,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,SVN
 Somalia,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-06,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ZAF
+South Sudan,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-06,400,2,5,NA,NA,NA,NA,NA,NA,NA,393,ESP
 Sri Lanka,total,2020-03-06,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -12020,6 +12161,7 @@ Uzbekistan,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-06,16,16,0,NA,NA,NA,NA,NA,NA,NA,0,VNM
 West Bank and Gaza,total,2020-03-06,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,PSE
+Western Sahara,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-06,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-07,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,AFG
@@ -12145,6 +12287,7 @@ France,Mayotte,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-07,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -12240,6 +12383,7 @@ Slovakia,total,2020-03-07,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SVK
 Slovenia,total,2020-03-07,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,SVN
 Somalia,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-07,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ZAF
+South Sudan,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-07,500,30,10,NA,NA,NA,NA,NA,NA,NA,460,ESP
 Sri Lanka,total,2020-03-07,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -12274,6 +12418,7 @@ Uzbekistan,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-07,18,16,0,NA,NA,NA,NA,NA,NA,NA,2,VNM
 West Bank and Gaza,total,2020-03-07,16,0,0,NA,NA,NA,NA,NA,NA,NA,16,PSE
+Western Sahara,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-07,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-08,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,AFG
@@ -12399,6 +12544,7 @@ France,Mayotte,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-08,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 Gabon,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -12494,6 +12640,7 @@ Slovakia,total,2020-03-08,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,SVK
 Slovenia,total,2020-03-08,16,0,0,NA,NA,NA,NA,NA,NA,NA,16,SVN
 Somalia,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-08,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,ZAF
+South Sudan,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-08,673,30,17,NA,NA,NA,NA,NA,NA,NA,626,ESP
 Sri Lanka,total,2020-03-08,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -12528,6 +12675,7 @@ Uzbekistan,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-08,30,16,0,NA,NA,NA,NA,NA,NA,NA,14,VNM
 West Bank and Gaza,total,2020-03-08,16,0,0,NA,NA,NA,NA,NA,NA,NA,16,PSE
+Western Sahara,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-08,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-09,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,AFG
@@ -12653,6 +12801,7 @@ France,Mayotte,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-09,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
+France,Saint Pierre and Miquelon,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-09,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 Gabon,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -12748,6 +12897,7 @@ Slovakia,total,2020-03-09,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,SVK
 Slovenia,total,2020-03-09,16,0,0,NA,NA,NA,NA,NA,NA,NA,16,SVN
 Somalia,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-09,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,ZAF
+South Sudan,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-09,1073,32,28,NA,NA,NA,NA,NA,NA,NA,1013,ESP
 Sri Lanka,total,2020-03-09,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -12782,6 +12932,7 @@ Uzbekistan,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-09,30,16,0,NA,NA,NA,NA,NA,NA,NA,14,VNM
 West Bank and Gaza,total,2020-03-09,19,0,0,NA,NA,NA,NA,NA,NA,NA,19,PSE
+Western Sahara,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-09,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-10,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,AFG
@@ -12907,6 +13058,7 @@ France,Mayotte,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Saint Barthelemy,2020-03-10,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
+France,Saint Pierre and Miquelon,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-10,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 Gabon,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -13002,6 +13154,7 @@ Slovakia,total,2020-03-10,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,SVK
 Slovenia,total,2020-03-10,31,0,0,NA,NA,NA,NA,NA,NA,NA,31,SVN
 Somalia,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-10,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,ZAF
+South Sudan,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-10,1695,32,35,NA,NA,NA,NA,NA,NA,NA,1628,ESP
 Sri Lanka,total,2020-03-10,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,LKA
 Sudan,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -13036,6 +13189,7 @@ Uzbekistan,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-10,31,16,0,NA,NA,NA,NA,NA,NA,NA,15,VNM
 West Bank and Gaza,total,2020-03-10,26,0,0,NA,NA,NA,NA,NA,NA,NA,26,PSE
+Western Sahara,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-10,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-11,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,AFG
@@ -13161,6 +13315,7 @@ France,Mayotte,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-11,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
 France,Saint Barthelemy,2020-03-11,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
+France,Saint Pierre and Miquelon,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-11,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 Gabon,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -13256,6 +13411,7 @@ Slovakia,total,2020-03-11,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,SVK
 Slovenia,total,2020-03-11,57,0,0,NA,NA,NA,NA,NA,NA,NA,57,SVN
 Somalia,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-11,13,0,0,NA,NA,NA,NA,NA,NA,NA,13,ZAF
+South Sudan,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-11,2277,183,54,NA,NA,NA,NA,NA,NA,NA,2040,ESP
 Sri Lanka,total,2020-03-11,2,1,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -13290,6 +13446,7 @@ Uzbekistan,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-11,38,16,0,NA,NA,NA,NA,NA,NA,NA,22,VNM
 West Bank and Gaza,total,2020-03-11,30,0,0,NA,NA,NA,NA,NA,NA,NA,30,PSE
+Western Sahara,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-11,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-12,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,AFG
@@ -13415,6 +13572,7 @@ France,Mayotte,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-12,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
 France,Saint Barthelemy,2020-03-12,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
+France,Saint Pierre and Miquelon,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-12,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 Gabon,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -13510,6 +13668,7 @@ Slovakia,total,2020-03-12,16,0,0,NA,NA,NA,NA,NA,NA,NA,16,SVK
 Slovenia,total,2020-03-12,89,0,0,NA,NA,NA,NA,NA,NA,NA,89,SVN
 Somalia,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-12,17,0,0,NA,NA,NA,NA,NA,NA,NA,17,ZAF
+South Sudan,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-12,2277,183,55,NA,NA,NA,NA,NA,NA,NA,2039,ESP
 Sri Lanka,total,2020-03-12,2,1,0,NA,NA,NA,NA,NA,NA,NA,1,LKA
 Sudan,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -13544,6 +13703,7 @@ Uzbekistan,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-12,39,16,0,NA,NA,NA,NA,NA,NA,NA,23,VNM
 West Bank and Gaza,total,2020-03-12,30,0,0,NA,NA,NA,NA,NA,NA,NA,30,PSE
+Western Sahara,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-12,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-13,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,AFG
@@ -13669,6 +13829,7 @@ France,Mayotte,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-13,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
 France,Saint Barthelemy,2020-03-13,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
+France,Saint Pierre and Miquelon,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-13,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 Gabon,total,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GAB
 Gambia,total,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -13764,6 +13925,7 @@ Slovakia,total,2020-03-13,32,0,0,NA,NA,NA,NA,NA,NA,NA,32,SVK
 Slovenia,total,2020-03-13,141,0,0,NA,NA,NA,NA,NA,NA,NA,141,SVN
 Somalia,total,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-13,24,0,0,NA,NA,NA,NA,NA,NA,NA,24,ZAF
+South Sudan,total,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-13,5232,193,133,NA,NA,NA,NA,NA,NA,NA,4906,ESP
 Sri Lanka,total,2020-03-13,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,LKA
 Sudan,total,2020-03-13,1,0,1,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -13798,6 +13960,7 @@ Uzbekistan,total,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,VEN
 Vietnam,total,2020-03-13,47,16,0,NA,NA,NA,NA,NA,NA,NA,31,VNM
 West Bank and Gaza,total,2020-03-13,31,0,0,NA,NA,NA,NA,NA,NA,NA,31,PSE
+Western Sahara,total,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-13,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-14,11,0,0,NA,NA,NA,NA,NA,NA,NA,11,AFG
@@ -13923,6 +14086,7 @@ France,Mayotte,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,New Caledonia,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-14,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,FRA
 France,Saint Barthelemy,2020-03-14,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
+France,Saint Pierre and Miquelon,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-14,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 Gabon,total,2020-03-14,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GAB
 Gambia,total,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -14018,6 +14182,7 @@ Slovakia,total,2020-03-14,44,0,0,NA,NA,NA,NA,NA,NA,NA,44,SVK
 Slovenia,total,2020-03-14,181,0,1,NA,NA,NA,NA,NA,NA,NA,180,SVN
 Somalia,total,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-14,38,0,0,NA,NA,NA,NA,NA,NA,NA,38,ZAF
+South Sudan,total,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-14,6391,517,195,NA,NA,NA,NA,NA,NA,NA,5679,ESP
 Sri Lanka,total,2020-03-14,10,1,0,NA,NA,NA,NA,NA,NA,NA,9,LKA
 Sudan,total,2020-03-14,1,0,1,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -14052,6 +14217,7 @@ Uzbekistan,total,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,UZB
 Venezuela,total,2020-03-14,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,VEN
 Vietnam,total,2020-03-14,53,16,0,NA,NA,NA,NA,NA,NA,NA,37,VNM
 West Bank and Gaza,total,2020-03-14,35,0,0,NA,NA,NA,NA,NA,NA,NA,35,PSE
+Western Sahara,total,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-14,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-15,16,0,0,NA,NA,NA,NA,NA,NA,NA,16,AFG
@@ -14177,6 +14343,7 @@ France,Mayotte,2020-03-15,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
 France,New Caledonia,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-15,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,FRA
 France,Saint Barthelemy,2020-03-15,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
+France,Saint Pierre and Miquelon,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-15,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 Gabon,total,2020-03-15,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GAB
 Gambia,total,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -14272,6 +14439,7 @@ Slovakia,total,2020-03-15,54,0,0,NA,NA,NA,NA,NA,NA,NA,54,SVK
 Slovenia,total,2020-03-15,219,0,1,NA,NA,NA,NA,NA,NA,NA,218,SVN
 Somalia,total,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SOM
 South Africa,total,2020-03-15,51,0,0,NA,NA,NA,NA,NA,NA,NA,51,ZAF
+South Sudan,total,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-15,7798,517,289,NA,NA,NA,NA,NA,NA,NA,6992,ESP
 Sri Lanka,total,2020-03-15,18,1,0,NA,NA,NA,NA,NA,NA,NA,17,LKA
 Sudan,total,2020-03-15,1,0,1,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -14306,6 +14474,7 @@ Uzbekistan,total,2020-03-15,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,UZB
 Venezuela,total,2020-03-15,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,VEN
 Vietnam,total,2020-03-15,56,16,0,NA,NA,NA,NA,NA,NA,NA,40,VNM
 West Bank and Gaza,total,2020-03-15,38,0,0,NA,NA,NA,NA,NA,NA,NA,38,PSE
+Western Sahara,total,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-15,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-16,21,1,0,NA,NA,NA,NA,NA,NA,NA,20,AFG
@@ -14431,6 +14600,7 @@ France,Mayotte,2020-03-16,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
 France,New Caledonia,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-16,9,0,0,NA,NA,NA,NA,NA,NA,NA,9,FRA
 France,Saint Barthelemy,2020-03-16,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-16,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 Gabon,total,2020-03-16,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GAB
 Gambia,total,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,GMB
@@ -14526,6 +14696,7 @@ Slovakia,total,2020-03-16,63,0,0,NA,NA,NA,NA,NA,NA,NA,63,SVK
 Slovenia,total,2020-03-16,253,0,1,NA,NA,NA,NA,NA,NA,NA,252,SVN
 Somalia,total,2020-03-16,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-16,62,0,0,NA,NA,NA,NA,NA,NA,NA,62,ZAF
+South Sudan,total,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-16,9942,530,342,NA,NA,NA,NA,NA,NA,NA,9070,ESP
 Sri Lanka,total,2020-03-16,28,1,0,NA,NA,NA,NA,NA,NA,NA,27,LKA
 Sudan,total,2020-03-16,1,0,1,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -14560,6 +14731,7 @@ Uzbekistan,total,2020-03-16,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,UZB
 Venezuela,total,2020-03-16,17,0,0,NA,NA,NA,NA,NA,NA,NA,17,VEN
 Vietnam,total,2020-03-16,61,16,0,NA,NA,NA,NA,NA,NA,NA,45,VNM
 West Bank and Gaza,total,2020-03-16,38,0,0,NA,NA,NA,NA,NA,NA,NA,38,PSE
+Western Sahara,total,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-16,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-17,22,1,0,NA,NA,NA,NA,NA,NA,NA,21,AFG
@@ -14685,6 +14857,7 @@ France,Mayotte,2020-03-17,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
 France,New Caledonia,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-17,9,0,0,NA,NA,NA,NA,NA,NA,NA,9,FRA
 France,Saint Barthelemy,2020-03-17,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-17,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 Gabon,total,2020-03-17,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GAB
 Gambia,total,2020-03-17,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -14780,6 +14953,7 @@ Slovakia,total,2020-03-17,72,0,0,NA,NA,NA,NA,NA,NA,NA,72,SVK
 Slovenia,total,2020-03-17,275,0,1,NA,NA,NA,NA,NA,NA,NA,274,SVN
 Somalia,total,2020-03-17,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-17,62,0,0,NA,NA,NA,NA,NA,NA,NA,62,ZAF
+South Sudan,total,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-17,11748,1028,533,NA,NA,NA,NA,NA,NA,NA,10187,ESP
 Sri Lanka,total,2020-03-17,44,1,0,NA,NA,NA,NA,NA,NA,NA,43,LKA
 Sudan,total,2020-03-17,1,0,1,NA,NA,NA,NA,NA,NA,NA,0,SDN
@@ -14814,6 +14988,7 @@ Uzbekistan,total,2020-03-17,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,UZB
 Venezuela,total,2020-03-17,33,0,0,NA,NA,NA,NA,NA,NA,NA,33,VEN
 Vietnam,total,2020-03-17,66,16,0,NA,NA,NA,NA,NA,NA,NA,50,VNM
 West Bank and Gaza,total,2020-03-17,39,0,0,NA,NA,NA,NA,NA,NA,NA,39,PSE
+Western Sahara,total,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZMB
 Zimbabwe,total,2020-03-17,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-18,22,1,0,NA,NA,NA,NA,NA,NA,NA,21,AFG
@@ -14939,6 +15114,7 @@ France,Mayotte,2020-03-18,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
 France,New Caledonia,2020-03-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,Reunion,2020-03-18,12,0,0,NA,NA,NA,NA,NA,NA,NA,12,FRA
 France,Saint Barthelemy,2020-03-18,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-18,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
 Gabon,total,2020-03-18,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GAB
 Gambia,total,2020-03-18,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -15034,6 +15210,7 @@ Slovakia,total,2020-03-18,105,0,1,NA,NA,NA,NA,NA,NA,NA,104,SVK
 Slovenia,total,2020-03-18,275,0,1,NA,NA,NA,NA,NA,NA,NA,274,SVN
 Somalia,total,2020-03-18,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-18,116,0,0,NA,NA,NA,NA,NA,NA,NA,116,ZAF
+South Sudan,total,2020-03-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-18,13910,1081,623,NA,NA,NA,NA,NA,NA,NA,12206,ESP
 Sri Lanka,total,2020-03-18,51,1,0,NA,NA,NA,NA,NA,NA,NA,50,LKA
 Sudan,total,2020-03-18,2,0,1,NA,NA,NA,NA,NA,NA,NA,1,SDN
@@ -15068,6 +15245,7 @@ Uzbekistan,total,2020-03-18,15,0,0,NA,NA,NA,NA,NA,NA,NA,15,UZB
 Venezuela,total,2020-03-18,36,0,0,NA,NA,NA,NA,NA,NA,NA,36,VEN
 Vietnam,total,2020-03-18,75,16,0,NA,NA,NA,NA,NA,NA,NA,59,VNM
 West Bank and Gaza,total,2020-03-18,41,0,0,NA,NA,NA,NA,NA,NA,NA,41,PSE
+Western Sahara,total,2020-03-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-18,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ZMB
 Zimbabwe,total,2020-03-18,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-19,22,1,0,NA,NA,NA,NA,NA,NA,NA,21,AFG
@@ -15193,6 +15371,7 @@ France,Mayotte,2020-03-19,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
 France,New Caledonia,2020-03-19,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 France,Reunion,2020-03-19,14,0,0,NA,NA,NA,NA,NA,NA,NA,14,FRA
 France,Saint Barthelemy,2020-03-19,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-19,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,FRA
 Gabon,total,2020-03-19,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GAB
 Gambia,total,2020-03-19,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -15288,6 +15467,7 @@ Slovakia,total,2020-03-19,123,0,1,NA,NA,NA,NA,NA,NA,NA,122,SVK
 Slovenia,total,2020-03-19,286,0,1,NA,NA,NA,NA,NA,NA,NA,285,SVN
 Somalia,total,2020-03-19,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-19,150,0,0,NA,NA,NA,NA,NA,NA,NA,150,ZAF
+South Sudan,total,2020-03-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-19,17963,1107,830,NA,NA,NA,NA,NA,NA,NA,16026,ESP
 Sri Lanka,total,2020-03-19,60,3,0,NA,NA,NA,NA,NA,NA,NA,57,LKA
 Sudan,total,2020-03-19,2,0,1,NA,NA,NA,NA,NA,NA,NA,1,SDN
@@ -15322,6 +15502,7 @@ Uzbekistan,total,2020-03-19,23,0,0,NA,NA,NA,NA,NA,NA,NA,23,UZB
 Venezuela,total,2020-03-19,42,0,0,NA,NA,NA,NA,NA,NA,NA,42,VEN
 Vietnam,total,2020-03-19,85,16,0,NA,NA,NA,NA,NA,NA,NA,69,VNM
 West Bank and Gaza,total,2020-03-19,44,0,0,NA,NA,NA,NA,NA,NA,NA,44,PSE
+Western Sahara,total,2020-03-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-19,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ZMB
 Zimbabwe,total,2020-03-19,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ZWE
 Afghanistan,total,2020-03-20,24,1,0,NA,NA,NA,NA,NA,NA,NA,23,AFG
@@ -15447,6 +15628,7 @@ France,Mayotte,2020-03-20,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,FRA
 France,New Caledonia,2020-03-20,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,FRA
 France,Reunion,2020-03-20,28,0,0,NA,NA,NA,NA,NA,NA,NA,28,FRA
 France,Saint Barthelemy,2020-03-20,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-20,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,FRA
 Gabon,total,2020-03-20,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GAB
 Gambia,total,2020-03-20,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -15542,6 +15724,7 @@ Slovakia,total,2020-03-20,137,0,1,NA,NA,NA,NA,NA,NA,NA,136,SVK
 Slovenia,total,2020-03-20,341,0,1,NA,NA,NA,NA,NA,NA,NA,340,SVN
 Somalia,total,2020-03-20,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-20,202,0,0,NA,NA,NA,NA,NA,NA,NA,202,ZAF
+South Sudan,total,2020-03-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-20,20410,1588,1043,NA,NA,NA,NA,NA,NA,NA,17779,ESP
 Sri Lanka,total,2020-03-20,73,3,0,NA,NA,NA,NA,NA,NA,NA,70,LKA
 Sudan,total,2020-03-20,2,0,1,NA,NA,NA,NA,NA,NA,NA,1,SDN
@@ -15576,6 +15759,7 @@ Uzbekistan,total,2020-03-20,33,0,0,NA,NA,NA,NA,NA,NA,NA,33,UZB
 Venezuela,total,2020-03-20,42,0,0,NA,NA,NA,NA,NA,NA,NA,42,VEN
 Vietnam,total,2020-03-20,91,16,0,NA,NA,NA,NA,NA,NA,NA,75,VNM
 West Bank and Gaza,total,2020-03-20,47,17,0,NA,NA,NA,NA,NA,NA,NA,30,PSE
+Western Sahara,total,2020-03-20,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-20,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ZMB
 Zimbabwe,total,2020-03-20,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,ZWE
 Afghanistan,total,2020-03-21,24,1,0,NA,NA,NA,NA,NA,NA,NA,23,AFG
@@ -15701,6 +15885,7 @@ France,Mayotte,2020-03-21,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,FRA
 France,New Caledonia,2020-03-21,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,FRA
 France,Reunion,2020-03-21,45,0,0,NA,NA,NA,NA,NA,NA,NA,45,FRA
 France,Saint Barthelemy,2020-03-21,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-21,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,FRA
 Gabon,total,2020-03-21,4,0,1,NA,NA,NA,NA,NA,NA,NA,3,GAB
 Gambia,total,2020-03-21,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -15796,6 +15981,7 @@ Slovakia,total,2020-03-21,178,0,1,NA,NA,NA,NA,NA,NA,NA,177,SVK
 Slovenia,total,2020-03-21,383,0,1,NA,NA,NA,NA,NA,NA,NA,382,SVN
 Somalia,total,2020-03-21,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-21,240,0,0,NA,NA,NA,NA,NA,NA,NA,240,ZAF
+South Sudan,total,2020-03-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-21,25374,2125,1375,NA,NA,NA,NA,NA,NA,NA,21874,ESP
 Sri Lanka,total,2020-03-21,77,1,0,NA,NA,NA,NA,NA,NA,NA,76,LKA
 Sudan,total,2020-03-21,2,0,1,NA,NA,NA,NA,NA,NA,NA,1,SDN
@@ -15830,6 +16016,7 @@ Uzbekistan,total,2020-03-21,43,0,0,NA,NA,NA,NA,NA,NA,NA,43,UZB
 Venezuela,total,2020-03-21,70,0,0,NA,NA,NA,NA,NA,NA,NA,70,VEN
 Vietnam,total,2020-03-21,94,17,0,NA,NA,NA,NA,NA,NA,NA,77,VNM
 West Bank and Gaza,total,2020-03-21,48,17,0,NA,NA,NA,NA,NA,NA,NA,31,PSE
+Western Sahara,total,2020-03-21,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-21,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,ZMB
 Zimbabwe,total,2020-03-21,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,ZWE
 Afghanistan,total,2020-03-22,40,1,1,NA,NA,NA,NA,NA,NA,NA,38,AFG
@@ -15955,6 +16142,7 @@ France,Mayotte,2020-03-22,11,0,0,NA,NA,NA,NA,NA,NA,NA,11,FRA
 France,New Caledonia,2020-03-22,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,FRA
 France,Reunion,2020-03-22,64,0,0,NA,NA,NA,NA,NA,NA,NA,64,FRA
 France,Saint Barthelemy,2020-03-22,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-22,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
 Gabon,total,2020-03-22,5,0,1,NA,NA,NA,NA,NA,NA,NA,4,GAB
 Gambia,total,2020-03-22,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -16050,6 +16238,7 @@ Slovakia,total,2020-03-22,185,7,0,NA,NA,NA,NA,NA,NA,NA,178,SVK
 Slovenia,total,2020-03-22,414,0,2,NA,NA,NA,NA,NA,NA,NA,412,SVN
 Somalia,total,2020-03-22,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-22,274,0,0,NA,NA,NA,NA,NA,NA,NA,274,ZAF
+South Sudan,total,2020-03-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-22,28768,2575,1772,NA,NA,NA,NA,NA,NA,NA,24421,ESP
 Sri Lanka,total,2020-03-22,82,3,0,NA,NA,NA,NA,NA,NA,NA,79,LKA
 Sudan,total,2020-03-22,2,0,1,NA,NA,NA,NA,NA,NA,NA,1,SDN
@@ -16084,6 +16273,7 @@ Uzbekistan,total,2020-03-22,43,0,0,NA,NA,NA,NA,NA,NA,NA,43,UZB
 Venezuela,total,2020-03-22,70,15,0,NA,NA,NA,NA,NA,NA,NA,55,VEN
 Vietnam,total,2020-03-22,113,17,0,NA,NA,NA,NA,NA,NA,NA,96,VNM
 West Bank and Gaza,total,2020-03-22,52,17,0,NA,NA,NA,NA,NA,NA,NA,35,PSE
+Western Sahara,total,2020-03-22,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-22,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,ZMB
 Zimbabwe,total,2020-03-22,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,ZWE
 Afghanistan,total,2020-03-23,40,1,1,NA,NA,NA,NA,NA,NA,NA,38,AFG
@@ -16209,6 +16399,7 @@ France,Mayotte,2020-03-23,24,0,0,NA,NA,NA,NA,NA,NA,NA,24,FRA
 France,New Caledonia,2020-03-23,8,0,0,NA,NA,NA,NA,NA,NA,NA,8,FRA
 France,Reunion,2020-03-23,71,0,0,NA,NA,NA,NA,NA,NA,NA,71,FRA
 France,Saint Barthelemy,2020-03-23,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-23,8,0,0,NA,NA,NA,NA,NA,NA,NA,8,FRA
 Gabon,total,2020-03-23,5,0,1,NA,NA,NA,NA,NA,NA,NA,4,GAB
 Gambia,total,2020-03-23,2,0,1,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -16304,6 +16495,7 @@ Slovakia,total,2020-03-23,186,7,0,NA,NA,NA,NA,NA,NA,NA,179,SVK
 Slovenia,total,2020-03-23,442,0,3,NA,NA,NA,NA,NA,NA,NA,439,SVN
 Somalia,total,2020-03-23,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-23,402,0,0,NA,NA,NA,NA,NA,NA,NA,402,ZAF
+South Sudan,total,2020-03-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-23,35136,2575,2311,NA,NA,NA,NA,NA,NA,NA,30250,ESP
 Sri Lanka,total,2020-03-23,97,3,0,NA,NA,NA,NA,NA,NA,NA,94,LKA
 Sudan,total,2020-03-23,2,0,1,NA,NA,NA,NA,NA,NA,NA,1,SDN
@@ -16338,6 +16530,7 @@ Uzbekistan,total,2020-03-23,46,0,0,NA,NA,NA,NA,NA,NA,NA,46,UZB
 Venezuela,total,2020-03-23,77,15,0,NA,NA,NA,NA,NA,NA,NA,62,VEN
 Vietnam,total,2020-03-23,123,17,0,NA,NA,NA,NA,NA,NA,NA,106,VNM
 West Bank and Gaza,total,2020-03-23,59,17,0,NA,NA,NA,NA,NA,NA,NA,42,PSE
+Western Sahara,total,2020-03-23,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-23,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,ZMB
 Zimbabwe,total,2020-03-23,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,ZWE
 Afghanistan,total,2020-03-24,74,1,1,NA,NA,NA,NA,NA,NA,NA,72,AFG
@@ -16463,6 +16656,7 @@ France,Mayotte,2020-03-24,36,0,0,NA,NA,NA,NA,NA,NA,NA,36,FRA
 France,New Caledonia,2020-03-24,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,FRA
 France,Reunion,2020-03-24,94,1,0,NA,NA,NA,NA,NA,NA,NA,93,FRA
 France,Saint Barthelemy,2020-03-24,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-24,8,0,0,NA,NA,NA,NA,NA,NA,NA,8,FRA
 Gabon,total,2020-03-24,6,0,1,NA,NA,NA,NA,NA,NA,NA,5,GAB
 Gambia,total,2020-03-24,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GMB
@@ -16558,6 +16752,7 @@ Slovakia,total,2020-03-24,204,7,0,NA,NA,NA,NA,NA,NA,NA,197,SVK
 Slovenia,total,2020-03-24,480,0,4,NA,NA,NA,NA,NA,NA,NA,476,SVN
 Somalia,total,2020-03-24,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-24,554,4,0,NA,NA,NA,NA,NA,NA,NA,550,ZAF
+South Sudan,total,2020-03-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-24,39885,3794,2808,NA,NA,NA,NA,NA,NA,NA,33283,ESP
 Sri Lanka,total,2020-03-24,102,2,0,NA,NA,NA,NA,NA,NA,NA,100,LKA
 Sudan,total,2020-03-24,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,SDN
@@ -16592,6 +16787,7 @@ Uzbekistan,total,2020-03-24,50,0,0,NA,NA,NA,NA,NA,NA,NA,50,UZB
 Venezuela,total,2020-03-24,84,15,0,NA,NA,NA,NA,NA,NA,NA,69,VEN
 Vietnam,total,2020-03-24,134,17,0,NA,NA,NA,NA,NA,NA,NA,117,VNM
 West Bank and Gaza,total,2020-03-24,59,17,0,NA,NA,NA,NA,NA,NA,NA,42,PSE
+Western Sahara,total,2020-03-24,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-24,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,ZMB
 Zimbabwe,total,2020-03-24,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,ZWE
 Afghanistan,total,2020-03-25,84,2,2,NA,NA,NA,NA,NA,NA,NA,80,AFG
@@ -16717,6 +16913,7 @@ France,Mayotte,2020-03-25,36,0,0,NA,NA,NA,NA,NA,NA,NA,36,FRA
 France,New Caledonia,2020-03-25,14,0,0,NA,NA,NA,NA,NA,NA,NA,14,FRA
 France,Reunion,2020-03-25,111,1,0,NA,NA,NA,NA,NA,NA,NA,110,FRA
 France,Saint Barthelemy,2020-03-25,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-25,11,0,0,NA,NA,NA,NA,NA,NA,NA,11,FRA
 Gabon,total,2020-03-25,6,0,1,NA,NA,NA,NA,NA,NA,NA,5,GAB
 Gambia,total,2020-03-25,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GMB
@@ -16812,6 +17009,7 @@ Slovakia,total,2020-03-25,216,7,0,NA,NA,NA,NA,NA,NA,NA,209,SVK
 Slovenia,total,2020-03-25,528,10,5,NA,NA,NA,NA,NA,NA,NA,513,SVN
 Somalia,total,2020-03-25,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SOM
 South Africa,total,2020-03-25,709,12,0,NA,NA,NA,NA,NA,NA,NA,697,ZAF
+South Sudan,total,2020-03-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-25,49515,5367,3647,NA,NA,NA,NA,NA,NA,NA,40501,ESP
 Sri Lanka,total,2020-03-25,102,3,0,NA,NA,NA,NA,NA,NA,NA,99,LKA
 Sudan,total,2020-03-25,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,SDN
@@ -16846,6 +17044,7 @@ Uzbekistan,total,2020-03-25,60,0,0,NA,NA,NA,NA,NA,NA,NA,60,UZB
 Venezuela,total,2020-03-25,91,15,0,NA,NA,NA,NA,NA,NA,NA,76,VEN
 Vietnam,total,2020-03-25,141,17,0,NA,NA,NA,NA,NA,NA,NA,124,VNM
 West Bank and Gaza,total,2020-03-25,59,17,0,NA,NA,NA,NA,NA,NA,NA,42,PSE
+Western Sahara,total,2020-03-25,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-25,12,0,0,NA,NA,NA,NA,NA,NA,NA,12,ZMB
 Zimbabwe,total,2020-03-25,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,ZWE
 Afghanistan,total,2020-03-26,94,2,4,NA,NA,NA,NA,NA,NA,NA,88,AFG
@@ -16971,6 +17170,7 @@ France,Mayotte,2020-03-26,36,0,0,NA,NA,NA,NA,NA,NA,NA,36,FRA
 France,New Caledonia,2020-03-26,14,0,0,NA,NA,NA,NA,NA,NA,NA,14,FRA
 France,Reunion,2020-03-26,135,1,0,NA,NA,NA,NA,NA,NA,NA,134,FRA
 France,Saint Barthelemy,2020-03-26,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,FRA
+France,Saint Pierre and Miquelon,2020-03-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-26,11,0,0,NA,NA,NA,NA,NA,NA,NA,11,FRA
 Gabon,total,2020-03-26,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,GAB
 Gambia,total,2020-03-26,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GMB
@@ -17066,6 +17266,7 @@ Slovakia,total,2020-03-26,226,2,0,NA,NA,NA,NA,NA,NA,NA,224,SVK
 Slovenia,total,2020-03-26,562,10,6,NA,NA,NA,NA,NA,NA,NA,546,SVN
 Somalia,total,2020-03-26,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,SOM
 South Africa,total,2020-03-26,927,12,0,NA,NA,NA,NA,NA,NA,NA,915,ZAF
+South Sudan,total,2020-03-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-26,57786,7015,4365,NA,NA,NA,NA,NA,NA,NA,46406,ESP
 Sri Lanka,total,2020-03-26,106,7,0,NA,NA,NA,NA,NA,NA,NA,99,LKA
 Sudan,total,2020-03-26,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,SDN
@@ -17100,6 +17301,7 @@ Uzbekistan,total,2020-03-26,75,0,0,NA,NA,NA,NA,NA,NA,NA,75,UZB
 Venezuela,total,2020-03-26,107,15,0,NA,NA,NA,NA,NA,NA,NA,92,VEN
 Vietnam,total,2020-03-26,153,20,0,NA,NA,NA,NA,NA,NA,NA,133,VNM
 West Bank and Gaza,total,2020-03-26,84,17,1,NA,NA,NA,NA,NA,NA,NA,66,PSE
+Western Sahara,total,2020-03-26,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-26,16,0,0,NA,NA,NA,NA,NA,NA,NA,16,ZMB
 Zimbabwe,total,2020-03-26,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,ZWE
 Afghanistan,total,2020-03-27,110,2,4,NA,NA,NA,NA,NA,NA,NA,104,AFG
@@ -17225,6 +17427,7 @@ France,Mayotte,2020-03-27,50,0,0,NA,NA,NA,NA,NA,NA,NA,50,FRA
 France,New Caledonia,2020-03-27,15,0,0,NA,NA,NA,NA,NA,NA,NA,15,FRA
 France,Reunion,2020-03-27,145,1,0,NA,NA,NA,NA,NA,NA,NA,144,FRA
 France,Saint Barthelemy,2020-03-27,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-03-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-27,11,0,0,NA,NA,NA,NA,NA,NA,NA,11,FRA
 Gabon,total,2020-03-27,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,GAB
 Gambia,total,2020-03-27,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GMB
@@ -17320,6 +17523,7 @@ Slovakia,total,2020-03-27,269,2,0,NA,NA,NA,NA,NA,NA,NA,267,SVK
 Slovenia,total,2020-03-27,632,10,9,NA,NA,NA,NA,NA,NA,NA,613,SVN
 Somalia,total,2020-03-27,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,SOM
 South Africa,total,2020-03-27,1170,31,1,NA,NA,NA,NA,NA,NA,NA,1138,ZAF
+South Sudan,total,2020-03-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-27,65719,9357,5138,NA,NA,NA,NA,NA,NA,NA,51224,ESP
 Sri Lanka,total,2020-03-27,106,7,0,NA,NA,NA,NA,NA,NA,NA,99,LKA
 Sudan,total,2020-03-27,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,SDN
@@ -17354,6 +17558,7 @@ Uzbekistan,total,2020-03-27,88,5,1,NA,NA,NA,NA,NA,NA,NA,82,UZB
 Venezuela,total,2020-03-27,107,31,1,NA,NA,NA,NA,NA,NA,NA,75,VEN
 Vietnam,total,2020-03-27,163,20,0,NA,NA,NA,NA,NA,NA,NA,143,VNM
 West Bank and Gaza,total,2020-03-27,91,17,1,NA,NA,NA,NA,NA,NA,NA,73,PSE
+Western Sahara,total,2020-03-27,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-27,22,0,0,NA,NA,NA,NA,NA,NA,NA,22,ZMB
 Zimbabwe,total,2020-03-27,5,0,1,NA,NA,NA,NA,NA,NA,NA,4,ZWE
 Afghanistan,total,2020-03-28,110,2,4,NA,NA,NA,NA,NA,NA,NA,104,AFG
@@ -17479,6 +17684,7 @@ France,Mayotte,2020-03-28,63,0,0,NA,NA,NA,NA,NA,NA,NA,63,FRA
 France,New Caledonia,2020-03-28,15,0,0,NA,NA,NA,NA,NA,NA,NA,15,FRA
 France,Reunion,2020-03-28,183,1,0,NA,NA,NA,NA,NA,NA,NA,182,FRA
 France,Saint Barthelemy,2020-03-28,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-03-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-28,11,0,0,NA,NA,NA,NA,NA,NA,NA,11,FRA
 Gabon,total,2020-03-28,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,GAB
 Gambia,total,2020-03-28,3,0,1,NA,NA,NA,NA,NA,NA,NA,2,GMB
@@ -17574,6 +17780,7 @@ Slovakia,total,2020-03-28,292,2,0,NA,NA,NA,NA,NA,NA,NA,290,SVK
 Slovenia,total,2020-03-28,684,10,9,NA,NA,NA,NA,NA,NA,NA,665,SVN
 Somalia,total,2020-03-28,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,SOM
 South Africa,total,2020-03-28,1187,31,1,NA,NA,NA,NA,NA,NA,NA,1155,ZAF
+South Sudan,total,2020-03-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-28,73235,12285,5982,NA,NA,NA,NA,NA,NA,NA,54968,ESP
 Sri Lanka,total,2020-03-28,113,9,1,NA,NA,NA,NA,NA,NA,NA,103,LKA
 Sudan,total,2020-03-28,5,0,1,NA,NA,NA,NA,NA,NA,NA,4,SDN
@@ -17608,6 +17815,7 @@ Uzbekistan,total,2020-03-28,104,5,2,NA,NA,NA,NA,NA,NA,NA,97,UZB
 Venezuela,total,2020-03-28,119,39,2,NA,NA,NA,NA,NA,NA,NA,78,VEN
 Vietnam,total,2020-03-28,174,21,0,NA,NA,NA,NA,NA,NA,NA,153,VNM
 West Bank and Gaza,total,2020-03-28,98,18,1,NA,NA,NA,NA,NA,NA,NA,79,PSE
+Western Sahara,total,2020-03-28,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-28,28,0,0,NA,NA,NA,NA,NA,NA,NA,28,ZMB
 Zimbabwe,total,2020-03-28,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,ZWE
 Afghanistan,total,2020-03-29,120,2,4,NA,NA,NA,NA,NA,NA,NA,114,AFG
@@ -17733,6 +17941,7 @@ France,Mayotte,2020-03-29,63,0,0,NA,NA,NA,NA,NA,NA,NA,63,FRA
 France,New Caledonia,2020-03-29,15,0,0,NA,NA,NA,NA,NA,NA,NA,15,FRA
 France,Reunion,2020-03-29,183,1,0,NA,NA,NA,NA,NA,NA,NA,182,FRA
 France,Saint Barthelemy,2020-03-29,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-03-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-29,11,0,0,NA,NA,NA,NA,NA,NA,NA,11,FRA
 Gabon,total,2020-03-29,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,GAB
 Gambia,total,2020-03-29,4,0,1,NA,NA,NA,NA,NA,NA,NA,3,GMB
@@ -17828,6 +18037,7 @@ Slovakia,total,2020-03-29,314,2,0,NA,NA,NA,NA,NA,NA,NA,312,SVK
 Slovenia,total,2020-03-29,730,10,11,NA,NA,NA,NA,NA,NA,NA,709,SVN
 Somalia,total,2020-03-29,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,SOM
 South Africa,total,2020-03-29,1280,31,2,NA,NA,NA,NA,NA,NA,NA,1247,ZAF
+South Sudan,total,2020-03-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-29,80110,14709,6803,NA,NA,NA,NA,NA,NA,NA,58598,ESP
 Sri Lanka,total,2020-03-29,117,11,1,NA,NA,NA,NA,NA,NA,NA,105,LKA
 Sudan,total,2020-03-29,6,0,1,NA,NA,NA,NA,NA,NA,NA,5,SDN
@@ -17862,6 +18072,7 @@ Uzbekistan,total,2020-03-29,144,7,2,NA,NA,NA,NA,NA,NA,NA,135,UZB
 Venezuela,total,2020-03-29,119,39,2,NA,NA,NA,NA,NA,NA,NA,78,VEN
 Vietnam,total,2020-03-29,188,25,0,NA,NA,NA,NA,NA,NA,NA,163,VNM
 West Bank and Gaza,total,2020-03-29,109,18,1,NA,NA,NA,NA,NA,NA,NA,90,PSE
+Western Sahara,total,2020-03-29,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-29,29,0,0,NA,NA,NA,NA,NA,NA,NA,29,ZMB
 Zimbabwe,total,2020-03-29,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,ZWE
 Afghanistan,total,2020-03-30,170,2,4,NA,NA,NA,NA,NA,NA,NA,164,AFG
@@ -17987,6 +18198,7 @@ France,Mayotte,2020-03-30,82,10,0,NA,NA,NA,NA,NA,NA,NA,72,FRA
 France,New Caledonia,2020-03-30,15,0,0,NA,NA,NA,NA,NA,NA,NA,15,FRA
 France,Reunion,2020-03-30,224,1,0,NA,NA,NA,NA,NA,NA,NA,223,FRA
 France,Saint Barthelemy,2020-03-30,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-03-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-30,15,2,1,NA,NA,NA,NA,NA,NA,NA,12,FRA
 Gabon,total,2020-03-30,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,GAB
 Gambia,total,2020-03-30,4,0,1,NA,NA,NA,NA,NA,NA,NA,3,GMB
@@ -18082,6 +18294,7 @@ Slovakia,total,2020-03-30,336,7,0,NA,NA,NA,NA,NA,NA,NA,329,SVK
 Slovenia,total,2020-03-30,756,10,11,NA,NA,NA,NA,NA,NA,NA,735,SVN
 Somalia,total,2020-03-30,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,SOM
 South Africa,total,2020-03-30,1326,31,3,NA,NA,NA,NA,NA,NA,NA,1292,ZAF
+South Sudan,total,2020-03-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-30,87956,16780,7716,NA,NA,NA,NA,NA,NA,NA,63460,ESP
 Sri Lanka,total,2020-03-30,122,15,2,NA,NA,NA,NA,NA,NA,NA,105,LKA
 Sudan,total,2020-03-30,6,0,2,NA,NA,NA,NA,NA,NA,NA,4,SDN
@@ -18116,6 +18329,7 @@ Uzbekistan,total,2020-03-30,149,7,2,NA,NA,NA,NA,NA,NA,NA,140,UZB
 Venezuela,total,2020-03-30,135,39,3,NA,NA,NA,NA,NA,NA,NA,93,VEN
 Vietnam,total,2020-03-30,203,55,0,NA,NA,NA,NA,NA,NA,NA,148,VNM
 West Bank and Gaza,total,2020-03-30,116,18,1,NA,NA,NA,NA,NA,NA,NA,97,PSE
+Western Sahara,total,2020-03-30,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-30,35,0,0,NA,NA,NA,NA,NA,NA,NA,35,ZMB
 Zimbabwe,total,2020-03-30,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,ZWE
 Afghanistan,total,2020-03-31,174,5,4,NA,NA,NA,NA,NA,NA,NA,165,AFG
@@ -18241,6 +18455,7 @@ France,Mayotte,2020-03-31,94,10,1,NA,NA,NA,NA,NA,NA,NA,83,FRA
 France,New Caledonia,2020-03-31,16,0,0,NA,NA,NA,NA,NA,NA,NA,16,FRA
 France,Reunion,2020-03-31,247,1,0,NA,NA,NA,NA,NA,NA,NA,246,FRA
 France,Saint Barthelemy,2020-03-31,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-03-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-03-31,15,2,1,NA,NA,NA,NA,NA,NA,NA,12,FRA
 Gabon,total,2020-03-31,16,0,1,NA,NA,NA,NA,NA,NA,NA,15,GAB
 Gambia,total,2020-03-31,4,0,1,NA,NA,NA,NA,NA,NA,NA,3,GMB
@@ -18336,6 +18551,7 @@ Slovakia,total,2020-03-31,363,3,0,NA,NA,NA,NA,NA,NA,NA,360,SVK
 Slovenia,total,2020-03-31,802,10,15,NA,NA,NA,NA,NA,NA,NA,777,SVN
 Somalia,total,2020-03-31,5,1,0,NA,NA,NA,NA,NA,NA,NA,4,SOM
 South Africa,total,2020-03-31,1353,31,5,NA,NA,NA,NA,NA,NA,NA,1317,ZAF
+South Sudan,total,2020-03-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-03-31,95923,19259,8464,NA,NA,NA,NA,NA,NA,NA,68200,ESP
 Sri Lanka,total,2020-03-31,143,17,2,NA,NA,NA,NA,NA,NA,NA,124,LKA
 Sudan,total,2020-03-31,7,1,2,NA,NA,NA,NA,NA,NA,NA,4,SDN
@@ -18370,6 +18586,7 @@ Uzbekistan,total,2020-03-31,172,7,2,NA,NA,NA,NA,NA,NA,NA,163,UZB
 Venezuela,total,2020-03-31,135,39,3,NA,NA,NA,NA,NA,NA,NA,93,VEN
 Vietnam,total,2020-03-31,212,58,0,NA,NA,NA,NA,NA,NA,NA,154,VNM
 West Bank and Gaza,total,2020-03-31,119,18,1,NA,NA,NA,NA,NA,NA,NA,100,PSE
+Western Sahara,total,2020-03-31,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-03-31,35,0,0,NA,NA,NA,NA,NA,NA,NA,35,ZMB
 Zimbabwe,total,2020-03-31,8,0,1,NA,NA,NA,NA,NA,NA,NA,7,ZWE
 Afghanistan,total,2020-04-01,237,5,4,NA,NA,NA,NA,NA,NA,NA,228,AFG
@@ -18495,6 +18712,7 @@ France,Mayotte,2020-04-01,94,10,1,NA,NA,NA,NA,NA,NA,NA,83,FRA
 France,New Caledonia,2020-04-01,16,0,0,NA,NA,NA,NA,NA,NA,NA,16,FRA
 France,Reunion,2020-04-01,281,40,0,NA,NA,NA,NA,NA,NA,NA,241,FRA
 France,Saint Barthelemy,2020-04-01,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-04-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-04-01,15,2,1,NA,NA,NA,NA,NA,NA,NA,12,FRA
 Gabon,total,2020-04-01,18,0,1,NA,NA,NA,NA,NA,NA,NA,17,GAB
 Gambia,total,2020-04-01,4,2,1,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -18590,6 +18808,7 @@ Slovakia,total,2020-04-01,400,3,1,NA,NA,NA,NA,NA,NA,NA,396,SVK
 Slovenia,total,2020-04-01,841,10,15,NA,NA,NA,NA,NA,NA,NA,816,SVN
 Somalia,total,2020-04-01,5,1,0,NA,NA,NA,NA,NA,NA,NA,4,SOM
 South Africa,total,2020-04-01,1380,50,5,NA,NA,NA,NA,NA,NA,NA,1325,ZAF
+South Sudan,total,2020-04-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-04-01,104118,22647,9387,NA,NA,NA,NA,NA,NA,NA,72084,ESP
 Sri Lanka,total,2020-04-01,146,21,3,NA,NA,NA,NA,NA,NA,NA,122,LKA
 Sudan,total,2020-04-01,7,2,2,NA,NA,NA,NA,NA,NA,NA,3,SDN
@@ -18624,6 +18843,7 @@ Uzbekistan,total,2020-04-01,181,12,2,NA,NA,NA,NA,NA,NA,NA,167,UZB
 Venezuela,total,2020-04-01,143,41,3,NA,NA,NA,NA,NA,NA,NA,99,VEN
 Vietnam,total,2020-04-01,218,63,0,NA,NA,NA,NA,NA,NA,NA,155,VNM
 West Bank and Gaza,total,2020-04-01,134,18,1,NA,NA,NA,NA,NA,NA,NA,115,PSE
+Western Sahara,total,2020-04-01,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-04-01,36,0,0,NA,NA,NA,NA,NA,NA,NA,36,ZMB
 Zimbabwe,total,2020-04-01,8,0,1,NA,NA,NA,NA,NA,NA,NA,7,ZWE
 Afghanistan,total,2020-04-02,273,10,6,NA,NA,NA,NA,NA,NA,NA,257,AFG
@@ -18749,6 +18969,7 @@ France,Mayotte,2020-04-02,116,10,1,NA,NA,NA,NA,NA,NA,NA,105,FRA
 France,New Caledonia,2020-04-02,18,1,0,NA,NA,NA,NA,NA,NA,NA,17,FRA
 France,Reunion,2020-04-02,308,40,0,NA,NA,NA,NA,NA,NA,NA,268,FRA
 France,Saint Barthelemy,2020-04-02,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-04-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-04-02,22,2,1,NA,NA,NA,NA,NA,NA,NA,19,FRA
 Gabon,total,2020-04-02,21,0,1,NA,NA,NA,NA,NA,NA,NA,20,GAB
 Gambia,total,2020-04-02,4,2,1,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -18844,6 +19065,7 @@ Slovakia,total,2020-04-02,426,5,1,NA,NA,NA,NA,NA,NA,NA,420,SVK
 Slovenia,total,2020-04-02,897,70,17,NA,NA,NA,NA,NA,NA,NA,810,SVN
 Somalia,total,2020-04-02,5,1,0,NA,NA,NA,NA,NA,NA,NA,4,SOM
 South Africa,total,2020-04-02,1462,50,5,NA,NA,NA,NA,NA,NA,NA,1407,ZAF
+South Sudan,total,2020-04-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-04-02,112065,26743,10348,NA,NA,NA,NA,NA,NA,NA,74974,ESP
 Sri Lanka,total,2020-04-02,151,21,4,NA,NA,NA,NA,NA,NA,NA,126,LKA
 Sudan,total,2020-04-02,8,2,2,NA,NA,NA,NA,NA,NA,NA,4,SDN
@@ -18878,6 +19100,7 @@ Uzbekistan,total,2020-04-02,205,25,2,NA,NA,NA,NA,NA,NA,NA,178,UZB
 Venezuela,total,2020-04-02,146,43,5,NA,NA,NA,NA,NA,NA,NA,98,VEN
 Vietnam,total,2020-04-02,233,75,0,NA,NA,NA,NA,NA,NA,NA,158,VNM
 West Bank and Gaza,total,2020-04-02,161,18,1,NA,NA,NA,NA,NA,NA,NA,142,PSE
+Western Sahara,total,2020-04-02,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-04-02,39,0,1,NA,NA,NA,NA,NA,NA,NA,38,ZMB
 Zimbabwe,total,2020-04-02,9,0,1,NA,NA,NA,NA,NA,NA,NA,8,ZWE
 Afghanistan,total,2020-04-03,281,10,6,NA,NA,NA,NA,NA,NA,NA,265,AFG
@@ -19003,6 +19226,7 @@ France,Mayotte,2020-04-03,128,10,2,NA,NA,NA,NA,NA,NA,NA,116,FRA
 France,New Caledonia,2020-04-03,18,1,0,NA,NA,NA,NA,NA,NA,NA,17,FRA
 France,Reunion,2020-04-03,321,40,0,NA,NA,NA,NA,NA,NA,NA,281,FRA
 France,Saint Barthelemy,2020-04-03,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-04-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-04-03,22,2,1,NA,NA,NA,NA,NA,NA,NA,19,FRA
 Gabon,total,2020-04-03,21,1,1,NA,NA,NA,NA,NA,NA,NA,19,GAB
 Gambia,total,2020-04-03,4,2,1,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -19098,6 +19322,7 @@ Slovakia,total,2020-04-03,450,10,1,NA,NA,NA,NA,NA,NA,NA,439,SVK
 Slovenia,total,2020-04-03,934,70,20,NA,NA,NA,NA,NA,NA,NA,844,SVN
 Somalia,total,2020-04-03,7,1,0,NA,NA,NA,NA,NA,NA,NA,6,SOM
 South Africa,total,2020-04-03,1505,95,9,NA,NA,NA,NA,NA,NA,NA,1401,ZAF
+South Sudan,total,2020-04-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-04-03,119199,30513,11198,NA,NA,NA,NA,NA,NA,NA,77488,ESP
 Sri Lanka,total,2020-04-03,159,24,4,NA,NA,NA,NA,NA,NA,NA,131,LKA
 Sudan,total,2020-04-03,10,2,2,NA,NA,NA,NA,NA,NA,NA,6,SDN
@@ -19132,6 +19357,7 @@ Uzbekistan,total,2020-04-03,227,25,2,NA,NA,NA,NA,NA,NA,NA,200,UZB
 Venezuela,total,2020-04-03,153,52,7,NA,NA,NA,NA,NA,NA,NA,94,VEN
 Vietnam,total,2020-04-03,237,85,0,NA,NA,NA,NA,NA,NA,NA,152,VNM
 West Bank and Gaza,total,2020-04-03,194,21,1,NA,NA,NA,NA,NA,NA,NA,172,PSE
+Western Sahara,total,2020-04-03,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-04-03,39,2,1,NA,NA,NA,NA,NA,NA,NA,36,ZMB
 Zimbabwe,total,2020-04-03,9,0,1,NA,NA,NA,NA,NA,NA,NA,8,ZWE
 Afghanistan,total,2020-04-04,299,10,7,NA,NA,NA,NA,NA,NA,NA,282,AFG
@@ -19257,6 +19483,7 @@ France,Mayotte,2020-04-04,134,14,2,NA,NA,NA,NA,NA,NA,NA,118,FRA
 France,New Caledonia,2020-04-04,17,1,0,NA,NA,NA,NA,NA,NA,NA,16,FRA
 France,Reunion,2020-04-04,334,40,0,NA,NA,NA,NA,NA,NA,NA,294,FRA
 France,Saint Barthelemy,2020-04-04,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-04-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,FRA
 France,St Martin,2020-04-04,24,5,2,NA,NA,NA,NA,NA,NA,NA,17,FRA
 Gabon,total,2020-04-04,21,1,1,NA,NA,NA,NA,NA,NA,NA,19,GAB
 Gambia,total,2020-04-04,4,2,1,NA,NA,NA,NA,NA,NA,NA,1,GMB
@@ -19352,6 +19579,7 @@ Slovakia,total,2020-04-04,471,10,1,NA,NA,NA,NA,NA,NA,NA,460,SVK
 Slovenia,total,2020-04-04,977,79,22,NA,NA,NA,NA,NA,NA,NA,876,SVN
 Somalia,total,2020-04-04,7,1,0,NA,NA,NA,NA,NA,NA,NA,6,SOM
 South Africa,total,2020-04-04,1585,95,9,NA,NA,NA,NA,NA,NA,NA,1481,ZAF
+South Sudan,total,2020-04-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,SSD
 Spain,total,2020-04-04,126168,34219,11947,NA,NA,NA,NA,NA,NA,NA,80002,ESP
 Sri Lanka,total,2020-04-04,166,27,5,NA,NA,NA,NA,NA,NA,NA,134,LKA
 Sudan,total,2020-04-04,10,2,2,NA,NA,NA,NA,NA,NA,NA,6,SDN
@@ -19386,8 +19614,266 @@ Uzbekistan,total,2020-04-04,266,25,2,NA,NA,NA,NA,NA,NA,NA,239,UZB
 Venezuela,total,2020-04-04,155,52,7,NA,NA,NA,NA,NA,NA,NA,96,VEN
 Vietnam,total,2020-04-04,240,90,0,NA,NA,NA,NA,NA,NA,NA,150,VNM
 West Bank and Gaza,total,2020-04-04,217,21,1,NA,NA,NA,NA,NA,NA,NA,195,PSE
+Western Sahara,total,2020-04-04,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,ESH
 Zambia,total,2020-04-04,39,2,1,NA,NA,NA,NA,NA,NA,NA,36,ZMB
 Zimbabwe,total,2020-04-04,9,0,1,NA,NA,NA,NA,NA,NA,NA,8,ZWE
+Afghanistan,total,2020-04-05,349,15,7,NA,NA,NA,NA,NA,NA,NA,327,AFG
+Albania,total,2020-04-05,361,104,20,NA,NA,NA,NA,NA,NA,NA,237,ALB
+Algeria,total,2020-04-05,1320,90,152,NA,NA,NA,NA,NA,NA,NA,1078,DZA
+Andorra,total,2020-04-05,501,26,18,NA,NA,NA,NA,NA,NA,NA,457,AND
+Angola,total,2020-04-05,14,2,2,NA,NA,NA,NA,NA,NA,NA,10,AGO
+Antigua and Barbuda,total,2020-04-05,15,0,0,NA,NA,NA,NA,NA,NA,NA,15,ATG
+Argentina,total,2020-04-05,1451,280,44,NA,NA,NA,NA,NA,NA,NA,1127,ARG
+Armenia,total,2020-04-05,822,57,7,NA,NA,NA,NA,NA,NA,NA,758,ARM
+Australia,Australian Capital Territory,2020-04-05,96,28,2,NA,NA,NA,NA,NA,NA,NA,66,AUS
+Australia,New South Wales,2020-04-05,2580,4,16,NA,NA,NA,NA,NA,NA,NA,2560,AUS
+Australia,Northern Territory,2020-04-05,27,1,0,NA,NA,NA,NA,NA,NA,NA,26,AUS
+Australia,Queensland,2020-04-05,907,8,4,NA,NA,NA,NA,NA,NA,NA,895,AUS
+Australia,South Australia,2020-04-05,407,46,0,NA,NA,NA,NA,NA,NA,NA,361,AUS
+Australia,Tasmania,2020-04-05,82,5,2,NA,NA,NA,NA,NA,NA,NA,75,AUS
+Australia,Victoria,2020-04-05,1135,573,8,NA,NA,NA,NA,NA,NA,NA,554,AUS
+Australia,Western Australia,2020-04-05,453,92,3,NA,NA,NA,NA,NA,NA,NA,358,AUS
+Austria,total,2020-04-05,12051,2998,204,NA,NA,NA,NA,NA,NA,NA,8849,AUT
+Azerbaijan,total,2020-04-05,584,32,7,NA,NA,NA,NA,NA,NA,NA,545,AZE
+Bahamas,total,2020-04-05,28,0,4,NA,NA,NA,NA,NA,NA,NA,24,BHS
+Bahrain,total,2020-04-05,700,431,4,NA,NA,NA,NA,NA,NA,NA,265,BHR
+Bangladesh,total,2020-04-05,88,33,9,NA,NA,NA,NA,NA,NA,NA,46,BGD
+Barbados,total,2020-04-05,56,6,1,NA,NA,NA,NA,NA,NA,NA,49,BRB
+Belarus,total,2020-04-05,562,52,8,NA,NA,NA,NA,NA,NA,NA,502,BLR
+Belgium,total,2020-04-05,19691,3751,1447,NA,NA,NA,NA,NA,NA,NA,14493,BEL
+Belize,total,2020-04-05,5,0,0,NA,NA,NA,NA,NA,NA,NA,5,BLZ
+Benin,total,2020-04-05,22,5,0,NA,NA,NA,NA,NA,NA,NA,17,BEN
+Bhutan,total,2020-04-05,5,2,0,NA,NA,NA,NA,NA,NA,NA,3,BTN
+Bolivia,total,2020-04-05,157,2,10,NA,NA,NA,NA,NA,NA,NA,145,BOL
+Bosnia and Herzegovina,total,2020-04-05,654,30,23,NA,NA,NA,NA,NA,NA,NA,601,BIH
+Botswana,total,2020-04-05,6,0,1,NA,NA,NA,NA,NA,NA,NA,5,BWA
+Brazil,total,2020-04-05,11130,127,486,NA,NA,NA,NA,NA,NA,NA,10517,BRA
+Brunei,total,2020-04-05,135,73,1,NA,NA,NA,NA,NA,NA,NA,61,BRN
+Bulgaria,total,2020-04-05,531,37,20,NA,NA,NA,NA,NA,NA,NA,474,BGR
+Burkina Faso,total,2020-04-05,345,90,17,NA,NA,NA,NA,NA,NA,NA,238,BFA
+Burma,total,2020-04-05,21,0,1,NA,NA,NA,NA,NA,NA,NA,20,MMR
+Burundi,total,2020-04-05,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,BDI
+Cabo Verde,total,2020-04-05,7,0,1,NA,NA,NA,NA,NA,NA,NA,6,CPV
+Cambodia,total,2020-04-05,114,50,0,NA,NA,NA,NA,NA,NA,NA,64,KHM
+Cameroon,total,2020-04-05,650,17,9,NA,NA,NA,NA,NA,NA,NA,624,CMR
+Canada,Alberta,2020-04-05,1181,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,British Columbia,2020-04-05,1203,NA,38,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Diamond Princess,2020-04-05,0,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Grand Princess,2020-04-05,13,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Manitoba,2020-04-05,203,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,New Brunswick,2020-04-05,98,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Newfoundland and Labrador,2020-04-05,217,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Northwest Territories,2020-04-05,4,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Nova Scotia,2020-04-05,262,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Ontario,2020-04-05,4354,NA,119,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Prince Edward Island,2020-04-05,22,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Quebec,2020-04-05,7944,NA,75,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Recovered,2020-04-05,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Saskatchewan,2020-04-05,249,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Canada,Yukon,2020-04-05,6,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CAN
+Central African Republic,total,2020-04-05,8,0,0,NA,NA,NA,NA,NA,NA,NA,8,CAF
+Chad,total,2020-04-05,9,0,0,NA,NA,NA,NA,NA,NA,NA,9,TCD
+Chile,total,2020-04-05,4471,618,34,NA,NA,NA,NA,NA,NA,NA,3819,CHL
+China,Anhui,2020-04-05,990,984,6,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Beijing,2020-04-05,586,441,8,NA,NA,NA,NA,NA,NA,NA,137,CHN
+China,Chongqing,2020-04-05,579,570,6,NA,NA,NA,NA,NA,NA,NA,3,CHN
+China,Fujian,2020-04-05,350,303,1,NA,NA,NA,NA,NA,NA,NA,46,CHN
+China,Gansu,2020-04-05,138,131,2,NA,NA,NA,NA,NA,NA,NA,5,CHN
+China,Guangdong,2020-04-05,1524,1387,8,NA,NA,NA,NA,NA,NA,NA,129,CHN
+China,Guangxi,2020-04-05,254,252,2,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Guizhou,2020-04-05,146,144,2,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Hainan,2020-04-05,168,162,6,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Hebei,2020-04-05,327,310,6,NA,NA,NA,NA,NA,NA,NA,11,CHN
+China,Heilongjiang,2020-04-05,504,469,13,NA,NA,NA,NA,NA,NA,NA,22,CHN
+China,Henan,2020-04-05,1276,1251,22,NA,NA,NA,NA,NA,NA,NA,3,CHN
+China,Hong Kong,2020-04-05,890,206,4,NA,NA,NA,NA,NA,NA,NA,680,CHN
+China,Hubei,2020-04-05,67803,63945,3210,NA,NA,NA,NA,NA,NA,NA,648,CHN
+China,Hunan,2020-04-05,1019,1014,4,NA,NA,NA,NA,NA,NA,NA,1,CHN
+China,Inner Mongolia,2020-04-05,117,74,1,NA,NA,NA,NA,NA,NA,NA,42,CHN
+China,Jiangsu,2020-04-05,651,633,0,NA,NA,NA,NA,NA,NA,NA,18,CHN
+China,Jiangxi,2020-04-05,937,935,1,NA,NA,NA,NA,NA,NA,NA,1,CHN
+China,Jilin,2020-04-05,98,92,1,NA,NA,NA,NA,NA,NA,NA,5,CHN
+China,Liaoning,2020-04-05,142,126,2,NA,NA,NA,NA,NA,NA,NA,14,CHN
+China,Macau,2020-04-05,44,10,0,NA,NA,NA,NA,NA,NA,NA,34,CHN
+China,Ningxia,2020-04-05,75,75,0,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Qinghai,2020-04-05,18,18,0,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Shaanxi,2020-04-05,256,245,3,NA,NA,NA,NA,NA,NA,NA,8,CHN
+China,Shandong,2020-04-05,779,755,7,NA,NA,NA,NA,NA,NA,NA,17,CHN
+China,Shanghai,2020-04-05,531,383,6,NA,NA,NA,NA,NA,NA,NA,142,CHN
+China,Shanxi,2020-04-05,138,133,0,NA,NA,NA,NA,NA,NA,NA,5,CHN
+China,Sichuan,2020-04-05,558,539,3,NA,NA,NA,NA,NA,NA,NA,16,CHN
+China,Tianjin,2020-04-05,180,144,3,NA,NA,NA,NA,NA,NA,NA,33,CHN
+China,Tibet,2020-04-05,1,1,0,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Xinjiang,2020-04-05,76,73,3,NA,NA,NA,NA,NA,NA,NA,0,CHN
+China,Yunnan,2020-04-05,184,172,2,NA,NA,NA,NA,NA,NA,NA,10,CHN
+China,Zhejiang,2020-04-05,1263,1230,1,NA,NA,NA,NA,NA,NA,NA,32,CHN
+Colombia,total,2020-04-05,1485,88,35,NA,NA,NA,NA,NA,NA,NA,1362,COL
+Congo (Brazzaville),total,2020-04-05,45,2,5,NA,NA,NA,NA,NA,NA,NA,38,COG
+Congo (Kinshasa),total,2020-04-05,154,3,18,NA,NA,NA,NA,NA,NA,NA,133,COD
+Costa Rica,total,2020-04-05,454,16,2,NA,NA,NA,NA,NA,NA,NA,436,CRI
+Cote d'Ivoire,total,2020-04-05,261,37,3,NA,NA,NA,NA,NA,NA,NA,221,CIV
+Croatia,total,2020-04-05,1182,125,15,NA,NA,NA,NA,NA,NA,NA,1042,HRV
+Cuba,total,2020-04-05,320,15,8,NA,NA,NA,NA,NA,NA,NA,297,CUB
+Cyprus,total,2020-04-05,446,37,9,NA,NA,NA,NA,NA,NA,NA,400,CYP
+Czechia,total,2020-04-05,4587,96,67,NA,NA,NA,NA,NA,NA,NA,4424,CZE
+Denmark,Faroe Islands,2020-04-05,181,99,0,NA,NA,NA,NA,NA,NA,NA,82,DNK
+Denmark,Greenland,2020-04-05,11,3,0,NA,NA,NA,NA,NA,NA,NA,8,DNK
+Diamond Princess,total,2020-04-05,712,619,11,NA,NA,NA,NA,NA,NA,NA,82,cruise
+Djibouti,total,2020-04-05,59,9,0,NA,NA,NA,NA,NA,NA,NA,50,DJI
+Dominica,total,2020-04-05,14,0,0,NA,NA,NA,NA,NA,NA,NA,14,DMA
+Dominican Republic,total,2020-04-05,1745,17,82,NA,NA,NA,NA,NA,NA,NA,1646,DOM
+Ecuador,total,2020-04-05,3646,100,180,NA,NA,NA,NA,NA,NA,NA,3366,ECU
+Egypt,total,2020-04-05,1173,247,78,NA,NA,NA,NA,NA,NA,NA,848,EGY
+El Salvador,total,2020-04-05,62,2,3,NA,NA,NA,NA,NA,NA,NA,57,SLV
+Equatorial Guinea,total,2020-04-05,16,1,0,NA,NA,NA,NA,NA,NA,NA,15,GNQ
+Eritrea,total,2020-04-05,29,0,0,NA,NA,NA,NA,NA,NA,NA,29,ERI
+Estonia,total,2020-04-05,1097,62,15,NA,NA,NA,NA,NA,NA,NA,1020,EST
+Eswatini,total,2020-04-05,9,0,0,NA,NA,NA,NA,NA,NA,NA,9,SWZ
+Ethiopia,total,2020-04-05,43,4,2,NA,NA,NA,NA,NA,NA,NA,37,ETH
+Fiji,total,2020-04-05,12,0,0,NA,NA,NA,NA,NA,NA,NA,12,FJI
+Finland,total,2020-04-05,1927,300,28,NA,NA,NA,NA,NA,NA,NA,1599,FIN
+France,French Guiana,2020-04-05,61,22,0,NA,NA,NA,NA,NA,NA,NA,39,FRA
+France,French Polynesia,2020-04-05,41,0,0,NA,NA,NA,NA,NA,NA,NA,41,FRA
+France,Guadeloupe,2020-04-05,135,31,7,NA,NA,NA,NA,NA,NA,NA,97,FRA
+France,Martinique,2020-04-05,149,50,4,NA,NA,NA,NA,NA,NA,NA,95,FRA
+France,Mayotte,2020-04-05,147,14,2,NA,NA,NA,NA,NA,NA,NA,131,FRA
+France,New Caledonia,2020-04-05,18,1,0,NA,NA,NA,NA,NA,NA,NA,17,FRA
+France,Reunion,2020-04-05,344,40,0,NA,NA,NA,NA,NA,NA,NA,304,FRA
+France,Saint Barthelemy,2020-04-05,6,1,0,NA,NA,NA,NA,NA,NA,NA,5,FRA
+France,Saint Pierre and Miquelon,2020-04-05,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,FRA
+France,St Martin,2020-04-05,32,7,2,NA,NA,NA,NA,NA,NA,NA,23,FRA
+Gabon,total,2020-04-05,21,1,1,NA,NA,NA,NA,NA,NA,NA,19,GAB
+Gambia,total,2020-04-05,4,2,1,NA,NA,NA,NA,NA,NA,NA,1,GMB
+Georgia,total,2020-04-05,174,36,2,NA,NA,NA,NA,NA,NA,NA,136,GEO
+Germany,total,2020-04-05,100123,28700,1584,NA,NA,NA,NA,NA,NA,NA,69839,DEU
+Ghana,total,2020-04-05,214,31,5,NA,NA,NA,NA,NA,NA,NA,178,GHA
+Greece,total,2020-04-05,1735,78,73,NA,NA,NA,NA,NA,NA,NA,1584,GRC
+Grenada,total,2020-04-05,12,0,0,NA,NA,NA,NA,NA,NA,NA,12,GRD
+Guatemala,total,2020-04-05,61,15,2,NA,NA,NA,NA,NA,NA,NA,44,GTM
+Guinea,total,2020-04-05,121,5,0,NA,NA,NA,NA,NA,NA,NA,116,GIN
+Guinea-Bissau,total,2020-04-05,18,0,0,NA,NA,NA,NA,NA,NA,NA,18,GNB
+Guyana,total,2020-04-05,24,0,4,NA,NA,NA,NA,NA,NA,NA,20,GUY
+Haiti,total,2020-04-05,21,1,1,NA,NA,NA,NA,NA,NA,NA,19,HTI
+Holy See,total,2020-04-05,7,0,0,NA,NA,NA,NA,NA,NA,NA,7,VAT
+Honduras,total,2020-04-05,268,6,22,NA,NA,NA,NA,NA,NA,NA,240,HND
+Hungary,total,2020-04-05,733,66,34,NA,NA,NA,NA,NA,NA,NA,633,HUN
+Iceland,total,2020-04-05,1486,428,4,NA,NA,NA,NA,NA,NA,NA,1054,ISL
+India,total,2020-04-05,3588,229,99,NA,NA,NA,NA,NA,NA,NA,3260,IND
+Indonesia,total,2020-04-05,2273,164,198,NA,NA,NA,NA,NA,NA,NA,1911,IDN
+Iran,total,2020-04-05,58226,19736,3603,NA,NA,NA,NA,NA,NA,NA,34887,IRN
+Iraq,total,2020-04-05,961,279,61,NA,NA,NA,NA,NA,NA,NA,621,IRQ
+Ireland,total,2020-04-05,4994,25,158,NA,NA,NA,NA,NA,NA,NA,4811,IRL
+Israel,total,2020-04-05,8430,477,49,NA,NA,NA,NA,NA,NA,NA,7904,ISR
+Jamaica,total,2020-04-05,58,8,3,NA,NA,NA,NA,NA,NA,NA,47,JAM
+Japan,total,2020-04-05,3139,514,77,NA,NA,NA,NA,NA,NA,NA,2548,JPN
+Jordan,total,2020-04-05,345,110,5,NA,NA,NA,NA,NA,NA,NA,230,JOR
+Kazakhstan,total,2020-04-05,584,42,6,NA,NA,NA,NA,NA,NA,NA,536,KAZ
+Kenya,total,2020-04-05,142,4,4,NA,NA,NA,NA,NA,NA,NA,134,KEN
+"Korea, South",total,2020-04-05,10237,6463,183,NA,NA,NA,NA,NA,NA,NA,3591,KOR
+Kosovo,total,2020-04-05,145,23,1,NA,NA,NA,NA,NA,NA,NA,121,RKS
+Kuwait,total,2020-04-05,556,99,1,NA,NA,NA,NA,NA,NA,NA,456,KWT
+Kyrgyzstan,total,2020-04-05,147,9,1,NA,NA,NA,NA,NA,NA,NA,137,KGZ
+Laos,total,2020-04-05,11,0,0,NA,NA,NA,NA,NA,NA,NA,11,LAO
+Latvia,total,2020-04-05,533,1,1,NA,NA,NA,NA,NA,NA,NA,531,LVA
+Lebanon,total,2020-04-05,527,54,18,NA,NA,NA,NA,NA,NA,NA,455,LBN
+Liberia,total,2020-04-05,13,3,3,NA,NA,NA,NA,NA,NA,NA,7,LBR
+Libya,total,2020-04-05,18,0,1,NA,NA,NA,NA,NA,NA,NA,17,LBY
+Liechtenstein,total,2020-04-05,77,0,1,NA,NA,NA,NA,NA,NA,NA,76,LIE
+Lithuania,total,2020-04-05,811,7,13,NA,NA,NA,NA,NA,NA,NA,791,LTU
+Luxembourg,total,2020-04-05,2804,500,36,NA,NA,NA,NA,NA,NA,NA,2268,LUX
+Madagascar,total,2020-04-05,72,2,0,NA,NA,NA,NA,NA,NA,NA,70,MDG
+Malawi,total,2020-04-05,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,MWI
+Malaysia,total,2020-04-05,3662,1005,61,NA,NA,NA,NA,NA,NA,NA,2596,MYS
+Maldives,total,2020-04-05,19,13,0,NA,NA,NA,NA,NA,NA,NA,6,MDV
+Mali,total,2020-04-05,45,1,5,NA,NA,NA,NA,NA,NA,NA,39,MLI
+Malta,total,2020-04-05,227,5,0,NA,NA,NA,NA,NA,NA,NA,222,MLT
+Mauritania,total,2020-04-05,6,2,1,NA,NA,NA,NA,NA,NA,NA,3,MRT
+Mauritius,total,2020-04-05,227,7,7,NA,NA,NA,NA,NA,NA,NA,213,MUS
+Mexico,total,2020-04-05,1890,633,79,NA,NA,NA,NA,NA,NA,NA,1178,MEX
+Moldova,total,2020-04-05,864,30,15,NA,NA,NA,NA,NA,NA,NA,819,MDA
+Monaco,total,2020-04-05,73,3,1,NA,NA,NA,NA,NA,NA,NA,69,MCO
+Mongolia,total,2020-04-05,14,2,0,NA,NA,NA,NA,NA,NA,NA,12,MNG
+Montenegro,total,2020-04-05,214,1,2,NA,NA,NA,NA,NA,NA,NA,211,MNE
+Morocco,total,2020-04-05,1021,76,70,NA,NA,NA,NA,NA,NA,NA,875,MAR
+Mozambique,total,2020-04-05,10,1,0,NA,NA,NA,NA,NA,NA,NA,9,MOZ
+MS Zaandam,total,2020-04-05,9,0,2,NA,NA,NA,NA,NA,NA,NA,7,cruise
+Namibia,total,2020-04-05,16,3,0,NA,NA,NA,NA,NA,NA,NA,13,NAM
+Nepal,total,2020-04-05,9,1,0,NA,NA,NA,NA,NA,NA,NA,8,NPL
+Netherlands,Aruba,2020-04-05,64,1,0,NA,NA,NA,NA,NA,NA,NA,63,NLD
+Netherlands,"Bonaire, Sint Eustatius and Saba",2020-04-05,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,NLD
+Netherlands,Curacao,2020-04-05,11,5,1,NA,NA,NA,NA,NA,NA,NA,5,NLD
+Netherlands,Sint Maarten,2020-04-05,25,1,4,NA,NA,NA,NA,NA,NA,NA,20,NLD
+New Zealand,total,2020-04-05,1039,156,1,NA,NA,NA,NA,NA,NA,NA,882,NZL
+Nicaragua,total,2020-04-05,6,0,1,NA,NA,NA,NA,NA,NA,NA,5,NIC
+Niger,total,2020-04-05,184,13,10,NA,NA,NA,NA,NA,NA,NA,161,NER
+Nigeria,total,2020-04-05,232,33,5,NA,NA,NA,NA,NA,NA,NA,194,NGA
+North Macedonia,total,2020-04-05,555,23,18,NA,NA,NA,NA,NA,NA,NA,514,MKD
+Norway,total,2020-04-05,5687,32,71,NA,NA,NA,NA,NA,NA,NA,5584,NOR
+Oman,total,2020-04-05,298,61,2,NA,NA,NA,NA,NA,NA,NA,235,OMN
+Pakistan,total,2020-04-05,3157,211,47,NA,NA,NA,NA,NA,NA,NA,2899,PAK
+Panama,total,2020-04-05,1801,13,46,NA,NA,NA,NA,NA,NA,NA,1742,PAN
+Papua New Guinea,total,2020-04-05,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,PNG
+Paraguay,total,2020-04-05,104,12,3,NA,NA,NA,NA,NA,NA,NA,89,PRY
+Peru,total,2020-04-05,2281,989,83,NA,NA,NA,NA,NA,NA,NA,1209,PER
+Philippines,total,2020-04-05,3246,64,152,NA,NA,NA,NA,NA,NA,NA,3030,PHL
+Poland,total,2020-04-05,4102,134,94,NA,NA,NA,NA,NA,NA,NA,3874,POL
+Portugal,total,2020-04-05,11278,75,295,NA,NA,NA,NA,NA,NA,NA,10908,PRT
+Qatar,total,2020-04-05,1604,123,4,NA,NA,NA,NA,NA,NA,NA,1477,QAT
+Romania,total,2020-04-05,3864,374,151,NA,NA,NA,NA,NA,NA,NA,3339,ROU
+Russia,total,2020-04-05,5389,355,45,NA,NA,NA,NA,NA,NA,NA,4989,RUS
+Rwanda,total,2020-04-05,104,4,0,NA,NA,NA,NA,NA,NA,NA,100,RWA
+Saint Kitts and Nevis,total,2020-04-05,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,KNA
+Saint Lucia,total,2020-04-05,14,1,0,NA,NA,NA,NA,NA,NA,NA,13,LCA
+Saint Vincent and the Grenadines,total,2020-04-05,7,1,0,NA,NA,NA,NA,NA,NA,NA,6,VCT
+San Marino,total,2020-04-05,266,35,32,NA,NA,NA,NA,NA,NA,NA,199,SMR
+Saudi Arabia,total,2020-04-05,2402,488,34,NA,NA,NA,NA,NA,NA,NA,1880,SAU
+Senegal,total,2020-04-05,222,82,2,NA,NA,NA,NA,NA,NA,NA,138,SEN
+Serbia,total,2020-04-05,1908,0,51,NA,NA,NA,NA,NA,NA,NA,1857,SRB
+Seychelles,total,2020-04-05,10,0,0,NA,NA,NA,NA,NA,NA,NA,10,SYC
+Sierra Leone,total,2020-04-05,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,SLE
+Singapore,total,2020-04-05,1309,320,6,NA,NA,NA,NA,NA,NA,NA,983,SGP
+Slovakia,total,2020-04-05,485,10,1,NA,NA,NA,NA,NA,NA,NA,474,SVK
+Slovenia,total,2020-04-05,997,79,28,NA,NA,NA,NA,NA,NA,NA,890,SVN
+Somalia,total,2020-04-05,7,1,0,NA,NA,NA,NA,NA,NA,NA,6,SOM
+South Africa,total,2020-04-05,1655,95,11,NA,NA,NA,NA,NA,NA,NA,1549,ZAF
+South Sudan,total,2020-04-05,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,SSD
+Spain,total,2020-04-05,131646,38080,12641,NA,NA,NA,NA,NA,NA,NA,80925,ESP
+Sri Lanka,total,2020-04-05,176,33,5,NA,NA,NA,NA,NA,NA,NA,138,LKA
+Sudan,total,2020-04-05,12,2,2,NA,NA,NA,NA,NA,NA,NA,8,SDN
+Suriname,total,2020-04-05,10,0,1,NA,NA,NA,NA,NA,NA,NA,9,SUR
+Sweden,total,2020-04-05,6830,205,401,NA,NA,NA,NA,NA,NA,NA,6224,SWE
+Switzerland,total,2020-04-05,21100,6415,715,NA,NA,NA,NA,NA,NA,NA,13970,CHE
+Syria,total,2020-04-05,19,2,2,NA,NA,NA,NA,NA,NA,NA,15,SYR
+Taiwan*,total,2020-04-05,363,50,5,NA,NA,NA,NA,NA,NA,NA,308,TWN
+Tanzania,total,2020-04-05,22,3,1,NA,NA,NA,NA,NA,NA,NA,18,TZA
+Thailand,total,2020-04-05,2169,793,23,NA,NA,NA,NA,NA,NA,NA,1353,THA
+Timor-Leste,total,2020-04-05,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,TLS
+Togo,total,2020-04-05,44,20,3,NA,NA,NA,NA,NA,NA,NA,21,TGO
+Trinidad and Tobago,total,2020-04-05,104,1,7,NA,NA,NA,NA,NA,NA,NA,96,TTO
+Tunisia,total,2020-04-05,574,5,22,NA,NA,NA,NA,NA,NA,NA,547,TUN
+Turkey,total,2020-04-05,27069,1042,574,NA,NA,NA,NA,NA,NA,NA,25453,TUR
+Uganda,total,2020-04-05,52,0,0,NA,NA,NA,NA,NA,NA,NA,52,UGA
+Ukraine,total,2020-04-05,1308,28,37,NA,NA,NA,NA,NA,NA,NA,1243,UKR
+United Arab Emirates,total,2020-04-05,1799,144,10,NA,NA,NA,NA,NA,NA,NA,1645,ARE
+United Kingdom,Anguilla,2020-04-05,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
+United Kingdom,Bermuda,2020-04-05,37,14,0,NA,NA,NA,NA,NA,NA,NA,23,GBR
+United Kingdom,British Virgin Islands,2020-04-05,3,0,0,NA,NA,NA,NA,NA,NA,NA,3,GBR
+United Kingdom,Cayman Islands,2020-04-05,35,1,1,NA,NA,NA,NA,NA,NA,NA,33,GBR
+United Kingdom,Channel Islands,2020-04-05,309,27,6,NA,NA,NA,NA,NA,NA,NA,276,GBR
+United Kingdom,Falkland Islands (Islas Malvinas),2020-04-05,2,0,0,NA,NA,NA,NA,NA,NA,NA,2,GBR
+United Kingdom,Gibraltar,2020-04-05,103,52,0,NA,NA,NA,NA,NA,NA,NA,51,GBR
+United Kingdom,Isle of Man,2020-04-05,127,0,1,NA,NA,NA,NA,NA,NA,NA,126,GBR
+United Kingdom,Montserrat,2020-04-05,6,0,0,NA,NA,NA,NA,NA,NA,NA,6,GBR
+United Kingdom,Turks and Caicos Islands,2020-04-05,5,0,1,NA,NA,NA,NA,NA,NA,NA,4,GBR
+Uruguay,total,2020-04-05,400,93,5,NA,NA,NA,NA,NA,NA,NA,302,URY
+US,total,2020-04-05,337072,17448,9619,NA,NA,NA,NA,NA,NA,NA,310005,USA
+Uzbekistan,total,2020-04-05,342,30,2,NA,NA,NA,NA,NA,NA,NA,310,UZB
+Venezuela,total,2020-04-05,159,52,7,NA,NA,NA,NA,NA,NA,NA,100,VEN
+Vietnam,total,2020-04-05,241,90,0,NA,NA,NA,NA,NA,NA,NA,151,VNM
+West Bank and Gaza,total,2020-04-05,237,25,1,NA,NA,NA,NA,NA,NA,NA,211,PSE
+Western Sahara,total,2020-04-05,4,0,0,NA,NA,NA,NA,NA,NA,NA,4,ESH
+Zambia,total,2020-04-05,39,3,1,NA,NA,NA,NA,NA,NA,NA,35,ZMB
+Zimbabwe,total,2020-04-05,9,0,1,NA,NA,NA,NA,NA,NA,NA,8,ZWE
 Italy,Abruzzo,2020-02-24,0,0,0,0,0,0,5,NA,NA,NA,0,ITA
 Italy,Basilicata,2020-02-24,0,0,0,0,0,0,0,NA,NA,NA,0,ITA
 Italy,P.A. Bolzano,2020-02-24,0,0,0,0,0,0,1,NA,NA,NA,0,ITA
@@ -20311,6 +20797,7 @@ Switzerland,AG,2020-04-02,592,NA,12,27,67,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AG,2020-04-03,626,NA,12,27,73,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AG,2020-04-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AG,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,AG,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20352,6 +20839,7 @@ Switzerland,AI,2020-04-02,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-04-03,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-04-04,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AI,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,AI,2020-04-06,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20393,6 +20881,7 @@ Switzerland,AR,2020-04-02,64,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-04-03,65,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-04-04,66,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,AR,2020-04-05,67,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,AR,2020-04-06,69,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20434,6 +20923,7 @@ Switzerland,BE,2020-04-02,1003,NA,23,24,80,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-04-03,1073,NA,26,30,79,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-04-04,1106,NA,28,35,78,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BE,2020-04-05,1137,NA,28,30,80,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BE,2020-04-06,1173,NA,31,35,82,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20475,6 +20965,7 @@ Switzerland,BL,2020-04-02,610,262,12,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-04-03,625,266,14,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-04-04,656,298,19,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BL,2020-04-05,670,369,19,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BL,2020-04-06,682,412,19,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-02-27,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20516,6 +21007,7 @@ Switzerland,BS,2020-04-02,718,350,19,17,102,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-04-03,758,397,21,17,98,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-04-04,771,434,24,16,96,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,BS,2020-04-05,794,460,26,15,91,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,BS,2020-04-06,803,481,26,13,86,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20557,6 +21049,7 @@ Switzerland,FR,2020-04-02,550,NA,26,23,57,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-04-03,588,NA,31,21,56,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-04-04,638,NA,37,21,68,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,FR,2020-04-05,669,NA,40,20,67,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,FR,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-02-25,0,NA,NA,0,0,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-02-26,1,NA,NA,0,1,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-02-27,1,NA,NA,0,1,NA,NA,NA,NA,NA,NA,CHE
@@ -20598,6 +21091,7 @@ Switzerland,GE,2020-04-02,2938,283,72,62,362,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-04-03,3220,284,78,65,359,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-04-04,3384,305,83,61,360,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GE,2020-04-05,NA,327,NA,56,368,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GE,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20639,6 +21133,7 @@ Switzerland,GL,2020-04-02,58,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-04-03,59,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-04-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GL,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GL,2020-04-06,63,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20679,7 +21174,8 @@ Switzerland,GR,2020-04-01,521,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-04-02,569,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-04-03,598,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,GR,2020-04-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,GR,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GR,2020-04-05,646,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,GR,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20721,6 +21217,7 @@ Switzerland,JU,2020-04-02,145,NA,NA,4,23,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-04-03,149,NA,NA,3,22,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-04-04,153,NA,NA,3,21,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,JU,2020-04-05,156,NA,NA,3,22,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,JU,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20762,6 +21259,7 @@ Switzerland,LU,2020-04-02,422,NA,7,11,55,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-04-03,449,NA,7,12,37,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-04-04,469,NA,7,12,37,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,LU,2020-04-05,478,NA,9,12,37,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,LU,2020-04-06,497,NA,9,12,37,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20803,6 +21301,7 @@ Switzerland,NE,2020-04-02,430,NA,23,12,49,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-04-03,433,NA,23,11,50,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-04-04,NA,NA,24,10,49,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NE,2020-04-05,NA,NA,NA,12,46,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NE,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20844,6 +21343,7 @@ Switzerland,NW,2020-04-02,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-04-03,79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-04-04,80,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,NW,2020-04-05,80,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,NW,2020-04-06,86,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20885,6 +21385,7 @@ Switzerland,OW,2020-04-02,51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-04-03,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-04-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,OW,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,OW,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20926,6 +21427,7 @@ Switzerland,SG,2020-04-02,480,49,8,11,53,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-04-03,480,50,8,12,63,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-04-04,504,62,9,13,66,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SG,2020-04-05,515,70,9,13,57,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SG,2020-04-06,532,75,11,12,58,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -20966,7 +21468,8 @@ Switzerland,SH,2020-04-01,44,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-04-02,47,NA,1,3,15,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-04-03,47,NA,1,3,3,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SH,2020-04-04,47,NA,1,3,9,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,SH,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SH,2020-04-05,49,NA,1,3,9,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SH,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -21008,6 +21511,7 @@ Switzerland,SO,2020-04-02,227,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-04-03,237,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-04-04,250,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SO,2020-04-05,258,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SO,2020-04-06,261,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -21049,6 +21553,7 @@ Switzerland,SZ,2020-04-02,155,65,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-04-03,164,75,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-04-04,168,92,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,SZ,2020-04-05,170,93,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,SZ,2020-04-06,178,93,6,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -21090,6 +21595,7 @@ Switzerland,TG,2020-04-02,179,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-04-03,198,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-04-04,208,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TG,2020-04-05,213,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,TG,2020-04-06,219,NA,7,14,20,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-02-25,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -21131,6 +21637,7 @@ Switzerland,TI,2020-04-02,2271,263,141,75,299,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-04-03,2377,287,155,75,295,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-04-04,2422,314,165,72,291,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,TI,2020-04-05,2508,340,177,74,288,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,TI,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -21172,6 +21679,7 @@ Switzerland,UR,2020-04-02,60,13,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-04-03,62,26,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-04-04,66,26,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,UR,2020-04-05,67,26,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,UR,2020-04-06,67,34,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -21212,7 +21720,8 @@ Switzerland,VD,2020-04-01,3639,NA,92,83,307,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-04-02,3796,NA,107,83,303,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-04-03,3915,NA,123,80,295,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VD,2020-04-04,4035,NA,138,80,293,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,VD,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,VD,2020-04-05,4115,NA,147,78,299,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,VD,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -21254,6 +21763,7 @@ Switzerland,VS,2020-04-02,1218,88,40,23,112,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-04-03,1273,91,45,27,117,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-04-04,1319,95,51,26,116,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,VS,2020-04-05,1356,NA,53,26,125,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,VS,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -21295,6 +21805,7 @@ Switzerland,ZG,2020-04-02,131,41,1,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-04-03,138,44,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-04-04,146,46,2,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZG,2020-04-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,ZG,2020-04-06,152,52,3,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-02-27,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
@@ -21336,6 +21847,7 @@ Switzerland,ZH,2020-04-02,2323,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-04-03,2452,NA,38,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-04-04,2492,NA,41,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,ZH,2020-04-05,2522,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,ZH,2020-04-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,CH,2020-02-25,1,0,0,0,0,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,CH,2020-02-26,2,0,0,0,1,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,CH,2020-02-27,4,0,0,0,1,NA,NA,NA,NA,NA,NA,CHE
@@ -21376,4 +21888,5 @@ Switzerland,CH,2020-04-01,18069,1478,515,369,1797,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,CH,2020-04-02,19133,1643,568,375,1868,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,CH,2020-04-03,20141,1749,629,383,1851,NA,NA,NA,NA,NA,NA,CHE
 Switzerland,CH,2020-04-04,20773,1901,687,379,1848,NA,NA,NA,NA,NA,NA,CHE
-Switzerland,CH,2020-04-05,21065,2055,715,371,1845,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-04-05,21195,2055,727,369,1840,NA,NA,NA,NA,NA,NA,CHE
+Switzerland,CH,2020-04-06,21323,2138,734,385,1869,NA,NA,NA,NA,NA,NA,CHE

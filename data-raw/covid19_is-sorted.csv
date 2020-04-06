@@ -22,7 +22,7 @@ Bahamas,total,TRUE,FALSE,TRUE
 Bahrain,total,TRUE,TRUE,TRUE
 Bangladesh,total,TRUE,TRUE,TRUE
 Barbados,total,TRUE,TRUE,TRUE
-Belarus,total,TRUE,TRUE,TRUE
+Belarus,total,TRUE,FALSE,TRUE
 Belgium,total,TRUE,FALSE,TRUE
 Belize,total,TRUE,TRUE,TRUE
 Benin,total,TRUE,TRUE,TRUE
@@ -99,7 +99,7 @@ Costa Rica,total,TRUE,TRUE,TRUE
 Cote d'Ivoire,total,TRUE,TRUE,TRUE
 Croatia,total,TRUE,TRUE,TRUE
 Cuba,total,TRUE,TRUE,TRUE
-Cyprus,total,TRUE,TRUE,TRUE
+Cyprus,total,TRUE,TRUE,FALSE
 Czechia,total,TRUE,TRUE,TRUE
 Denmark,Faroe Islands,TRUE,TRUE,TRUE
 Denmark,Greenland,TRUE,TRUE,TRUE
@@ -126,6 +126,7 @@ France,Mayotte,TRUE,TRUE,TRUE
 France,New Caledonia,FALSE,TRUE,TRUE
 France,Reunion,TRUE,TRUE,TRUE
 France,Saint Barthelemy,FALSE,TRUE,TRUE
+France,Saint Pierre and Miquelon,TRUE,TRUE,TRUE
 France,St Martin,TRUE,TRUE,TRUE
 France,total,TRUE,TRUE,TRUE
 Gabon,total,TRUE,TRUE,TRUE
@@ -210,8 +211,8 @@ Nepal,total,TRUE,TRUE,TRUE
 Netherlands,Aruba,TRUE,TRUE,TRUE
 Netherlands,"Bonaire, Sint Eustatius and Saba",TRUE,TRUE,TRUE
 Netherlands,Curacao,TRUE,TRUE,TRUE
-Netherlands,Sint Maarten,TRUE,TRUE,TRUE
-Netherlands,total,TRUE,TRUE,TRUE
+Netherlands,Sint Maarten,TRUE,FALSE,TRUE
+Netherlands,total,TRUE,FALSE,TRUE
 New Zealand,total,TRUE,TRUE,TRUE
 Nicaragua,total,TRUE,TRUE,TRUE
 Niger,total,TRUE,TRUE,TRUE
@@ -245,6 +246,7 @@ Slovakia,total,TRUE,FALSE,FALSE
 Slovenia,total,TRUE,TRUE,TRUE
 Somalia,total,TRUE,TRUE,TRUE
 South Africa,total,TRUE,TRUE,TRUE
+South Sudan,total,TRUE,TRUE,TRUE
 Spain,total,TRUE,TRUE,TRUE
 Sri Lanka,total,TRUE,FALSE,TRUE
 Sudan,total,TRUE,TRUE,TRUE
@@ -307,5 +309,6 @@ Uzbekistan,total,TRUE,TRUE,TRUE
 Venezuela,total,TRUE,TRUE,TRUE
 Vietnam,total,TRUE,TRUE,TRUE
 West Bank and Gaza,total,TRUE,TRUE,TRUE
+Western Sahara,total,TRUE,TRUE,TRUE
 Zambia,total,TRUE,TRUE,TRUE
 Zimbabwe,total,TRUE,TRUE,TRUE
