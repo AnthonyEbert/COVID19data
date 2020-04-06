@@ -12,7 +12,7 @@ x_week_daily_switzerland = covid19_sorted %>%
     diff_confirmed = c(0, diff(confirmed)),
     confirmed_past7days = zoo::rollsum(diff_confirmed, 7, fill = NA, align = "right")
   ) %>%
-  mutate(confirmed_past7days = ifelse(is.na(confirmed_past7days), confirmed, confirmed_past7days, diff_confirmed)) %>%
+  mutate(confirmed_past7days = ifelse(is.na(confirmed_past7days), confirmed, confirmed_past7days)) %>%
   arrange(date)%>%
   filter(Province.State != "total") %>%
   left_join(
@@ -23,7 +23,7 @@ x_week_daily_switzerland = covid19_sorted %>%
   ungroup() %>%
   arrange(date) %>%
   mutate(days_since = -as.numeric(first(date) - date)) %>%
-  select(Province.State, confirmed, confirmed_past7days, population, days_since, date) %>%
+  select(Province.State, confirmed, confirmed_past7days, population, days_since, date, diff_confirmed) %>%
   # filter(confirmed_past7days/confirmed >= 1e-3) %>%
   group_by(Province.State)
 
