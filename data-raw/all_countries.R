@@ -4,14 +4,7 @@ library(tidyr)
 library(COVID19data)
 
 # Download JHU data
-
-confirmed = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv") %>% jh_process(term = "confirmed")
-
-recovered = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv") %>% jh_process(term = "recovered")
-
-deaths = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv") %>% jh_process(term = "deaths")
-
-john_hopkins <- left_join(confirmed, recovered) %>% left_join(deaths) %>%
+john_hopkins <- johns_hopkins_data() %>%
   mutate(Province.State = forcats::fct_recode(Province.State, total = ""))
   # filter(!(Country.Region %in% c("Italy")))
 
@@ -33,11 +26,13 @@ italy = readr::read_csv("https://raw.githubusercontent.com/pcm-dpc/COVID-19/mast
 
 jh_italy <- dplyr::bind_rows(john_hopkins, italy)
 
+
 # Add Chinese data -------------------
 
 ## DXY ------------
 
-country_totals <- jh_italy %>% filter(Province.State != "total") %>%
+country_totals <- jh_italy %>%
+  filter(!((Country.Region == "Italy") & (Province.State == "total"))) %>%
   group_by(Country.Region, date) %>%
   summarise_if(is.numeric, sum) %>%
   mutate(Province.State = "total") %>%
@@ -154,7 +149,8 @@ covid19_sorted <- covid19_complete %>%
   group_by(Country.Region, Province.State) %>%
   arrange(date) %>%
   mutate(confirmed = cummax(NA0(confirmed)), recovered = cummax(NA0(recovered)), deaths = cummax(NA0(deaths))) %>%
-  mutate(active = confirmed - recovered - deaths)
+  mutate(active = confirmed - recovered - deaths) %>%
+  ungroup()
 
 readr::write_csv(covid19_sorted, "data-raw/covid19_sorted.csv")
 

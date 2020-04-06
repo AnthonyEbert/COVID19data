@@ -3,4 +3,5 @@
 export(NA0)
 export(accumulate_by)
 export(jh_process)
+export(johns_hopkins_data)
 export(left_join_fill)
