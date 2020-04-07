@@ -48,7 +48,7 @@ Canada,New Brunswick,TRUE,NA,TRUE
 Canada,Newfoundland and Labrador,TRUE,NA,TRUE
 Canada,Northwest Territories,TRUE,NA,TRUE
 Canada,Nova Scotia,TRUE,NA,TRUE
-Canada,Ontario,TRUE,NA,TRUE
+Canada,Ontario,FALSE,NA,TRUE
 Canada,Prince Edward Island,TRUE,NA,TRUE
 Canada,Quebec,TRUE,NA,FALSE
 Canada,Recovered,TRUE,NA,TRUE
@@ -117,7 +117,7 @@ Estonia,total,TRUE,TRUE,TRUE
 Eswatini,total,TRUE,TRUE,TRUE
 Ethiopia,total,TRUE,FALSE,TRUE
 Fiji,total,TRUE,TRUE,TRUE
-Finland,total,TRUE,TRUE,TRUE
+Finland,total,TRUE,TRUE,FALSE
 France,French Guiana,TRUE,TRUE,TRUE
 France,French Polynesia,TRUE,TRUE,TRUE
 France,Guadeloupe,TRUE,TRUE,TRUE
@@ -140,7 +140,7 @@ Guatemala,total,TRUE,TRUE,TRUE
 Guinea,total,TRUE,TRUE,TRUE
 Guinea-Bissau,total,TRUE,TRUE,TRUE
 Guyana,total,FALSE,TRUE,TRUE
-Haiti,total,TRUE,TRUE,TRUE
+Haiti,total,TRUE,FALSE,TRUE
 Holy See,total,TRUE,TRUE,TRUE
 Honduras,total,TRUE,TRUE,TRUE
 Hungary,total,TRUE,TRUE,TRUE
@@ -236,6 +236,7 @@ Saint Kitts and Nevis,total,TRUE,TRUE,TRUE
 Saint Lucia,total,TRUE,TRUE,TRUE
 Saint Vincent and the Grenadines,total,TRUE,TRUE,TRUE
 San Marino,total,TRUE,TRUE,TRUE
+Sao Tome and Principe,total,TRUE,TRUE,TRUE
 Saudi Arabia,total,TRUE,TRUE,TRUE
 Senegal,total,TRUE,TRUE,TRUE
 Serbia,total,TRUE,FALSE,FALSE
@@ -308,7 +309,7 @@ US,total,TRUE,TRUE,TRUE
 Uzbekistan,total,TRUE,TRUE,TRUE
 Venezuela,total,TRUE,TRUE,TRUE
 Vietnam,total,TRUE,TRUE,TRUE
-West Bank and Gaza,total,TRUE,TRUE,TRUE
+West Bank and Gaza,total,TRUE,FALSE,TRUE
 Western Sahara,total,TRUE,TRUE,TRUE
 Zambia,total,TRUE,TRUE,TRUE
 Zimbabwe,total,TRUE,TRUE,TRUE
