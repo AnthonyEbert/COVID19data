@@ -3,7 +3,7 @@ library(COVID19data)
 library(ggplot2)
 
 
-x_week_daily_switzerland = covid19_sorted %>%
+x_week_daily_switzerland = all_countries() %>%
   filter(alpha3 %in% c("CHE")) %>%
   filter(Province.State != "CH") %>%
   group_by(Country.Region, Province.State) %>%

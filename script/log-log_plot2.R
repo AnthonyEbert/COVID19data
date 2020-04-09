@@ -2,7 +2,7 @@ library(dplyr)
 library(COVID19data)
 library(ggplot2)
 
-x_week_daily = covid19_sorted %>%
+x_week_daily = all_countries() %>%
   #filter(alpha3 %in% c("USA", "KOR", "IRN", "IRL", "SWE", "AUS", "ITA", "CHN")) %>%
   group_by(Country.Region, Province.State) %>%
   arrange(date) %>%

@@ -5,7 +5,7 @@ library(ggplot2)
 
 ## Italy ------------------
 
-x_week_daily_italy = covid19_sorted %>%
+x_week_daily_italy = all_countries()  %>%
   filter(alpha3 %in% c("ITA")) %>%
   group_by(Country.Region, Province.State) %>%
   arrange(date) %>%
