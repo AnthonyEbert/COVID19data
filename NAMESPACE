@@ -2,6 +2,8 @@
 
 export(NA0)
 export(accumulate_by)
+export(all_countries)
 export(jh_process)
 export(johns_hopkins_data)
 export(left_join_fill)
+import(dplyr)
