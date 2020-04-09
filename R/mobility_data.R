@@ -5,7 +5,7 @@ mobility_data <- function(){
   col_types <- c("cdccDcddccdddD")
 
   mobility_dat <- readr::read_tsv(url_link, col_types = col_types) %>%
-    select("country_code", "region_name", "category", "baseline_comparison", "date") %>%
+    select("country_code", "region_name", "category", "trend", "date") %>%
     rename(alpha2 = country_code, Province.State = region_name) %>%
     filter(alpha2 %in% c("IT", "CH")) %>%
     mutate(Province.State = factor(Province.State) %>%
@@ -25,7 +25,7 @@ mobility_data <- function(){
     padr::fill_by_value(Province.State, value = "total") %>%
     dplyr::distinct(alpha2, Province.State, date, category, .keep_all = TRUE) %>%
     group_by(alpha2, Province.State, date) %>%
-    tidyr::spread(category, baseline_comparison)
+    tidyr::spread(category, trend)
 
   return(mobility_dat)
 }
