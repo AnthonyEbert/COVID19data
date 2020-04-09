@@ -22,7 +22,17 @@ all_countries <- function(){
     ) %>%
     mutate(Country.Region = "Italy")
 
-  jh_italy <- dplyr::bind_rows(john_hopkins, italy)
+  Trentino <- italy %>%
+    filter(Province.State %in% c("P.A. Trento", "P.A. Bolzano")) %>%
+    group_by(date) %>%
+    summarise_if(is.numeric, sum) %>%
+    mutate(Country.Region = "Italy", Province.State = "Trentino-Alto Adige")
+
+  italy <- italy %>%
+    filter(!(Province.State %in% c("P.A. Trento", "P.A. Bolzano")))
+
+  jh_italy <- dplyr::bind_rows(john_hopkins, italy) %>%
+    dplyr::bind_rows(Trentino)
 
 
   # Add Chinese data -------------------
@@ -120,13 +130,46 @@ all_countries <- function(){
     left_join(switzerland_hospitalized_symptoms) %>%
     left_join(switzerland_hospitalized_intensive) %>%
     mutate(hospitalized_symptoms = hospitalized_symptoms - hospitalized_intensive) %>%
-    mutate(Country.Region = "Switzerland")
+    mutate(Country.Region = "Switzerland") %>%
+    mutate(Province.State = factor(Province.State) %>%
+             forcats::fct_recode(
+               `Aargau` = "AG",
+               `Appenzell Ausserrhoden` = "AR",
+               `Appenzell Innerrhoden` = "AI",
+               `Basel City` = "BS",
+               `Basel-Landschaft` = "BL",
+               `Canton of Bern` = "BE",
+               `Canton of Zug` = "ZG",
+               `Fribourg` = "FR",
+               `Geneva` = "GE",
+               `Glarus` = "GL",
+               `Grisons` = "GR",
+               `Jura` = "JU",
+               `Lucerne` = "LU",
+               `Neuchâtel` = "NE",
+               `Nidwalden` = "NW",
+               `Obwalden` = "OW",
+               `Schaffhausen` = "SH",
+               `Schwyz` = "SZ",
+               `Solothurn` = "SO",
+               `St. Gallen` = "SG",
+               `Thurgau` = "TG",
+               `Ticino` = "TI",
+               `Uri` = "UR",
+               `Valais` = "VS",
+               `Vaud` = "VD",
+               `Zurich` = "ZH"
+             )
+    )
 
   covid19_complete <- dplyr::bind_rows(covid19_complete, switzerland)
 
   iso_info <- read.csv("https://raw.githubusercontent.com/AnthonyEbert/COVID-19_ISO-3166/master/JohnsHopkins-to-A3.csv")
+  country_codes <- read.csv("https://raw.githubusercontent.com/AnthonyEbert/COVID-19_ISO-3166/master/country_codes.csv")
 
-  covid19_complete <- covid19_complete %>% left_join(iso_info)
+  covid19_complete <- covid19_complete %>%
+    left_join(iso_info) %>%
+    left_join(country_codes %>% select(-Country.Region))
 
   # readr::write_csv(covid19_complete, "data-raw/covid19_complete.csv")
 
@@ -150,7 +193,7 @@ all_countries <- function(){
 
   # readr::write_csv(covid19_sorted, "data-raw/covid19_sorted.csv")
 
-  output <- covid19_sorted
+  output <- covid19_sorted %>% left_join(mobility_data(), by = c("alpha2", "Province.State", "date"))
 
   return(output)
 }

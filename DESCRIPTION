@@ -1,6 +1,6 @@
 Package: COVID19data
 Title: What the Package Does (One Line, Title Case)
-Version: 0.3.0
+Version: 0.4.0
 Authors@R: 
     person(given = "Anthony",
            family = "Ebert",
@@ -25,4 +25,5 @@ Imports:
     lazyeval,
     plotly,
     purrr,
-    tidyselect
+    tidyselect,
+    padr
