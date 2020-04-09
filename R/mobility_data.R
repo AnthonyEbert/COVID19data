@@ -25,7 +25,16 @@ mobility_data <- function(){
     padr::fill_by_value(Province.State, value = "total") %>%
     dplyr::distinct(alpha2, Province.State, date, category, .keep_all = TRUE) %>%
     group_by(alpha2, Province.State, date) %>%
-    tidyr::spread(category, trend)
+    mutate(category = factor(category) %>%
+             forcats::fct_recode(
+               `Grocery_Pharmacy` = "Grocery & pharmacy",
+               `Retail_recreation` = "Retail & recreation",
+               `Transit_stations` = "Transit stations"
+             )
+    ) %>%
+    tidyr::spread(category, trend) %>%
+    mutate(Workplace = coalesce(Workplace, Workplaces)) %>%
+    select(-Workplaces)
 
   return(mobility_dat)
 }
