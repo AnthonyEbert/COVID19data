@@ -7,6 +7,13 @@ italy <- covid19_sorted %>%
     susc_not_ill = 60317000 - confirmed
   )
 
+mobility_data = readr::read_csv("https://raw.githubusercontent.com/pastelsky/covid-19-mobility-tracker/master/output/IT/mobility-transit-stations.csv") %>%
+  mutate(Country.Region = "Italy", Province.State = "total", alpha3 = "ITA") %>%
+  rename(transit_stations = value) %>%
+  arrange(date)
+
+italy <- left_join(italy, mobility_data)
+
 readr::write_csv(italy, "data-raw/italy_all_full.csv")
 
 italy <- italy %>% filter(date >= "2020-02-24")
