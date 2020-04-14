@@ -1,7 +1,7 @@
 #' @export
 mobility_data <- function(){
 
-  url_link <- "https://raw.githubusercontent.com/nacnudus/google-location-coronavirus/master/2020-03-29-country.tsv"
+  url_link <- "https://raw.githubusercontent.com/nacnudus/google-location-coronavirus/master/2020-04-05-country.tsv"
   col_types <- c("cdccDcddccdddD")
 
   mobility_dat <- readr::read_tsv(url_link, col_types = col_types) %>%
