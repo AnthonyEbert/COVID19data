@@ -1,0 +1,155 @@
+
+R version 3.6.3 (2020-02-29) -- "Holding the Windsock"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> library(dplyr)
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+> library(COVID19data)
+
+Attaching package: ‘COVID19data’
+
+The following object is masked _by_ ‘.GlobalEnv’:
+
+    accumulate_by
+
+> library(ggplot2)
+> 
+> 
+> ## Italy ------------------
+> 
+> x_week_daily_italy = all_countries()  %>%
++   filter(alpha3 %in% c("ITA")) %>%
++   group_by(Country.Region, Province.State) %>%
++   arrange(date) %>%
++   mutate(
++     diff_confirmed = c(0, diff(confirmed)),
++     confirmed_past7days = zoo::rollsum(diff_confirmed, 7, fill = NA, align = "right")
++   ) %>%
++   mutate(confirmed_past7days = ifelse(is.na(confirmed_past7days), confirmed, confirmed_past7days)) %>%
++   arrange(date)%>%
++   filter(Province.State != "total") %>%
++   left_join(
++     read.csv(
++       "https://raw.githubusercontent.com/AnthonyEbert/COVID-19_ISO-3166/master/full_list.csv"
++     ) %>% select(alpha3, Province.State, population)
++   ) %>%
++   filter(alpha3 != "cruise") %>%
++   ungroup() %>%
++   arrange(date) %>%
++   mutate(days_since = -as.numeric(first(date) - date)) %>%
++   select(Province.State, confirmed, confirmed_past7days, population, days_since, date, diff_confirmed) %>%
++   filter(confirmed_past7days/confirmed >= 1e-3) %>%
++   group_by(Province.State) %>%
++   filter(confirmed > 50)
+Warning: 25911 parsing failures.
+row                   col               expected actual                                                                                     file
+  1 currentConfirmedCount no trailing characters     .0 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+  1 seriousCount          no trailing characters     .0 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+  1 suspectedIncr         no trailing characters     .0 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+  1 currentConfirmedIncr  no trailing characters     .0 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+  1 confirmedIncr         no trailing characters     .0 'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
+... ..................... ...................... ...... .................................................. [... truncated]
+Joining, by = c("date", "Province.State")
+Joining, by = c("date", "Province.State")
+Joining, by = c("date", "Province.State")
+Joining, by = c("date", "Province.State")
+Joining, by = "Country.Region"
+Joining, by = "alpha3"
+Joining, by = c("Province.State", "alpha3")
+There were 50 or more warnings (use warnings() to see the first 50)
+> 
+> x0 = x_week_daily_italy %>%
++   padr::pad(group = c("Province.State"), by = "date", start_val = lubridate::as_date("2020-01-28")) %>%
++   ungroup() %>%
++   arrange(date) %>%
++   mutate(days_since = -as.numeric(first(date) - date)) %>%
++   filter(date >= "2020-02-20")
+pad applied on the interval: day
+> 
+> x = x0 %>%
++   accumulate_by(~days_since) %>%
++   mutate(date2 = as.character(lubridate::as_date("2020-01-28") + frame)) %>%
++   mutate(frame = date2) %>%
++   mutate(
++     totale_casi = confirmed,
++     pre7giorni_casi = confirmed_past7days,
++     data = date,
++     regione = Province.State,
++     popolazione = population
++   )
+> 
+> z = ggplot(x) +
++   aes(
++     totale_casi/popolazione,
++     pre7giorni_casi/totale_casi,
++     frame = frame,
++     col = regione,
++     date = data,
++     totale_casi = totale_casi,
++     pre7giorni_casi = pre7giorni_casi,
++     diff_confirmed = diff_confirmed) +
++   scale_x_log10() +
++   scale_y_log10() +
++   geom_line() +
++   ggthemes::theme_few() +
++   guides(col = guide_legend("Fare doppio clic vederla da sola. Double click a region"))
+> 
+> z = z %>% plotly::ggplotly() %>%
++   plotly::partial_bundle(local = FALSE) %>%
++   plotly::animation_opts(redraw = FALSE)
+> 
+> htmlwidgets::saveWidget(z, "covid19_Italia.html", selfcontained = FALSE, title = 'Premere il pulsante "Play, Double click a country to see it by itself.')
+> 
+> z2 = ggplot(x) +
++   aes(
++     totale_casi,
++     pre7giorni_casi,
++     frame = frame,
++     col = regione,
++     date = data,
++     totale_casi = totale_casi,
++     pre7giorni_casi = pre7giorni_casi,
++     diff_confirmed = diff_confirmed) +
++   scale_x_log10(labels = scales::comma) +
++   scale_y_log10(labels = scales::comma) +
++   geom_line() +
++   ggthemes::theme_few() +
++   xlab("Total Confirmed Cases") +
++   ylab("New Confirmed Cases (in the Past Week)")
+> 
+> z2 = z2 %>% plotly::ggplotly(tooltip = c("colour", "date", "x","y")) %>%
++   plotly::partial_bundle(local = FALSE) %>%
++   plotly::animation_opts(redraw = FALSE)
+> 
+> htmlwidgets::saveWidget(z2, "covid19_original_Italia.html", selfcontained = FALSE, title = 'Premere il pulsante "Play, Double click a country to see it by itself.')
+> 
+> proc.time()
+   user  system elapsed 
+ 36.187   0.247  30.399 
