@@ -1,0 +1,44 @@
+---
+title: "Week effect Italy"
+output: pdf_document
+---
+
+```{r setup, include=FALSE, message=FALSE, warning=FALSE, cache=TRUE}
+library(COVID19data)
+library(dplyr)
+library(ggplot2)
+
+x = all_countries()
+```
+
+```{r cars}
+y = x %>% 
+  filter(alpha3 == "ITA", Province.State %in% c("Emilia-Romagna", "Lombardia", "total")) %>%
+  select(Province.State, date, confirmed, tested) %>%
+  group_by(Province.State, weekday = lubridate::wday(date, label = T, abbr = F)) %>%
+  mutate(
+    diff_confirmed = c(first(confirmed), diff(confirmed)), 
+    diff_tested = c(first(tested), diff(tested)),
+    weeknum = lubridate::week(date)
+  ) %>%
+  mutate(
+    diff_confirmed = pmax(diff_confirmed, 1e-1)
+  )
+
+y2 = y %>%
+  group_by(Province.State) %>%
+  filter(date > "2020-03-01") %>%
+  mutate(smoothed_confirmed = exp(loess(log(diff_confirmed) ~ as.numeric(date), span = 0.45) %>% predict())) %>%
+  mutate(epsilons = (diff_confirmed - smoothed_confirmed)/(smoothed_confirmed)) %>%
+  mutate(epsilons = ifelse(is.finite(epsilons), epsilons, NA))
+  
+ggplot(y2) + aes(x = date, y = smoothed_confirmed, col = Province.State) + geom_line() + geom_point(aes(y = diff_confirmed))
+```
+
+```{r}
+ggplot(y2) + 
+  aes(x = weekday, y = epsilons) +
+  geom_boxplot() + 
+  facet_wrap(~Province.State, ncol = 1)
+```
+
