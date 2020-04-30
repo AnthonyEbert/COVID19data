@@ -1,5 +1,5 @@
 
-R version 3.6.3 (2020-02-29) -- "Holding the Windsock"
+R version 4.0.0 (2020-04-24) -- "Arbor Day"
 Copyright (C) 2020 The R Foundation for Statistical Computing
 Platform: x86_64-pc-linux-gnu (64-bit)
 
@@ -65,7 +65,7 @@ The following object is masked _by_ ‘.GlobalEnv’:
 +   select(Province.State, confirmed, confirmed_past7days, population, days_since, date, diff_confirmed) %>%
 +   # filter(confirmed_past7days/confirmed >= 1e-3) %>%
 +   group_by(Province.State)
-Warning: 1386 parsing failures.
+Warning: 1407 parsing failures.
 row col   expected     actual                                                                                                 file
   1  -- 19 columns 20 columns 'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv'
   2  -- 19 columns 20 columns 'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv'
@@ -75,7 +75,7 @@ row col   expected     actual                                                   
 ... ... .......... .......... ....................................................................................................
 See problems(...) for more details.
 
-Warning: 27309 parsing failures.
+Warning: 27639 parsing failures.
 row                   col               expected                                                                                         actual                                                                                     file
   1 currentConfirmedCount no trailing characters .0                                                                                             'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
   1 seriousCount          no trailing characters .0                                                                                             'https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv'
@@ -156,4 +156,4 @@ Warning messages:
 > 
 > proc.time()
    user  system elapsed 
- 59.313   0.331  45.045 
+ 67.955   0.415  51.884 
