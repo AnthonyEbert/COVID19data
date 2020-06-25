@@ -8,7 +8,8 @@ all_countries <- function(){
 
   # Add Italian data --------------------
 
-  italy = readr::read_csv("https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv") %>%
+  italy = readr::read_csv("https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+                          col_types = "?cccddiiiiiiiiiiicc") %>%
     transmute(
       date = lubridate::as_date(data),
       Province.State = denominazione_regione,
@@ -49,19 +50,20 @@ all_countries <- function(){
   all_countries <- dplyr::bind_rows(country_totals, jh_italy) %>%
     dplyr::distinct(Country.Region, Province.State, date, .keep_all = TRUE)
 
-  china <- readr::read_csv("https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv") %>%
-    mutate(
-      date = lubridate::as_date(updateTime)
-    ) %>%
-    group_by(date) %>%
-    summarise(serious_cases = max(seriousCount, na.rm = TRUE)) %>%
-    mutate(
-      serious_cases = replace(.$serious_cases, !is.finite(.$serious_cases) | .$serious_cases == 0, NA),
-      Country.Region = "China",
-      Province.State = "total"
-    )
-
-  all_countries <- left_join(all_countries , china, by = c("Country.Region", "Province.State", "date"))
+  # china <- readr::read_csv("https://raw.githubusercontent.com/BlankerL/DXY-COVID-19-Data/master/csv/DXYOverall.csv",
+  #                          col_types = "ccccccciiiiiiiiiiiiccccccccccccccccccccc?") %>%
+  #   mutate(
+  #     date = lubridate::as_date(updateTime)
+  #   ) %>%
+  #   group_by(date) %>%
+  #   summarise(serious_cases = max(seriousCount, na.rm = TRUE)) %>%
+  #   mutate(
+  #     serious_cases = replace(.$serious_cases, !is.finite(.$serious_cases) | .$serious_cases == 0, NA),
+  #     Country.Region = "China",
+  #     Province.State = "total"
+  #   )
+  #
+  # all_countries <- left_join(all_countries , china, by = c("Country.Region", "Province.State", "date"))
 
   ## NHC -------------
 
